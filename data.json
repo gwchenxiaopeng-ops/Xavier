@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "exported_at": "2026-09-21T09:31:41+00:00",
+  "exported_at": "2026-09-21T09:48:58+00:00",
   "notice": "公开版不包含杂志文件或完整文章；文章入口跳转至 The Economist 官方网站。",
   "stats": {
     "issues": 4,
     "articles": 298,
-    "vocab": 200
+    "vocab": 169
   },
   "issues": [
     {
       "issue": "2026-09-19",
       "format": "PDF",
       "article_count": 76,
-      "vocab_count": 50
+      "vocab_count": 49
     },
     {
       "issue": "2026-09-12",
@@ -2734,7 +2734,19 @@
         "word"
       ],
       "article_title": "Researchers have created a mouse with a partly human brain",
-      "official_url": "https://www.economist.com/search?q=Researchers%20have%20created%20a%20mouse%20with%20a%20partly%20human%20brain"
+      "official_url": "https://www.economist.com/search?q=Researchers%20have%20created%20a%20mouse%20with%20a%20partly%20human%20brain",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 276",
+          "article_title": "Researchers have created a mouse with a partly human brain",
+          "official_url": "https://www.economist.com/search?q=Researchers%20have%20created%20a%20mouse%20with%20a%20partly%20human%20brain"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "worker protection",
@@ -2752,7 +2764,19 @@
         "word"
       ],
       "article_title": "Unemployment is becoming a way of life for China’s young",
-      "official_url": "https://www.economist.com/search?q=Unemployment%20is%20becoming%20a%20way%20of%20life%20for%20China%E2%80%99s%20young"
+      "official_url": "https://www.economist.com/search?q=Unemployment%20is%20becoming%20a%20way%20of%20life%20for%20China%E2%80%99s%20young",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 88",
+          "article_title": "Unemployment is becoming a way of life for China’s young",
+          "official_url": "https://www.economist.com/search?q=Unemployment%20is%20becoming%20a%20way%20of%20life%20for%20China%E2%80%99s%20young"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "ultra-competitive",
@@ -2770,7 +2794,19 @@
         "word"
       ],
       "article_title": "China’s tutoring crackdown has created a black market",
-      "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20tutoring%20crackdown%20has%20created%20a%20black%20market"
+      "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20tutoring%20crackdown%20has%20created%20a%20black%20market",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 97",
+          "article_title": "China’s tutoring crackdown has created a black market",
+          "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20tutoring%20crackdown%20has%20created%20a%20black%20market"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "thermostat-twiddler",
@@ -2788,7 +2824,19 @@
         "word"
       ],
       "article_title": "A big-state prime minister meets a small-minded British public",
-      "official_url": "https://www.economist.com/search?q=A%20big-state%20prime%20minister%20meets%20a%20small-minded%20British%20public"
+      "official_url": "https://www.economist.com/search?q=A%20big-state%20prime%20minister%20meets%20a%20small-minded%20British%20public",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 197",
+          "article_title": "A big-state prime minister meets a small-minded British public",
+          "official_url": "https://www.economist.com/search?q=A%20big-state%20prime%20minister%20meets%20a%20small-minded%20British%20public"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "still-enthusiastic",
@@ -2806,7 +2854,19 @@
         "word"
       ],
       "article_title": "How House Republicans might fend off defeat",
-      "official_url": "https://www.economist.com/search?q=How%20House%20Republicans%20might%20fend%20off%20defeat"
+      "official_url": "https://www.economist.com/search?q=How%20House%20Republicans%20might%20fend%20off%20defeat",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 109",
+          "article_title": "How House Republicans might fend off defeat",
+          "official_url": "https://www.economist.com/search?q=How%20House%20Republicans%20might%20fend%20off%20defeat"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "shareholder-enforced",
@@ -2824,7 +2884,19 @@
         "word"
       ],
       "article_title": "How an oil-supply crisis could bring about an investment boom",
-      "official_url": "https://www.economist.com/search?q=How%20an%20oil-supply%20crisis%20could%20bring%20about%20an%20investment%20boom"
+      "official_url": "https://www.economist.com/search?q=How%20an%20oil-supply%20crisis%20could%20bring%20about%20an%20investment%20boom",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 218",
+          "article_title": "How an oil-supply crisis could bring about an investment boom",
+          "official_url": "https://www.economist.com/search?q=How%20an%20oil-supply%20crisis%20could%20bring%20about%20an%20investment%20boom"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "savage",
@@ -2842,7 +2914,19 @@
         "word"
       ],
       "article_title": "The selfish case for helping Ukraine has never been stronger",
-      "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger"
+      "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 20",
+          "article_title": "The selfish case for helping Ukraine has never been stronger",
+          "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "Russian-controlled",
@@ -2860,7 +2944,19 @@
         "word"
       ],
       "article_title": "Russia has entered a new phase of total war",
-      "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war"
+      "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 52",
+          "article_title": "Russia has entered a new phase of total war",
+          "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "rule of law",
@@ -2874,11 +2970,37 @@
       "page": "2026-09-19 · p. 29",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "How South Africa can avoid becoming a mobster state",
-      "official_url": "https://www.economist.com/search?q=How%20South%20Africa%20can%20avoid%20becoming%20a%20mobster%20state"
+      "official_url": "https://www.economist.com/search?q=How%20South%20Africa%20can%20avoid%20becoming%20a%20mobster%20state",
+      "issues": [
+        "2026-09-19",
+        "2026-09-05",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 29",
+          "article_title": "How South Africa can avoid becoming a mobster state",
+          "official_url": "https://www.economist.com/search?q=How%20South%20Africa%20can%20avoid%20becoming%20a%20mobster%20state"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 275",
+          "article_title": "Mexico is struggling to win over bond markets",
+          "official_url": "https://www.economist.com/search?q=Mexico%20is%20struggling%20to%20win%20over%20bond%20markets"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 11",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
+      ],
+      "occurrence_count": 3
     },
     {
       "term": "reality television",
@@ -2896,7 +3018,26 @@
         "word"
       ],
       "article_title": "Nannying for the ultra-rich is increasingly demanding—and lucrative",
-      "official_url": "https://www.economist.com/search?q=Nannying%20for%20the%20ultra-rich%20is%20increasingly%20demanding%E2%80%94and%20lucrative"
+      "official_url": "https://www.economist.com/search?q=Nannying%20for%20the%20ultra-rich%20is%20increasingly%20demanding%E2%80%94and%20lucrative",
+      "issues": [
+        "2026-09-19",
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 225",
+          "article_title": "Nannying for the ultra-rich is increasingly demanding—and lucrative",
+          "official_url": "https://www.economist.com/search?q=Nannying%20for%20the%20ultra-rich%20is%20increasingly%20demanding%E2%80%94and%20lucrative"
+        },
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 52",
+          "article_title": "The rise of retrofuturism",
+          "official_url": "https://www.economist.com/search?q=The%20rise%20of%20retrofuturism"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "ratchet",
@@ -2914,7 +3055,19 @@
         "word"
       ],
       "article_title": "The trickle-down economics of the AI boom",
-      "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom"
+      "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 256",
+          "article_title": "The trickle-down economics of the AI boom",
+          "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "professionalisation",
@@ -2932,7 +3085,19 @@
         "word"
       ],
       "article_title": "Don’t fear the inheritocracy",
-      "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20fear%20the%20inheritocracy"
+      "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20fear%20the%20inheritocracy",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 42",
+          "article_title": "Don’t fear the inheritocracy",
+          "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20fear%20the%20inheritocracy"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "product liability",
@@ -2950,7 +3115,19 @@
         "word"
       ],
       "article_title": "Should Anthropic press pause on a potential $2trn IPO?",
-      "official_url": "https://www.economist.com/search?q=Should%20Anthropic%20press%20pause%20on%20a%20potential%20%242trn%20IPO%3F"
+      "official_url": "https://www.economist.com/search?q=Should%20Anthropic%20press%20pause%20on%20a%20potential%20%242trn%20IPO%3F",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 214",
+          "article_title": "Should Anthropic press pause on a potential $2trn IPO?",
+          "official_url": "https://www.economist.com/search?q=Should%20Anthropic%20press%20pause%20on%20a%20potential%20%242trn%20IPO%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "price-to-cash-flow multiple",
@@ -2968,7 +3145,19 @@
         "word"
       ],
       "article_title": "How an oil-supply crisis could bring about an investment boom",
-      "official_url": "https://www.economist.com/search?q=How%20an%20oil-supply%20crisis%20could%20bring%20about%20an%20investment%20boom"
+      "official_url": "https://www.economist.com/search?q=How%20an%20oil-supply%20crisis%20could%20bring%20about%20an%20investment%20boom",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 222",
+          "article_title": "How an oil-supply crisis could bring about an investment boom",
+          "official_url": "https://www.economist.com/search?q=How%20an%20oil-supply%20crisis%20could%20bring%20about%20an%20investment%20boom"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "popcorn-flavoured",
@@ -2986,7 +3175,19 @@
         "word"
       ],
       "article_title": "Alternatives to milk are losing moomentum",
-      "official_url": "https://www.economist.com/search?q=Alternatives%20to%20milk%20are%20losing%20moomentum"
+      "official_url": "https://www.economist.com/search?q=Alternatives%20to%20milk%20are%20losing%20moomentum",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 226",
+          "article_title": "Alternatives to milk are losing moomentum",
+          "official_url": "https://www.economist.com/search?q=Alternatives%20to%20milk%20are%20losing%20moomentum"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "Nobel prizewinner",
@@ -3004,7 +3205,19 @@
         "word"
       ],
       "article_title": "Ricardo Reis was too frank for the IMF",
-      "official_url": "https://www.economist.com/search?q=Ricardo%20Reis%20was%20too%20frank%20for%20the%20IMF"
+      "official_url": "https://www.economist.com/search?q=Ricardo%20Reis%20was%20too%20frank%20for%20the%20IMF",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 264",
+          "article_title": "Ricardo Reis was too frank for the IMF",
+          "official_url": "https://www.economist.com/search?q=Ricardo%20Reis%20was%20too%20frank%20for%20the%20IMF"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "national security",
@@ -3022,7 +3235,26 @@
         "word"
       ],
       "article_title": "Bond markets aren’t just running a temperature",
-      "official_url": "https://www.economist.com/search?q=Bond%20markets%20aren%E2%80%99t%20just%20running%20a%20temperature"
+      "official_url": "https://www.economist.com/search?q=Bond%20markets%20aren%E2%80%99t%20just%20running%20a%20temperature",
+      "issues": [
+        "2026-09-19",
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 46",
+          "article_title": "Bond markets aren’t just running a temperature",
+          "official_url": "https://www.economist.com/search?q=Bond%20markets%20aren%E2%80%99t%20just%20running%20a%20temperature"
+        },
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 20",
+          "article_title": "Tung Chee-hwa, Hong Kong’s first chief executive, has died",
+          "official_url": "https://www.economist.com/search?q=Tung%20Chee-hwa%2C%20Hong%20Kong%E2%80%99s%20first%20chief%20executive%2C%20has%20died"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "multitrillion-dollar",
@@ -3040,7 +3272,19 @@
         "word"
       ],
       "article_title": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
-      "official_url": "https://www.economist.com/search?q=Soaring%20bond%20yields%2C%20gaping%20deficits%20and%20towering%20debts%3A%20what%20could%20go%20wrong%3F"
+      "official_url": "https://www.economist.com/search?q=Soaring%20bond%20yields%2C%20gaping%20deficits%20and%20towering%20debts%3A%20what%20could%20go%20wrong%3F",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 242",
+          "article_title": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
+          "official_url": "https://www.economist.com/search?q=Soaring%20bond%20yields%2C%20gaping%20deficits%20and%20towering%20debts%3A%20what%20could%20go%20wrong%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "missile launchers",
@@ -3058,7 +3302,19 @@
         "word"
       ],
       "article_title": "The selfish case for helping Ukraine has never been stronger",
-      "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger"
+      "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 21",
+          "article_title": "The selfish case for helping Ukraine has never been stronger",
+          "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "mental arithmetic",
@@ -3076,7 +3332,19 @@
         "word"
       ],
       "article_title": "Top mathematicians are outraged by OpenAI’s methods",
-      "official_url": "https://www.economist.com/search?q=Top%20mathematicians%20are%20outraged%20by%20OpenAI%E2%80%99s%20methods"
+      "official_url": "https://www.economist.com/search?q=Top%20mathematicians%20are%20outraged%20by%20OpenAI%E2%80%99s%20methods",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 274",
+          "article_title": "Top mathematicians are outraged by OpenAI’s methods",
+          "official_url": "https://www.economist.com/search?q=Top%20mathematicians%20are%20outraged%20by%20OpenAI%E2%80%99s%20methods"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "mass surveillance",
@@ -3094,7 +3362,19 @@
         "word"
       ],
       "article_title": "Can the AI arms race be stopped?",
-      "official_url": "https://www.economist.com/search?q=Can%20the%20AI%20arms%20race%20be%20stopped%3F"
+      "official_url": "https://www.economist.com/search?q=Can%20the%20AI%20arms%20race%20be%20stopped%3F",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 17",
+          "article_title": "Can the AI arms race be stopped?",
+          "official_url": "https://www.economist.com/search?q=Can%20the%20AI%20arms%20race%20be%20stopped%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "manufacturing-led",
@@ -3112,7 +3392,19 @@
         "word"
       ],
       "article_title": "The GDP-per-person slowdown threatens global living standards",
-      "official_url": "https://www.economist.com/search?q=The%20GDP-per-person%20slowdown%20threatens%20global%20living%20standards"
+      "official_url": "https://www.economist.com/search?q=The%20GDP-per-person%20slowdown%20threatens%20global%20living%20standards",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 261",
+          "article_title": "The GDP-per-person slowdown threatens global living standards",
+          "official_url": "https://www.economist.com/search?q=The%20GDP-per-person%20slowdown%20threatens%20global%20living%20standards"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "less-than-omnipotent",
@@ -3130,7 +3422,19 @@
         "word"
       ],
       "article_title": "Agreeing to make AI safer may be impossible",
-      "official_url": "https://www.economist.com/search?q=Agreeing%20to%20make%20AI%20safer%20may%20be%20impossible"
+      "official_url": "https://www.economist.com/search?q=Agreeing%20to%20make%20AI%20safer%20may%20be%20impossible",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 203",
+          "article_title": "Agreeing to make AI safer may be impossible",
+          "official_url": "https://www.economist.com/search?q=Agreeing%20to%20make%20AI%20safer%20may%20be%20impossible"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "leftist populists",
@@ -3148,7 +3452,19 @@
         "word"
       ],
       "article_title": "Politics",
-      "official_url": "https://www.economist.com/search?q=Politics"
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 8",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "investor relations",
@@ -3166,7 +3482,19 @@
         "word"
       ],
       "article_title": "Sleep like a pro",
-      "official_url": "https://www.economist.com/search?q=Sleep%20like%20a%20pro"
+      "official_url": "https://www.economist.com/search?q=Sleep%20like%20a%20pro",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 230",
+          "article_title": "Sleep like a pro",
+          "official_url": "https://www.economist.com/search?q=Sleep%20like%20a%20pro"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "information sharing",
@@ -3184,7 +3512,19 @@
         "word"
       ],
       "article_title": "Real co-operation on AI is likely to elude China and America",
-      "official_url": "https://www.economist.com/search?q=Real%20co-operation%20on%20AI%20is%20likely%20to%20elude%20China%20and%20America"
+      "official_url": "https://www.economist.com/search?q=Real%20co-operation%20on%20AI%20is%20likely%20to%20elude%20China%20and%20America",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 82",
+          "article_title": "Real co-operation on AI is likely to elude China and America",
+          "official_url": "https://www.economist.com/search?q=Real%20co-operation%20on%20AI%20is%20likely%20to%20elude%20China%20and%20America"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "in turn",
@@ -3198,11 +3538,44 @@
       "page": "2026-09-19 · p. 85",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "China and America are likely to keep the trade peace",
-      "official_url": "https://www.economist.com/search?q=China%20and%20America%20are%20likely%20to%20keep%20the%20trade%20peace"
+      "official_url": "https://www.economist.com/search?q=China%20and%20America%20are%20likely%20to%20keep%20the%20trade%20peace",
+      "issues": [
+        "2026-09-19",
+        "2026-09-12",
+        "2026-09-05",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 85",
+          "article_title": "China and America are likely to keep the trade peace",
+          "official_url": "https://www.economist.com/search?q=China%20and%20America%20are%20likely%20to%20keep%20the%20trade%20peace"
+        },
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 13",
+          "article_title": "Takaichi Sanae's big-spending plans are unnerving markets",
+          "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 23",
+          "article_title": "Donald Trump’s Venezuela deal is bold but dodgy",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20Venezuela%20deal%20is%20bold%20but%20dodgy"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 256",
+          "article_title": "The universe is peculiar. But it may soon become less so",
+          "official_url": "https://www.economist.com/search?q=The%20universe%20is%20peculiar.%20But%20it%20may%20soon%20become%20less%20so"
+        }
+      ],
+      "occurrence_count": 4
     },
     {
       "term": "grandmaster-level",
@@ -3220,7 +3593,19 @@
         "word"
       ],
       "article_title": "China is not ready for a post-American world",
-      "official_url": "https://www.economist.com/search?q=China%20is%20not%20ready%20for%20a%20post-American%20world"
+      "official_url": "https://www.economist.com/search?q=China%20is%20not%20ready%20for%20a%20post-American%20world",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 209",
+          "article_title": "China is not ready for a post-American world",
+          "official_url": "https://www.economist.com/search?q=China%20is%20not%20ready%20for%20a%20post-American%20world"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "government-backed",
@@ -3234,11 +3619,37 @@
       "page": "2026-09-19 · p. 255",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "The trickle-down economics of the AI boom",
-      "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom"
+      "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom",
+      "issues": [
+        "2026-09-19",
+        "2026-09-12",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 255",
+          "article_title": "The trickle-down economics of the AI boom",
+          "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom"
+        },
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 13",
+          "article_title": "Takaichi Sanae's big-spending plans are unnerving markets",
+          "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 129",
+          "article_title": "How the Houthis have become the most fearsome of Iran’s allies",
+          "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies"
+        }
+      ],
+      "occurrence_count": 3
     },
     {
       "term": "gangster-coddling",
@@ -3256,7 +3667,19 @@
         "word"
       ],
       "article_title": "How South Africa can avoid becoming a mobster state",
-      "official_url": "https://www.economist.com/search?q=How%20South%20Africa%20can%20avoid%20becoming%20a%20mobster%20state"
+      "official_url": "https://www.economist.com/search?q=How%20South%20Africa%20can%20avoid%20becoming%20a%20mobster%20state",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 28",
+          "article_title": "How South Africa can avoid becoming a mobster state",
+          "official_url": "https://www.economist.com/search?q=How%20South%20Africa%20can%20avoid%20becoming%20a%20mobster%20state"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "first-person view",
@@ -3274,7 +3697,19 @@
         "word"
       ],
       "article_title": "Russia has entered a new phase of total war",
-      "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war"
+      "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 51",
+          "article_title": "Russia has entered a new phase of total war",
+          "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "family-controlled",
@@ -3292,7 +3727,19 @@
         "word"
       ],
       "article_title": "Don’t fear the inheritocracy",
-      "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20fear%20the%20inheritocracy"
+      "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20fear%20the%20inheritocracy",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 42",
+          "article_title": "Don’t fear the inheritocracy",
+          "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20fear%20the%20inheritocracy"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "endure",
@@ -3306,11 +3753,44 @@
       "page": "2026-09-19 · p. 68",
       "category": "usage",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "An electoral result that helps Japan’s defence buildup",
-      "official_url": "https://www.economist.com/search?q=An%20electoral%20result%20that%20helps%20Japan%E2%80%99s%20defence%20buildup"
+      "official_url": "https://www.economist.com/search?q=An%20electoral%20result%20that%20helps%20Japan%E2%80%99s%20defence%20buildup",
+      "issues": [
+        "2026-09-19",
+        "2026-09-12",
+        "2026-09-05",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 68",
+          "article_title": "An electoral result that helps Japan’s defence buildup",
+          "official_url": "https://www.economist.com/search?q=An%20electoral%20result%20that%20helps%20Japan%E2%80%99s%20defence%20buildup"
+        },
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 3",
+          "article_title": "The truth and the lies about Islam in Europe",
+          "official_url": "https://www.economist.com/search?q=The%20truth%20and%20the%20lies%20about%20Islam%20in%20Europe"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 39",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 29",
+          "article_title": "America’s new sanctions are unlikely to topple Iran’s regime",
+          "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20new%20sanctions%20are%20unlikely%20to%20topple%20Iran%E2%80%99s%20regime"
+        }
+      ],
+      "occurrence_count": 4
     },
     {
       "term": "domestic security",
@@ -3328,7 +3808,26 @@
         "word"
       ],
       "article_title": "The Emmy winners worth your time (and one that isn’t)",
-      "official_url": "https://www.economist.com/search?q=The%20Emmy%20winners%20worth%20your%20time%20%28and%20one%20that%20isn%E2%80%99t%29"
+      "official_url": "https://www.economist.com/search?q=The%20Emmy%20winners%20worth%20your%20time%20%28and%20one%20that%20isn%E2%80%99t%29",
+      "issues": [
+        "2026-09-19",
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 299",
+          "article_title": "The Emmy winners worth your time (and one that isn’t)",
+          "official_url": "https://www.economist.com/search?q=The%20Emmy%20winners%20worth%20your%20time%20%28and%20one%20that%20isn%E2%80%99t%29"
+        },
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 38",
+          "article_title": "Islamism is a threat to Britain. Islam is not",
+          "official_url": "https://www.economist.com/search?q=Islamism%20is%20a%20threat%20to%20Britain.%20Islam%20is%20not"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "defined-contribution",
@@ -3346,7 +3845,26 @@
         "word"
       ],
       "article_title": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
-      "official_url": "https://www.economist.com/search?q=Soaring%20bond%20yields%2C%20gaping%20deficits%20and%20towering%20debts%3A%20what%20could%20go%20wrong%3F"
+      "official_url": "https://www.economist.com/search?q=Soaring%20bond%20yields%2C%20gaping%20deficits%20and%20towering%20debts%3A%20what%20could%20go%20wrong%3F",
+      "issues": [
+        "2026-09-19",
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 243",
+          "article_title": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
+          "official_url": "https://www.economist.com/search?q=Soaring%20bond%20yields%2C%20gaping%20deficits%20and%20towering%20debts%3A%20what%20could%20go%20wrong%3F"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 273",
+          "article_title": "Europe’s bond markets are suffering a post- holiday shock",
+          "official_url": "https://www.economist.com/search?q=Europe%E2%80%99s%20bond%20markets%20are%20suffering%20a%20post-%20holiday%20shock"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "critical thinking",
@@ -3364,7 +3882,19 @@
         "word"
       ],
       "article_title": "Top mathematicians are outraged by OpenAI’s methods",
-      "official_url": "https://www.economist.com/search?q=Top%20mathematicians%20are%20outraged%20by%20OpenAI%E2%80%99s%20methods"
+      "official_url": "https://www.economist.com/search?q=Top%20mathematicians%20are%20outraged%20by%20OpenAI%E2%80%99s%20methods",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 275",
+          "article_title": "Top mathematicians are outraged by OpenAI’s methods",
+          "official_url": "https://www.economist.com/search?q=Top%20mathematicians%20are%20outraged%20by%20OpenAI%E2%80%99s%20methods"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "counter-offensive",
@@ -3382,7 +3912,19 @@
         "word"
       ],
       "article_title": "Iran’s allies now menace a second maritime choke point",
-      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20allies%20now%20menace%20a%20second%20maritime%20choke%20point"
+      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20allies%20now%20menace%20a%20second%20maritime%20choke%20point",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 145",
+          "article_title": "Iran’s allies now menace a second maritime choke point",
+          "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20allies%20now%20menace%20a%20second%20maritime%20choke%20point"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "commander-in-chief",
@@ -3396,11 +3938,37 @@
       "page": "2026-09-19 · p. 55",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Russia has entered a new phase of total war",
-      "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war"
+      "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war",
+      "issues": [
+        "2026-09-19",
+        "2026-09-12",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 55",
+          "article_title": "Russia has entered a new phase of total war",
+          "official_url": "https://www.economist.com/search?q=Russia%20has%20entered%20a%20new%20phase%20of%20total%20war"
+        },
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 44",
+          "article_title": "World leaders are losing their terror of nuclear war",
+          "official_url": "https://www.economist.com/search?q=World%20leaders%20are%20losing%20their%20terror%20of%20nuclear%20war"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 195",
+          "article_title": "As his presidency flounders, Trump is more dangerous than ever",
+          "official_url": "https://www.economist.com/search?q=As%20his%20presidency%20flounders%2C%20Trump%20is%20more%20dangerous%20than%20ever"
+        }
+      ],
+      "occurrence_count": 3
     },
     {
       "term": "China antagonists",
@@ -3418,7 +3986,19 @@
         "word"
       ],
       "article_title": "Why Europe’s populists forget to bash China",
-      "official_url": "https://www.economist.com/search?q=Why%20Europe%E2%80%99s%20populists%20forget%20to%20bash%20China"
+      "official_url": "https://www.economist.com/search?q=Why%20Europe%E2%80%99s%20populists%20forget%20to%20bash%20China",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 175",
+          "article_title": "Why Europe’s populists forget to bash China",
+          "official_url": "https://www.economist.com/search?q=Why%20Europe%E2%80%99s%20populists%20forget%20to%20bash%20China"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "business software",
@@ -3436,7 +4016,19 @@
         "word"
       ],
       "article_title": "What Manchester reveals about Andy Burnham’s tech ambitions",
-      "official_url": "https://www.economist.com/search?q=What%20Manchester%20reveals%20about%20Andy%20Burnham%E2%80%99s%20tech%20ambitions"
+      "official_url": "https://www.economist.com/search?q=What%20Manchester%20reveals%20about%20Andy%20Burnham%E2%80%99s%20tech%20ambitions",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 193",
+          "article_title": "What Manchester reveals about Andy Burnham’s tech ambitions",
+          "official_url": "https://www.economist.com/search?q=What%20Manchester%20reveals%20about%20Andy%20Burnham%E2%80%99s%20tech%20ambitions"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "bluster",
@@ -3454,7 +4046,26 @@
         "word"
       ],
       "article_title": "Scott Bessent should stop blaming the bond market",
-      "official_url": "https://www.economist.com/search?q=Scott%20Bessent%20should%20stop%20blaming%20the%20bond%20market"
+      "official_url": "https://www.economist.com/search?q=Scott%20Bessent%20should%20stop%20blaming%20the%20bond%20market",
+      "issues": [
+        "2026-09-19",
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 247",
+          "article_title": "Scott Bessent should stop blaming the bond market",
+          "official_url": "https://www.economist.com/search?q=Scott%20Bessent%20should%20stop%20blaming%20the%20bond%20market"
+        },
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 8",
+          "article_title": "Argentina needs less shouting and more growth",
+          "official_url": "https://www.economist.com/search?q=Argentina%20needs%20less%20shouting%20and%20more%20growth"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "Biden-administration",
@@ -3472,7 +4083,19 @@
         "word"
       ],
       "article_title": "Politics",
-      "official_url": "https://www.economist.com/search?q=Politics"
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 9",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "battlefield drone",
@@ -3490,7 +4113,19 @@
         "word"
       ],
       "article_title": "Can the AI arms race be stopped?",
-      "official_url": "https://www.economist.com/search?q=Can%20the%20AI%20arms%20race%20be%20stopped%3F"
+      "official_url": "https://www.economist.com/search?q=Can%20the%20AI%20arms%20race%20be%20stopped%3F",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 17",
+          "article_title": "Can the AI arms race be stopped?",
+          "official_url": "https://www.economist.com/search?q=Can%20the%20AI%20arms%20race%20be%20stopped%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "Balassa-Samuelson effect",
@@ -3508,7 +4143,19 @@
         "word"
       ],
       "article_title": "The trickle-down economics of the AI boom",
-      "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom"
+      "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 255",
+          "article_title": "The trickle-down economics of the AI boom",
+          "official_url": "https://www.economist.com/search?q=The%20trickle-down%20economics%20of%20the%20AI%20boom"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "asset management",
@@ -3526,7 +4173,26 @@
         "word"
       ],
       "article_title": "At last, India is getting serious about selling state assets",
-      "official_url": "https://www.economist.com/search?q=At%20last%2C%20India%20is%20getting%20serious%20about%20selling%20state%20assets"
+      "official_url": "https://www.economist.com/search?q=At%20last%2C%20India%20is%20getting%20serious%20about%20selling%20state%20assets",
+      "issues": [
+        "2026-09-19",
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 233",
+          "article_title": "At last, India is getting serious about selling state assets",
+          "official_url": "https://www.economist.com/search?q=At%20last%2C%20India%20is%20getting%20serious%20about%20selling%20state%20assets"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 314",
+          "article_title": "Museums and galleries are turning to individual patrons",
+          "official_url": "https://www.economist.com/search?q=Museums%20and%20galleries%20are%20turning%20to%20individual%20patrons"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "antiques trading",
@@ -3544,7 +4210,19 @@
         "word"
       ],
       "article_title": "Gloria Steinem changed the world for American women",
-      "official_url": "https://www.economist.com/search?q=Gloria%20Steinem%20changed%20the%20world%20for%20American%20women"
+      "official_url": "https://www.economist.com/search?q=Gloria%20Steinem%20changed%20the%20world%20for%20American%20women",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 311",
+          "article_title": "Gloria Steinem changed the world for American women",
+          "official_url": "https://www.economist.com/search?q=Gloria%20Steinem%20changed%20the%20world%20for%20American%20women"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "already-slumping",
@@ -3562,7 +4240,19 @@
         "word"
       ],
       "article_title": "The selfish case for helping Ukraine has never been stronger",
-      "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger"
+      "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger",
+      "issues": [
+        "2026-09-19"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 21",
+          "article_title": "The selfish case for helping Ukraine has never been stronger",
+          "official_url": "https://www.economist.com/search?q=The%20selfish%20case%20for%20helping%20Ukraine%20has%20never%20been%20stronger"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "all the more",
@@ -3576,29 +4266,37 @@
       "page": "2026-09-19 · p. 64",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "China would face a “hellscape” in a war over Taiwan",
-      "official_url": "https://www.economist.com/search?q=China%20would%20face%20a%20%E2%80%9Chellscape%E2%80%9D%20in%20a%20war%20over%20Taiwan"
-    },
-    {
-      "term": "aircraft-carriers",
-      "pronunciation": "",
-      "meaning_en": "large warships that operate military aircraft",
-      "meaning_zh": "航空母舰",
-      "sentence": "The plan is for drones to exhaust China’s missile interceptors and damage its invasion flotilla sufficiently to make it easier for American aircraft-carriers, submarines and other…",
-      "mini_note": "aircraft carrier 的复数。",
-      "source": "The Economist · 2026-09-19",
-      "issue": "2026-09-19",
-      "page": "2026-09-19 · p. 64",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=China%20would%20face%20a%20%E2%80%9Chellscape%E2%80%9D%20in%20a%20war%20over%20Taiwan",
+      "issues": [
+        "2026-09-19",
+        "2026-09-05",
+        "2026-08-29"
       ],
-      "article_title": "China would face a “hellscape” in a war over Taiwan",
-      "official_url": "https://www.economist.com/search?q=China%20would%20face%20a%20%E2%80%9Chellscape%E2%80%9D%20in%20a%20war%20over%20Taiwan"
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 64",
+          "article_title": "China would face a “hellscape” in a war over Taiwan",
+          "official_url": "https://www.economist.com/search?q=China%20would%20face%20a%20%E2%80%9Chellscape%E2%80%9D%20in%20a%20war%20over%20Taiwan"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 13",
+          "article_title": "Business",
+          "official_url": "https://www.economist.com/search?q=Business"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 77",
+          "article_title": "The long arm of the Chinese state",
+          "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
+        }
+      ],
+      "occurrence_count": 3
     },
     {
       "term": "aircraft carrier",
@@ -3616,7 +4314,39 @@
         "word"
       ],
       "article_title": "Iran’s allies now menace a second maritime choke point",
-      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20allies%20now%20menace%20a%20second%20maritime%20choke%20point"
+      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20allies%20now%20menace%20a%20second%20maritime%20choke%20point",
+      "issues": [
+        "2026-09-19",
+        "2026-09-05",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 64",
+          "article_title": "China would face a “hellscape” in a war over Taiwan",
+          "official_url": "https://www.economist.com/search?q=China%20would%20face%20a%20%E2%80%9Chellscape%E2%80%9D%20in%20a%20war%20over%20Taiwan"
+        },
+        {
+          "issue": "2026-09-19",
+          "page": "2026-09-19 · p. 145",
+          "article_title": "Iran’s allies now menace a second maritime choke point",
+          "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20allies%20now%20menace%20a%20second%20maritime%20choke%20point"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 9",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 95",
+          "article_title": "From battleships to catapults, Trump keeps messing with the navy",
+          "official_url": "https://www.economist.com/search?q=From%20battleships%20to%20catapults%2C%20Trump%20keeps%20messing%20with%20the%20navy"
+        }
+      ],
+      "occurrence_count": 4
     },
     {
       "term": "social-media-driven",
@@ -3634,7 +4364,19 @@
         "word"
       ],
       "article_title": "The truth and the lies about Islam in Europe",
-      "official_url": "https://www.economist.com/search?q=The%20truth%20and%20the%20lies%20about%20Islam%20in%20Europe"
+      "official_url": "https://www.economist.com/search?q=The%20truth%20and%20the%20lies%20about%20Islam%20in%20Europe",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 3",
+          "article_title": "The truth and the lies about Islam in Europe",
+          "official_url": "https://www.economist.com/search?q=The%20truth%20and%20the%20lies%20about%20Islam%20in%20Europe"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "social-democratic",
@@ -3652,7 +4394,19 @@
         "word"
       ],
       "article_title": "Could AIs become conscious?",
-      "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F"
+      "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 9",
+          "article_title": "Could AIs become conscious?",
+          "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "semi-obsolescence",
@@ -3670,7 +4424,19 @@
         "word"
       ],
       "article_title": "This article wasn’t written by an AI. So what if it had been!",
-      "official_url": "https://www.economist.com/search?q=This%20article%20wasn%E2%80%99t%20written%20by%20an%20AI.%20So%20what%20if%20it%20had%20been%21"
+      "official_url": "https://www.economist.com/search?q=This%20article%20wasn%E2%80%99t%20written%20by%20an%20AI.%20So%20what%20if%20it%20had%20been%21",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 10",
+          "article_title": "This article wasn’t written by an AI. So what if it had been!",
+          "official_url": "https://www.economist.com/search?q=This%20article%20wasn%E2%80%99t%20written%20by%20an%20AI.%20So%20what%20if%20it%20had%20been%21"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "self-aggrandisement",
@@ -3688,7 +4454,19 @@
         "word"
       ],
       "article_title": "How Donald Trump boxed his party in",
-      "official_url": "https://www.economist.com/search?q=How%20Donald%20Trump%20boxed%20his%20party%20in"
+      "official_url": "https://www.economist.com/search?q=How%20Donald%20Trump%20boxed%20his%20party%20in",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 27",
+          "article_title": "How Donald Trump boxed his party in",
+          "official_url": "https://www.economist.com/search?q=How%20Donald%20Trump%20boxed%20his%20party%20in"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "Republican-leaning",
@@ -3706,7 +4484,19 @@
         "word"
       ],
       "article_title": "Donald Trump’s disintegrating coalition",
-      "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20disintegrating%20coalition"
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20disintegrating%20coalition",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 23",
+          "article_title": "Donald Trump’s disintegrating coalition",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20disintegrating%20coalition"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "religious studies",
@@ -3724,25 +4514,19 @@
         "word"
       ],
       "article_title": "Islamism is a threat to Britain. Islam is not",
-      "official_url": "https://www.economist.com/search?q=Islamism%20is%20a%20threat%20to%20Britain.%20Islam%20is%20not"
-    },
-    {
-      "term": "reality television",
-      "pronunciation": "",
-      "meaning_en": "television programmes featuring supposedly unscripted real people and situations",
-      "meaning_zh": "真人秀电视节目",
-      "sentence": "Kim Kardashian, a reality-television star, might seem like a mogul at peace with her time.",
-      "mini_note": "常简称 reality TV；supposedly unscripted 暗示节目虽称真实，仍可能经过制作和编排。",
-      "source": "The Economist · 2026-09-12",
-      "issue": "2026-09-12",
-      "page": "2026-09-12 · p. 52",
-      "category": "interesting",
-      "tags": [
-        "curated",
-        "word"
+      "official_url": "https://www.economist.com/search?q=Islamism%20is%20a%20threat%20to%20Britain.%20Islam%20is%20not",
+      "issues": [
+        "2026-09-12"
       ],
-      "article_title": "The rise of retrofuturism",
-      "official_url": "https://www.economist.com/search?q=The%20rise%20of%20retrofuturism"
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 38",
+          "article_title": "Islamism is a threat to Britain. Islam is not",
+          "official_url": "https://www.economist.com/search?q=Islamism%20is%20a%20threat%20to%20Britain.%20Islam%20is%20not"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "radiative cooling",
@@ -3760,7 +4544,19 @@
         "word"
       ],
       "article_title": "How to cool buildings on the cheap",
-      "official_url": "https://www.economist.com/search?q=How%20to%20cool%20buildings%20on%20the%20cheap"
+      "official_url": "https://www.economist.com/search?q=How%20to%20cool%20buildings%20on%20the%20cheap",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 59",
+          "article_title": "How to cool buildings on the cheap",
+          "official_url": "https://www.economist.com/search?q=How%20to%20cool%20buildings%20on%20the%20cheap"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "qualified majority",
@@ -3778,7 +4574,19 @@
         "word"
       ],
       "article_title": "Facing global crises, Europe rearranges the diplomatic deckchairs",
-      "official_url": "https://www.economist.com/search?q=Facing%20global%20crises%2C%20Europe%20rearranges%20the%20diplomatic%20deckchairs"
+      "official_url": "https://www.economist.com/search?q=Facing%20global%20crises%2C%20Europe%20rearranges%20the%20diplomatic%20deckchairs",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 37",
+          "article_title": "Facing global crises, Europe rearranges the diplomatic deckchairs",
+          "official_url": "https://www.economist.com/search?q=Facing%20global%20crises%2C%20Europe%20rearranges%20the%20diplomatic%20deckchairs"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "progressive-populist",
@@ -3796,7 +4604,19 @@
         "word"
       ],
       "article_title": "How far left will Democrats go?",
-      "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F"
+      "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 22",
+          "article_title": "How far left will Democrats go?",
+          "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "predictive-inflation gauge",
@@ -3814,7 +4634,19 @@
         "word"
       ],
       "article_title": "Kevin Warsh should raise interest rates",
-      "official_url": "https://www.economist.com/search?q=Kevin%20Warsh%20should%20raise%20interest%20rates"
+      "official_url": "https://www.economist.com/search?q=Kevin%20Warsh%20should%20raise%20interest%20rates",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 6",
+          "article_title": "Kevin Warsh should raise interest rates",
+          "official_url": "https://www.economist.com/search?q=Kevin%20Warsh%20should%20raise%20interest%20rates"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "personality-driven",
@@ -3832,7 +4664,19 @@
         "word"
       ],
       "article_title": "Donald Trump’s disintegrating coalition",
-      "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20disintegrating%20coalition"
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20disintegrating%20coalition",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 23",
+          "article_title": "Donald Trump’s disintegrating coalition",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20disintegrating%20coalition"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "off-balance-sheet",
@@ -3850,25 +4694,19 @@
         "word"
       ],
       "article_title": "China’s $54bn capital boost for banks falls far short",
-      "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20%2454bn%20capital%20boost%20for%20banks%20falls%20far%20short"
-    },
-    {
-      "term": "national security",
-      "pronunciation": "",
-      "meaning_en": "the protection of a country and its core interests from major threats",
-      "meaning_zh": "国家安全",
-      "sentence": "A massive protest in 2003 led to the deferral of national-security legislation China wanted to see in place.",
-      "mini_note": "独立作名词写 national security；置于名词前时常见 national-security risk / priority。",
-      "source": "The Economist · 2026-09-12",
-      "issue": "2026-09-12",
-      "page": "2026-09-12 · p. 20",
-      "category": "interesting",
-      "tags": [
-        "curated",
-        "word"
+      "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20%2454bn%20capital%20boost%20for%20banks%20falls%20far%20short",
+      "issues": [
+        "2026-09-12"
       ],
-      "article_title": "Tung Chee-hwa, Hong Kong’s first chief executive, has died",
-      "official_url": "https://www.economist.com/search?q=Tung%20Chee-hwa%2C%20Hong%20Kong%E2%80%99s%20first%20chief%20executive%2C%20has%20died"
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 55",
+          "article_title": "China’s $54bn capital boost for banks falls far short",
+          "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20%2454bn%20capital%20boost%20for%20banks%20falls%20far%20short"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "microcontrollers",
@@ -3886,7 +4724,19 @@
         "word"
       ],
       "article_title": "Chinese carmakers are bringing their factories to the world",
-      "official_url": "https://www.economist.com/search?q=Chinese%20carmakers%20are%20bringing%20their%20factories%20to%20the%20world"
+      "official_url": "https://www.economist.com/search?q=Chinese%20carmakers%20are%20bringing%20their%20factories%20to%20the%20world",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 46",
+          "article_title": "Chinese carmakers are bringing their factories to the world",
+          "official_url": "https://www.economist.com/search?q=Chinese%20carmakers%20are%20bringing%20their%20factories%20to%20the%20world"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "marine protection",
@@ -3904,7 +4754,19 @@
         "word"
       ],
       "article_title": "Brexit has disappointed British fishermen",
-      "official_url": "https://www.economist.com/search?q=Brexit%20has%20disappointed%20British%20fishermen"
+      "official_url": "https://www.economist.com/search?q=Brexit%20has%20disappointed%20British%20fishermen",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 40",
+          "article_title": "Brexit has disappointed British fishermen",
+          "official_url": "https://www.economist.com/search?q=Brexit%20has%20disappointed%20British%20fishermen"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "longer-wavelength",
@@ -3922,7 +4784,19 @@
         "word"
       ],
       "article_title": "How to cool buildings on the cheap",
-      "official_url": "https://www.economist.com/search?q=How%20to%20cool%20buildings%20on%20the%20cheap"
+      "official_url": "https://www.economist.com/search?q=How%20to%20cool%20buildings%20on%20the%20cheap",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 59",
+          "article_title": "How to cool buildings on the cheap",
+          "official_url": "https://www.economist.com/search?q=How%20to%20cool%20buildings%20on%20the%20cheap"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "longer-than-usual",
@@ -3940,7 +4814,19 @@
         "word"
       ],
       "article_title": "Can Germany’s economic recovery outrun the AfD?",
-      "official_url": "https://www.economist.com/search?q=Can%20Germany%E2%80%99s%20economic%20recovery%20outrun%20the%20AfD%3F"
+      "official_url": "https://www.economist.com/search?q=Can%20Germany%E2%80%99s%20economic%20recovery%20outrun%20the%20AfD%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 57",
+          "article_title": "Can Germany’s economic recovery outrun the AfD?",
+          "official_url": "https://www.economist.com/search?q=Can%20Germany%E2%80%99s%20economic%20recovery%20outrun%20the%20AfD%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "Islamism-prevention",
@@ -3958,7 +4844,19 @@
         "word"
       ],
       "article_title": "The good news: few Muslims want to subvert European democracy",
-      "official_url": "https://www.economist.com/search?q=The%20good%20news%3A%20few%20Muslims%20want%20to%20subvert%20European%20democracy"
+      "official_url": "https://www.economist.com/search?q=The%20good%20news%3A%20few%20Muslims%20want%20to%20subvert%20European%20democracy",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 12",
+          "article_title": "The good news: few Muslims want to subvert European democracy",
+          "official_url": "https://www.economist.com/search?q=The%20good%20news%3A%20few%20Muslims%20want%20to%20subvert%20European%20democracy"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "institutional decay",
@@ -3976,7 +4874,19 @@
         "word"
       ],
       "article_title": "What is causing the global bond sell-off?",
-      "official_url": "https://www.economist.com/search?q=What%20is%20causing%20the%20global%20bond%20sell-off%3F"
+      "official_url": "https://www.economist.com/search?q=What%20is%20causing%20the%20global%20bond%20sell-off%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 56",
+          "article_title": "What is causing the global bond sell-off?",
+          "official_url": "https://www.economist.com/search?q=What%20is%20causing%20the%20global%20bond%20sell-off%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "information control",
@@ -3994,7 +4904,19 @@
         "word"
       ],
       "article_title": "Speech in China is in the deep freeze",
-      "official_url": "https://www.economist.com/search?q=Speech%20in%20China%20is%20in%20the%20deep%20freeze"
+      "official_url": "https://www.economist.com/search?q=Speech%20in%20China%20is%20in%20the%20deep%20freeze",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 21",
+          "article_title": "Speech in China is in the deep freeze",
+          "official_url": "https://www.economist.com/search?q=Speech%20in%20China%20is%20in%20the%20deep%20freeze"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "influence-peddling",
@@ -4008,29 +4930,30 @@
       "page": "2026-09-12 · p. 29",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "When the defenders of democracy turn their backs on it instead",
-      "official_url": "https://www.economist.com/search?q=When%20the%20defenders%20of%20democracy%20turn%20their%20backs%20on%20it%20instead"
-    },
-    {
-      "term": "in turn",
-      "pronunciation": "",
-      "meaning_en": "successively, or as a result of something else",
-      "meaning_zh": "依次；反过来；从而",
-      "sentence": "Markets expect another hike at the next meeting on September 17th and 18th; the yen, in turn, has reached its strongest level against the dollar since February.",
-      "mini_note": "根据上下文判断是顺序关系还是因果关系。",
-      "source": "The Economist · 2026-09-12",
-      "issue": "2026-09-12",
-      "page": "2026-09-12 · p. 13",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
+      "official_url": "https://www.economist.com/search?q=When%20the%20defenders%20of%20democracy%20turn%20their%20backs%20on%20it%20instead",
+      "issues": [
+        "2026-09-12",
+        "2026-08-29"
       ],
-      "article_title": "Takaichi Sanae's big-spending plans are unnerving markets",
-      "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets"
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 29",
+          "article_title": "When the defenders of democracy turn their backs on it instead",
+          "official_url": "https://www.economist.com/search?q=When%20the%20defenders%20of%20democracy%20turn%20their%20backs%20on%20it%20instead"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 70",
+          "article_title": "A hundred days of BJP shock and awe in West Bengal",
+          "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "in the long run",
@@ -4044,29 +4967,37 @@
       "page": "2026-09-12 · p. 40",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "Brexit has disappointed British fishermen",
-      "official_url": "https://www.economist.com/search?q=Brexit%20has%20disappointed%20British%20fishermen"
-    },
-    {
-      "term": "government-backed",
-      "pronunciation": "",
-      "meaning_en": "supported or financed by a government",
-      "meaning_zh": "政府支持的；政府担保的",
-      "sentence": "Rapidus, a government-backed cutting-edge semiconductor firm, is a model.",
-      "mini_note": "可描述企业、贷款、项目或机构。",
-      "source": "The Economist · 2026-09-12",
-      "issue": "2026-09-12",
-      "page": "2026-09-12 · p. 13",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=Brexit%20has%20disappointed%20British%20fishermen",
+      "issues": [
+        "2026-09-12",
+        "2026-09-05",
+        "2026-08-29"
       ],
-      "article_title": "Takaichi Sanae's big-spending plans are unnerving markets",
-      "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets"
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 40",
+          "article_title": "Brexit has disappointed British fishermen",
+          "official_url": "https://www.economist.com/search?q=Brexit%20has%20disappointed%20British%20fishermen"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 47",
+          "article_title": "Europe cannot protect Russia from itself",
+          "official_url": "https://www.economist.com/search?q=Europe%20cannot%20protect%20Russia%20from%20itself"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 52",
+          "article_title": "Donald Trump is delivering the deportations he promised",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+        }
+      ],
+      "occurrence_count": 3
     },
     {
       "term": "foreigner-bashing",
@@ -4084,7 +5015,19 @@
         "word"
       ],
       "article_title": "William Ruto turns against foreign traders",
-      "official_url": "https://www.economist.com/search?q=William%20Ruto%20turns%20against%20foreign%20traders"
+      "official_url": "https://www.economist.com/search?q=William%20Ruto%20turns%20against%20foreign%20traders",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 33",
+          "article_title": "William Ruto turns against foreign traders",
+          "official_url": "https://www.economist.com/search?q=William%20Ruto%20turns%20against%20foreign%20traders"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "fitness-neurotics",
@@ -4102,7 +5045,19 @@
         "word"
       ],
       "article_title": "How Oura’s rings found their way onto millions of fingers",
-      "official_url": "https://www.economist.com/search?q=How%20Oura%E2%80%99s%20rings%20found%20their%20way%20onto%20millions%20of%20fingers"
+      "official_url": "https://www.economist.com/search?q=How%20Oura%E2%80%99s%20rings%20found%20their%20way%20onto%20millions%20of%20fingers",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 48",
+          "article_title": "How Oura’s rings found their way onto millions of fingers",
+          "official_url": "https://www.economist.com/search?q=How%20Oura%E2%80%99s%20rings%20found%20their%20way%20onto%20millions%20of%20fingers"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "export-expectations index",
@@ -4120,7 +5075,19 @@
         "word"
       ],
       "article_title": "Can Germany’s economic recovery outrun the AfD?",
-      "official_url": "https://www.economist.com/search?q=Can%20Germany%E2%80%99s%20economic%20recovery%20outrun%20the%20AfD%3F"
+      "official_url": "https://www.economist.com/search?q=Can%20Germany%E2%80%99s%20economic%20recovery%20outrun%20the%20AfD%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 57",
+          "article_title": "Can Germany’s economic recovery outrun the AfD?",
+          "official_url": "https://www.economist.com/search?q=Can%20Germany%E2%80%99s%20economic%20recovery%20outrun%20the%20AfD%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "executive-in-chief",
@@ -4138,7 +5105,19 @@
         "word"
       ],
       "article_title": "Takaichi Sanae's big-spending plans are unnerving markets",
-      "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets"
+      "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 13",
+          "article_title": "Takaichi Sanae's big-spending plans are unnerving markets",
+          "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "enterprise-shackling",
@@ -4156,25 +5135,19 @@
         "word"
       ],
       "article_title": "Argentina needs less shouting and more growth",
-      "official_url": "https://www.economist.com/search?q=Argentina%20needs%20less%20shouting%20and%20more%20growth"
-    },
-    {
-      "term": "endure",
-      "pronunciation": "",
-      "meaning_en": "to suffer something difficult patiently or for a long time",
-      "meaning_zh": "忍受；经受住",
-      "sentence": "Any country that enacted such policies would find that the hatred they unleashed would cause enduring damage.",
-      "mini_note": "可作不及物动词，强调持续承受困难。",
-      "source": "The Economist · 2026-09-12",
-      "issue": "2026-09-12",
-      "page": "2026-09-12 · p. 3",
-      "category": "usage",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=Argentina%20needs%20less%20shouting%20and%20more%20growth",
+      "issues": [
+        "2026-09-12"
       ],
-      "article_title": "The truth and the lies about Islam in Europe",
-      "official_url": "https://www.economist.com/search?q=The%20truth%20and%20the%20lies%20about%20Islam%20in%20Europe"
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 8",
+          "article_title": "Argentina needs less shouting and more growth",
+          "official_url": "https://www.economist.com/search?q=Argentina%20needs%20less%20shouting%20and%20more%20growth"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "emissions trading",
@@ -4192,7 +5165,19 @@
         "word"
       ],
       "article_title": "The economic folly of free buses",
-      "official_url": "https://www.economist.com/search?q=The%20economic%20folly%20of%20free%20buses"
+      "official_url": "https://www.economist.com/search?q=The%20economic%20folly%20of%20free%20buses",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 58",
+          "article_title": "The economic folly of free buses",
+          "official_url": "https://www.economist.com/search?q=The%20economic%20folly%20of%20free%20buses"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "emergence",
@@ -4210,7 +5195,19 @@
         "word"
       ],
       "article_title": "Could AIs become conscious?",
-      "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F"
+      "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 9",
+          "article_title": "Could AIs become conscious?",
+          "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "electrical-equipment",
@@ -4224,29 +5221,30 @@
       "page": "2026-09-12 · p. 53",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
-        "word"
-      ],
-      "article_title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-      "official_url": "https://www.economist.com/search?q=The%20jobs%20apocalypse%20is%20postponed.%20An%20AI%20jobs%20boom%20is%20here"
-    },
-    {
-      "term": "domestic security",
-      "pronunciation": "",
-      "meaning_en": "the protection of a country from threats arising within its borders",
-      "meaning_zh": "国内安全；内部安全",
-      "sentence": "According to Sir Ken McCallum, head of MI5, Britain’s domestic-security service, some 75% of its counter-terrorism workload concerns Islamists.",
-      "mini_note": "与 national security 有重叠，但 domestic security 更强调境内威胁和执法机构。",
-      "source": "The Economist · 2026-09-12",
-      "issue": "2026-09-12",
-      "page": "2026-09-12 · p. 38",
-      "category": "interesting",
-      "tags": [
         "curated",
         "word"
       ],
-      "article_title": "Islamism is a threat to Britain. Islam is not",
-      "official_url": "https://www.economist.com/search?q=Islamism%20is%20a%20threat%20to%20Britain.%20Islam%20is%20not"
+      "article_title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "official_url": "https://www.economist.com/search?q=The%20jobs%20apocalypse%20is%20postponed.%20An%20AI%20jobs%20boom%20is%20here",
+      "issues": [
+        "2026-09-12",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 53",
+          "article_title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "official_url": "https://www.economist.com/search?q=The%20jobs%20apocalypse%20is%20postponed.%20An%20AI%20jobs%20boom%20is%20here"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 100",
+          "article_title": "Does Donald Trump deserve credit for a manufacturing revival?",
+          "official_url": "https://www.economist.com/search?q=Does%20Donald%20Trump%20deserve%20credit%20for%20a%20manufacturing%20revival%3F"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "diversity-related",
@@ -4264,7 +5262,19 @@
         "word"
       ],
       "article_title": "How American universities get around the DEI backlash",
-      "official_url": "https://www.economist.com/search?q=How%20American%20universities%20get%20around%20the%20DEI%20backlash"
+      "official_url": "https://www.economist.com/search?q=How%20American%20universities%20get%20around%20the%20DEI%20backlash",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 25",
+          "article_title": "How American universities get around the DEI backlash",
+          "official_url": "https://www.economist.com/search?q=How%20American%20universities%20get%20around%20the%20DEI%20backlash"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "distance learning",
@@ -4282,7 +5292,19 @@
         "word"
       ],
       "article_title": "Pedro Sánchez has let Ceuta turn into a crisis",
-      "official_url": "https://www.economist.com/search?q=Pedro%20S%C3%A1nchez%20has%20let%20Ceuta%20turn%20into%20a%20crisis"
+      "official_url": "https://www.economist.com/search?q=Pedro%20S%C3%A1nchez%20has%20let%20Ceuta%20turn%20into%20a%20crisis",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 35",
+          "article_title": "Pedro Sánchez has let Ceuta turn into a crisis",
+          "official_url": "https://www.economist.com/search?q=Pedro%20S%C3%A1nchez%20has%20let%20Ceuta%20turn%20into%20a%20crisis"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "democratic-socialist",
@@ -4300,7 +5322,19 @@
         "word"
       ],
       "article_title": "How far left will Democrats go?",
-      "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F"
+      "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 22",
+          "article_title": "How far left will Democrats go?",
+          "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "crooked-counselled",
@@ -4318,7 +5352,19 @@
         "word"
       ],
       "article_title": "The new age of the orator",
-      "official_url": "https://www.economist.com/search?q=The%20new%20age%20of%20the%20orator"
+      "official_url": "https://www.economist.com/search?q=The%20new%20age%20of%20the%20orator",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 64",
+          "article_title": "The new age of the orator",
+          "official_url": "https://www.economist.com/search?q=The%20new%20age%20of%20the%20orator"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "counter-terrorism",
@@ -4336,7 +5382,19 @@
         "word"
       ],
       "article_title": "Islamism is a threat to Britain. Islam is not",
-      "official_url": "https://www.economist.com/search?q=Islamism%20is%20a%20threat%20to%20Britain.%20Islam%20is%20not"
+      "official_url": "https://www.economist.com/search?q=Islamism%20is%20a%20threat%20to%20Britain.%20Islam%20is%20not",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 38",
+          "article_title": "Islamism is a threat to Britain. Islam is not",
+          "official_url": "https://www.economist.com/search?q=Islamism%20is%20a%20threat%20to%20Britain.%20Islam%20is%20not"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "counter-culturalism",
@@ -4354,7 +5412,19 @@
         "word"
       ],
       "article_title": "The assassination of the world’s only openly gay imam",
-      "official_url": "https://www.economist.com/search?q=The%20assassination%20of%20the%20world%E2%80%99s%20only%20openly%20gay%20imam"
+      "official_url": "https://www.economist.com/search?q=The%20assassination%20of%20the%20world%E2%80%99s%20only%20openly%20gay%20imam",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 45",
+          "article_title": "The assassination of the world’s only openly gay imam",
+          "official_url": "https://www.economist.com/search?q=The%20assassination%20of%20the%20world%E2%80%99s%20only%20openly%20gay%20imam"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "corporate governance",
@@ -4372,25 +5442,19 @@
         "word"
       ],
       "article_title": "Takaichi Sanae's big-spending plans are unnerving markets",
-      "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets"
-    },
-    {
-      "term": "commander-in-chief",
-      "pronunciation": "",
-      "meaning_en": "the person who has supreme command of a country’s armed forces",
-      "meaning_zh": "三军统帅；最高统帅",
-      "sentence": "He told Playboy magazine way back in 1990 that it was “bullshit” to believe that nuclear weapons would never be used “because everybody knows how destructive it will be.” Yet now…",
-      "mini_note": "美国总统等国家元首常用称谓。",
-      "source": "The Economist · 2026-09-12",
-      "issue": "2026-09-12",
-      "page": "2026-09-12 · p. 44",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets",
+      "issues": [
+        "2026-09-12"
       ],
-      "article_title": "World leaders are losing their terror of nuclear war",
-      "official_url": "https://www.economist.com/search?q=World%20leaders%20are%20losing%20their%20terror%20of%20nuclear%20war"
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 13",
+          "article_title": "Takaichi Sanae's big-spending plans are unnerving markets",
+          "official_url": "https://www.economist.com/search?q=Takaichi%20Sanae%27s%20big-spending%20plans%20are%20unnerving%20markets"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "checkpoint-blockade immunotherapy",
@@ -4408,7 +5472,19 @@
         "word"
       ],
       "article_title": "Could AIs become conscious?",
-      "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F"
+      "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 9",
+          "article_title": "Could AIs become conscious?",
+          "official_url": "https://www.economist.com/search?q=Could%20AIs%20become%20conscious%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "capital-intensive",
@@ -4422,29 +5498,30 @@
       "page": "2026-09-12 · p. 56",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
-        "word"
-      ],
-      "article_title": "What is causing the global bond sell-off?",
-      "official_url": "https://www.economist.com/search?q=What%20is%20causing%20the%20global%20bond%20sell-off%3F"
-    },
-    {
-      "term": "bluster",
-      "pronunciation": "",
-      "meaning_en": "loud, aggressive or boastful talk that is often not backed by action",
-      "meaning_zh": "虚张声势；气势汹汹的空话",
-      "sentence": "Leaders | Bread and butter, not bluster JAVIER MILEI swept to power three years ago as a libertarian tub-thumper, promising brutal cuts to public spending in order to tame inflati…",
-      "mini_note": "常见搭配：political bluster、with great bluster；通常带贬义，强调声势大于实质。",
-      "source": "The Economist · 2026-09-12",
-      "issue": "2026-09-12",
-      "page": "2026-09-12 · p. 8",
-      "category": "usage",
-      "tags": [
         "curated",
         "word"
       ],
-      "article_title": "Argentina needs less shouting and more growth",
-      "official_url": "https://www.economist.com/search?q=Argentina%20needs%20less%20shouting%20and%20more%20growth"
+      "article_title": "What is causing the global bond sell-off?",
+      "official_url": "https://www.economist.com/search?q=What%20is%20causing%20the%20global%20bond%20sell-off%3F",
+      "issues": [
+        "2026-09-12",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 56",
+          "article_title": "What is causing the global bond sell-off?",
+          "official_url": "https://www.economist.com/search?q=What%20is%20causing%20the%20global%20bond%20sell-off%3F"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 39",
+          "article_title": "Daron Acemoglu responds to our article",
+          "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "attention-grabbing",
@@ -4462,7 +5539,19 @@
         "word"
       ],
       "article_title": "How Donald Trump boxed his party in",
-      "official_url": "https://www.economist.com/search?q=How%20Donald%20Trump%20boxed%20his%20party%20in"
+      "official_url": "https://www.economist.com/search?q=How%20Donald%20Trump%20boxed%20his%20party%20in",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 27",
+          "article_title": "How Donald Trump boxed his party in",
+          "official_url": "https://www.economist.com/search?q=How%20Donald%20Trump%20boxed%20his%20party%20in"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "architect-designed",
@@ -4480,7 +5569,19 @@
         "word"
       ],
       "article_title": "Can China finally relax?",
-      "official_url": "https://www.economist.com/search?q=Can%20China%20finally%20relax%3F"
+      "official_url": "https://www.economist.com/search?q=Can%20China%20finally%20relax%3F",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 18",
+          "article_title": "Can China finally relax?",
+          "official_url": "https://www.economist.com/search?q=Can%20China%20finally%20relax%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "any more than",
@@ -4498,7 +5599,19 @@
         "phrase"
       ],
       "article_title": "Plunging test scores are a slow-moving catastrophe",
-      "official_url": "https://www.economist.com/search?q=Plunging%20test%20scores%20are%20a%20slow-moving%20catastrophe"
+      "official_url": "https://www.economist.com/search?q=Plunging%20test%20scores%20are%20a%20slow-moving%20catastrophe",
+      "issues": [
+        "2026-09-12"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 7",
+          "article_title": "Plunging test scores are a slow-moving catastrophe",
+          "official_url": "https://www.economist.com/search?q=Plunging%20test%20scores%20are%20a%20slow-moving%20catastrophe"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "anti-establishment",
@@ -4516,7 +5629,26 @@
         "word"
       ],
       "article_title": "How far left will Democrats go?",
-      "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F"
+      "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F",
+      "issues": [
+        "2026-09-12",
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-12",
+          "page": "2026-09-12 · p. 22",
+          "article_title": "How far left will Democrats go?",
+          "official_url": "https://www.economist.com/search?q=How%20far%20left%20will%20Democrats%20go%3F"
+        },
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 137",
+          "article_title": "The presidential candidate Brazil’s authorities tried to ban",
+          "official_url": "https://www.economist.com/search?q=The%20presidential%20candidate%20Brazil%E2%80%99s%20authorities%20tried%20to%20ban"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "virtue signalling",
@@ -4534,7 +5666,19 @@
         "word"
       ],
       "article_title": "The opposition of scientific research on animals",
-      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 39",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "utilitarian",
@@ -4552,7 +5696,19 @@
         "word"
       ],
       "article_title": "The opposition of scientific research on animals",
-      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 39",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "United States-Mexico-Canada Agreement",
@@ -4570,7 +5726,19 @@
         "word"
       ],
       "article_title": "Mexico is struggling to win over bond markets",
-      "official_url": "https://www.economist.com/search?q=Mexico%20is%20struggling%20to%20win%20over%20bond%20markets"
+      "official_url": "https://www.economist.com/search?q=Mexico%20is%20struggling%20to%20win%20over%20bond%20markets",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 275",
+          "article_title": "Mexico is struggling to win over bond markets",
+          "official_url": "https://www.economist.com/search?q=Mexico%20is%20struggling%20to%20win%20over%20bond%20markets"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "uninitiated",
@@ -4588,7 +5756,19 @@
         "word"
       ],
       "article_title": "The many mysteries and lessons of the Bayeux tapestry",
-      "official_url": "https://www.economist.com/search?q=The%20many%20mysteries%20and%20lessons%20of%20the%20Bayeux%20tapestry"
+      "official_url": "https://www.economist.com/search?q=The%20many%20mysteries%20and%20lessons%20of%20the%20Bayeux%20tapestry",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 310",
+          "article_title": "The many mysteries and lessons of the Bayeux tapestry",
+          "official_url": "https://www.economist.com/search?q=The%20many%20mysteries%20and%20lessons%20of%20the%20Bayeux%20tapestry"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "two-centuries-old",
@@ -4606,7 +5786,19 @@
         "word"
       ],
       "article_title": "The Ukraine war is intensifying, expanding and stuck",
-      "official_url": "https://www.economist.com/search?q=The%20Ukraine%20war%20is%20intensifying%2C%20expanding%20and%20stuck"
+      "official_url": "https://www.economist.com/search?q=The%20Ukraine%20war%20is%20intensifying%2C%20expanding%20and%20stuck",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 217",
+          "article_title": "The Ukraine war is intensifying, expanding and stuck",
+          "official_url": "https://www.economist.com/search?q=The%20Ukraine%20war%20is%20intensifying%2C%20expanding%20and%20stuck"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "sword-and-sandal",
@@ -4624,7 +5816,19 @@
         "word"
       ],
       "article_title": "With “Agrippa” Robert Harris is back to roaming in ancient Rome",
-      "official_url": "https://www.economist.com/search?q=With%20%E2%80%9CAgrippa%E2%80%9D%20Robert%20Harris%20is%20back%20to%20roaming%20in%20ancient%20Rome"
+      "official_url": "https://www.economist.com/search?q=With%20%E2%80%9CAgrippa%E2%80%9D%20Robert%20Harris%20is%20back%20to%20roaming%20in%20ancient%20Rome",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 319",
+          "article_title": "With “Agrippa” Robert Harris is back to roaming in ancient Rome",
+          "official_url": "https://www.economist.com/search?q=With%20%E2%80%9CAgrippa%E2%80%9D%20Robert%20Harris%20is%20back%20to%20roaming%20in%20ancient%20Rome"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "superfast fashion",
@@ -4642,7 +5846,19 @@
         "word"
       ],
       "article_title": "IPO booms can spell trouble for the markets",
-      "official_url": "https://www.economist.com/search?q=IPO%20booms%20can%20spell%20trouble%20for%20the%20markets"
+      "official_url": "https://www.economist.com/search?q=IPO%20booms%20can%20spell%20trouble%20for%20the%20markets",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 283",
+          "article_title": "IPO booms can spell trouble for the markets",
+          "official_url": "https://www.economist.com/search?q=IPO%20booms%20can%20spell%20trouble%20for%20the%20markets"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "stars-and-stripes",
@@ -4660,7 +5876,19 @@
         "word"
       ],
       "article_title": "Woke 1 was about identity. Woke 2 is about class",
-      "official_url": "https://www.economist.com/search?q=Woke%201%20was%20about%20identity.%20Woke%202%20is%20about%20class"
+      "official_url": "https://www.economist.com/search?q=Woke%201%20was%20about%20identity.%20Woke%202%20is%20about%20class",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 124",
+          "article_title": "Woke 1 was about identity. Woke 2 is about class",
+          "official_url": "https://www.economist.com/search?q=Woke%201%20was%20about%20identity.%20Woke%202%20is%20about%20class"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "Singapore-inspired",
@@ -4678,7 +5906,19 @@
         "word"
       ],
       "article_title": "Chandrababu Naidu’s techno-utopian vision for his Indian state",
-      "official_url": "https://www.economist.com/search?q=Chandrababu%20Naidu%E2%80%99s%20techno-utopian%20vision%20for%20his%20Indian%20state"
+      "official_url": "https://www.economist.com/search?q=Chandrababu%20Naidu%E2%80%99s%20techno-utopian%20vision%20for%20his%20Indian%20state",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 66",
+          "article_title": "Chandrababu Naidu’s techno-utopian vision for his Indian state",
+          "official_url": "https://www.economist.com/search?q=Chandrababu%20Naidu%E2%80%99s%20techno-utopian%20vision%20for%20his%20Indian%20state"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "self-consciousness",
@@ -4696,25 +5936,19 @@
         "word"
       ],
       "article_title": "The opposition of scientific research on animals",
-      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
-    },
-    {
-      "term": "rule of law",
-      "pronunciation": "",
-      "meaning_en": "the principle that everyone and every institution is subject to the law",
-      "meaning_zh": "法治；法律至上",
-      "sentence": "Domestic reforms, notably to elect judges, raise questions about Mexico’s rule of law.",
-      "mini_note": "政治和法律评论中的高频表达。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 275",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
       ],
-      "article_title": "Mexico is struggling to win over bond markets",
-      "official_url": "https://www.economist.com/search?q=Mexico%20is%20struggling%20to%20win%20over%20bond%20markets"
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 42",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "repetitive-strain injury",
@@ -4732,7 +5966,19 @@
         "word"
       ],
       "article_title": "Humble exoskeletons work better than combat supersuits",
-      "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits"
+      "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 292",
+          "article_title": "Humble exoskeletons work better than combat supersuits",
+          "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "oilfield services",
@@ -4750,7 +5996,19 @@
         "word"
       ],
       "article_title": "Business",
-      "official_url": "https://www.economist.com/search?q=Business"
+      "official_url": "https://www.economist.com/search?q=Business",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 14",
+          "article_title": "Business",
+          "official_url": "https://www.economist.com/search?q=Business"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "mixed martial arts",
@@ -4768,7 +6026,19 @@
         "word"
       ],
       "article_title": "LIV Golf’s failure shows how not to invest in sport",
-      "official_url": "https://www.economist.com/search?q=LIV%20Golf%E2%80%99s%20failure%20shows%20how%20not%20to%20invest%20in%20sport"
+      "official_url": "https://www.economist.com/search?q=LIV%20Golf%E2%80%99s%20failure%20shows%20how%20not%20to%20invest%20in%20sport",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 253",
+          "article_title": "LIV Golf’s failure shows how not to invest in sport",
+          "official_url": "https://www.economist.com/search?q=LIV%20Golf%E2%80%99s%20failure%20shows%20how%20not%20to%20invest%20in%20sport"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "mass-participation",
@@ -4786,7 +6056,19 @@
         "word"
       ],
       "article_title": "Hyrox, the fitness craze that runs and runs",
-      "official_url": "https://www.economist.com/search?q=Hyrox%2C%20the%20fitness%20craze%20that%20runs%20and%20runs"
+      "official_url": "https://www.economist.com/search?q=Hyrox%2C%20the%20fitness%20craze%20that%20runs%20and%20runs",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 324",
+          "article_title": "Hyrox, the fitness craze that runs and runs",
+          "official_url": "https://www.economist.com/search?q=Hyrox%2C%20the%20fitness%20craze%20that%20runs%20and%20runs"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "maids-with-teapots roles",
@@ -4804,7 +6086,19 @@
         "word"
       ],
       "article_title": "Guo Lanying was the singer everyone loved",
-      "official_url": "https://www.economist.com/search?q=Guo%20Lanying%20was%20the%20singer%20everyone%20loved"
+      "official_url": "https://www.economist.com/search?q=Guo%20Lanying%20was%20the%20singer%20everyone%20loved",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 332",
+          "article_title": "Guo Lanying was the singer everyone loved",
+          "official_url": "https://www.economist.com/search?q=Guo%20Lanying%20was%20the%20singer%20everyone%20loved"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "laugh out loud",
@@ -4822,7 +6116,19 @@
         "word"
       ],
       "article_title": "The opposition of scientific research on animals",
-      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 43",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "juggernaut",
@@ -4840,7 +6146,19 @@
         "word"
       ],
       "article_title": "How data centres became one of America’s hottest political issues",
-      "official_url": "https://www.economist.com/search?q=How%20data%20centres%20became%20one%20of%20America%E2%80%99s%20hottest%20political%20issues"
+      "official_url": "https://www.economist.com/search?q=How%20data%20centres%20became%20one%20of%20America%E2%80%99s%20hottest%20political%20issues",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 102",
+          "article_title": "How data centres became one of America’s hottest political issues",
+          "official_url": "https://www.economist.com/search?q=How%20data%20centres%20became%20one%20of%20America%E2%80%99s%20hottest%20political%20issues"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "independent-minded",
@@ -4858,43 +6176,19 @@
         "word"
       ],
       "article_title": "Iran’s proxies are going their own way",
-      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way"
-    },
-    {
-      "term": "in turn",
-      "pronunciation": "",
-      "meaning_en": "successively, or as a result of something else",
-      "meaning_zh": "依次；反过来；从而",
-      "sentence": "This, in turn, would allow the opposition to campaign on a platform that does not undermine the deal.",
-      "mini_note": "根据上下文判断是顺序关系还是因果关系。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 23",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
+      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way",
+      "issues": [
+        "2026-09-05"
       ],
-      "article_title": "Donald Trump’s Venezuela deal is bold but dodgy",
-      "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20Venezuela%20deal%20is%20bold%20but%20dodgy"
-    },
-    {
-      "term": "in the long run",
-      "pronunciation": "",
-      "meaning_en": "over a long period of time",
-      "meaning_zh": "从长远看",
-      "sentence": "In the long run the opposite is true.",
-      "mini_note": "常用于比较短期代价与长期结果。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 47",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 153",
+          "article_title": "Iran’s proxies are going their own way",
+          "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way"
+        }
       ],
-      "article_title": "Europe cannot protect Russia from itself",
-      "official_url": "https://www.economist.com/search?q=Europe%20cannot%20protect%20Russia%20from%20itself"
+      "occurrence_count": 1
     },
     {
       "term": "humanitarian relief",
@@ -4912,7 +6206,19 @@
         "word"
       ],
       "article_title": "Catastrophic floods warn Nepal of more disasters to come",
-      "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come"
+      "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 75",
+          "article_title": "Catastrophic floods warn Nepal of more disasters to come",
+          "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "headline-grabbing",
@@ -4926,11 +6232,30 @@
       "page": "2026-09-05 · p. 321",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "What do a spoiled Venezuelan and poor Texan have in common?",
-      "official_url": "https://www.economist.com/search?q=What%20do%20a%20spoiled%20Venezuelan%20and%20poor%20Texan%20have%20in%20common%3F"
+      "official_url": "https://www.economist.com/search?q=What%20do%20a%20spoiled%20Venezuelan%20and%20poor%20Texan%20have%20in%20common%3F",
+      "issues": [
+        "2026-09-05",
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 321",
+          "article_title": "What do a spoiled Venezuelan and poor Texan have in common?",
+          "official_url": "https://www.economist.com/search?q=What%20do%20a%20spoiled%20Venezuelan%20and%20poor%20Texan%20have%20in%20common%3F"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 19",
+          "article_title": "The Unwelcoming States of America",
+          "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+        }
+      ],
+      "occurrence_count": 2
     },
     {
       "term": "graphics processing",
@@ -4948,7 +6273,19 @@
         "word"
       ],
       "article_title": "Nvidia is driving the AI boom. Good",
-      "official_url": "https://www.economist.com/search?q=Nvidia%20is%20driving%20the%20AI%20boom.%20Good"
+      "official_url": "https://www.economist.com/search?q=Nvidia%20is%20driving%20the%20AI%20boom.%20Good",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 17",
+          "article_title": "Nvidia is driving the AI boom. Good",
+          "official_url": "https://www.economist.com/search?q=Nvidia%20is%20driving%20the%20AI%20boom.%20Good"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "general education",
@@ -4966,7 +6303,19 @@
         "word"
       ],
       "article_title": "America’s support system for disabled pupils is broken",
-      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20support%20system%20for%20disabled%20pupils%20is%20broken"
+      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20support%20system%20for%20disabled%20pupils%20is%20broken",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 119",
+          "article_title": "America’s support system for disabled pupils is broken",
+          "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20support%20system%20for%20disabled%20pupils%20is%20broken"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "financial services",
@@ -4984,7 +6333,19 @@
         "word"
       ],
       "article_title": "Will anybody use AI as much as coders do?",
-      "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F"
+      "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 236",
+          "article_title": "Will anybody use AI as much as coders do?",
+          "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "financial research",
@@ -5002,7 +6363,19 @@
         "word"
       ],
       "article_title": "Nvidia is the central bank of AI",
-      "official_url": "https://www.economist.com/search?q=Nvidia%20is%20the%20central%20bank%20of%20AI"
+      "official_url": "https://www.economist.com/search?q=Nvidia%20is%20the%20central%20bank%20of%20AI",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 61",
+          "article_title": "Nvidia is the central bank of AI",
+          "official_url": "https://www.economist.com/search?q=Nvidia%20is%20the%20central%20bank%20of%20AI"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "exoskeleton makers",
@@ -5020,7 +6393,19 @@
         "word"
       ],
       "article_title": "Humble exoskeletons work better than combat supersuits",
-      "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits"
+      "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 292",
+          "article_title": "Humble exoskeletons work better than combat supersuits",
+          "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "environmental impact",
@@ -5038,43 +6423,19 @@
         "word"
       ],
       "article_title": "Politics",
-      "official_url": "https://www.economist.com/search?q=Politics"
-    },
-    {
-      "term": "endure",
-      "pronunciation": "",
-      "meaning_en": "to suffer something difficult patiently or for a long time",
-      "meaning_zh": "忍受；经受住",
-      "sentence": "After all the misery that Afghanistan has endured, Taliban 2.0 may seem like the last straw.",
-      "mini_note": "可作不及物动词，强调持续承受困难。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 39",
-      "category": "usage",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-09-05"
       ],
-      "article_title": "The opposition of scientific research on animals",
-      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
-    },
-    {
-      "term": "defined-contribution",
-      "pronunciation": "",
-      "meaning_en": "describing a pension whose value depends on contributions and investment returns",
-      "meaning_zh": "确定缴费型的；缴费确定型的",
-      "sentence": "Pension funds which bought long-dated debt to fund defined-benefit retirement schemes are switching to defined-contribution plans that try to boost returns with riskier assets lik…",
-      "mini_note": "与 defined-benefit pension 相对：前者确定缴费额，退休收益随投资表现变化。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 273",
-      "category": "interesting",
-      "tags": [
-        "curated",
-        "word"
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 8",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
       ],
-      "article_title": "Europe’s bond markets are suffering a post- holiday shock",
-      "official_url": "https://www.economist.com/search?q=Europe%E2%80%99s%20bond%20markets%20are%20suffering%20a%20post-%20holiday%20shock"
+      "occurrence_count": 1
     },
     {
       "term": "customer service",
@@ -5092,7 +6453,19 @@
         "word"
       ],
       "article_title": "Will anybody use AI as much as coders do?",
-      "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F"
+      "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 237",
+          "article_title": "Will anybody use AI as much as coders do?",
+          "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "critical mineral",
@@ -5110,7 +6483,19 @@
         "word"
       ],
       "article_title": "Where Canada can hurt America most",
-      "official_url": "https://www.economist.com/search?q=Where%20Canada%20can%20hurt%20America%20most"
+      "official_url": "https://www.economist.com/search?q=Where%20Canada%20can%20hurt%20America%20most",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 117",
+          "article_title": "Where Canada can hurt America most",
+          "official_url": "https://www.economist.com/search?q=Where%20Canada%20can%20hurt%20America%20most"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "counter-intuitively",
@@ -5128,7 +6513,19 @@
         "word"
       ],
       "article_title": "Iran’s proxies are going their own way",
-      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way"
+      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 153",
+          "article_title": "Iran’s proxies are going their own way",
+          "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "corporate-income tax",
@@ -5146,7 +6543,19 @@
         "word"
       ],
       "article_title": "The IRS is going after America Inc’s overseas profits",
-      "official_url": "https://www.economist.com/search?q=The%20IRS%20is%20going%20after%20America%20Inc%E2%80%99s%20overseas%20profits"
+      "official_url": "https://www.economist.com/search?q=The%20IRS%20is%20going%20after%20America%20Inc%E2%80%99s%20overseas%20profits",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 251",
+          "article_title": "The IRS is going after America Inc’s overseas profits",
+          "official_url": "https://www.economist.com/search?q=The%20IRS%20is%20going%20after%20America%20Inc%E2%80%99s%20overseas%20profits"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "coalition-building",
@@ -5164,7 +6573,19 @@
         "word"
       ],
       "article_title": "Binyamin Netanyahu sows discord ahead of Israel’s election",
-      "official_url": "https://www.economist.com/search?q=Binyamin%20Netanyahu%20sows%20discord%20ahead%20of%20Israel%E2%80%99s%20election"
+      "official_url": "https://www.economist.com/search?q=Binyamin%20Netanyahu%20sows%20discord%20ahead%20of%20Israel%E2%80%99s%20election",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 158",
+          "article_title": "Binyamin Netanyahu sows discord ahead of Israel’s election",
+          "official_url": "https://www.economist.com/search?q=Binyamin%20Netanyahu%20sows%20discord%20ahead%20of%20Israel%E2%80%99s%20election"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "climate-resilient",
@@ -5182,7 +6603,19 @@
         "word"
       ],
       "article_title": "Catastrophic floods warn Nepal of more disasters to come",
-      "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come"
+      "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 75",
+          "article_title": "Catastrophic floods warn Nepal of more disasters to come",
+          "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "chemical testing",
@@ -5200,7 +6633,19 @@
         "word"
       ],
       "article_title": "Why can’t a tech-savvy China make its food safe?",
-      "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F"
+      "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 88",
+          "article_title": "Why can’t a tech-savvy China make its food safe?",
+          "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "cable-resistance training",
@@ -5218,7 +6663,19 @@
         "word"
       ],
       "article_title": "How to combine exercise with video games",
-      "official_url": "https://www.economist.com/search?q=How%20to%20combine%20exercise%20with%20video%20games"
+      "official_url": "https://www.economist.com/search?q=How%20to%20combine%20exercise%20with%20video%20games",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 303",
+          "article_title": "How to combine exercise with video games",
+          "official_url": "https://www.economist.com/search?q=How%20to%20combine%20exercise%20with%20video%20games"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "business-friendly",
@@ -5236,7 +6693,19 @@
         "word"
       ],
       "article_title": "The extraordinary rise of Miami’s economy",
-      "official_url": "https://www.economist.com/search?q=The%20extraordinary%20rise%20of%20Miami%E2%80%99s%20economy"
+      "official_url": "https://www.economist.com/search?q=The%20extraordinary%20rise%20of%20Miami%E2%80%99s%20economy",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 265",
+          "article_title": "The extraordinary rise of Miami’s economy",
+          "official_url": "https://www.economist.com/search?q=The%20extraordinary%20rise%20of%20Miami%E2%80%99s%20economy"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "bayberry sellers",
@@ -5254,7 +6723,19 @@
         "word"
       ],
       "article_title": "Why can’t a tech-savvy China make its food safe?",
-      "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F"
+      "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 87",
+          "article_title": "Why can’t a tech-savvy China make its food safe?",
+          "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "autonomous driving",
@@ -5272,7 +6753,19 @@
         "word"
       ],
       "article_title": "Chinese businesses of all stripes are turning to Huawei",
-      "official_url": "https://www.economist.com/search?q=Chinese%20businesses%20of%20all%20stripes%20are%20turning%20to%20Huawei"
+      "official_url": "https://www.economist.com/search?q=Chinese%20businesses%20of%20all%20stripes%20are%20turning%20to%20Huawei",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 247",
+          "article_title": "Chinese businesses of all stripes are turning to Huawei",
+          "official_url": "https://www.economist.com/search?q=Chinese%20businesses%20of%20all%20stripes%20are%20turning%20to%20Huawei"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "Australian-style",
@@ -5290,7 +6783,19 @@
         "word"
       ],
       "article_title": "Social-media curbs for kids are not working in Asia",
-      "official_url": "https://www.economist.com/search?q=Social-media%20curbs%20for%20kids%20are%20not%20working%20in%20Asia"
+      "official_url": "https://www.economist.com/search?q=Social-media%20curbs%20for%20kids%20are%20not%20working%20in%20Asia",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 83",
+          "article_title": "Social-media curbs for kids are not working in Asia",
+          "official_url": "https://www.economist.com/search?q=Social-media%20curbs%20for%20kids%20are%20not%20working%20in%20Asia"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "attorney general",
@@ -5308,43 +6813,26 @@
         "word"
       ],
       "article_title": "The extraordinary rise of Miami’s economy",
-      "official_url": "https://www.economist.com/search?q=The%20extraordinary%20rise%20of%20Miami%E2%80%99s%20economy"
-    },
-    {
-      "term": "asset management",
-      "pronunciation": "",
-      "meaning_en": "the professional management of investments for clients",
-      "meaning_zh": "资产管理",
-      "sentence": "It is Igor Tulchinsky, the boss of WorldQuant, an asset-management firm.",
-      "mini_note": "常见搭配：asset-management firm / arm / industry；独立作名词时通常写 asset management。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 314",
-      "category": "interesting",
-      "tags": [
-        "curated",
-        "word"
+      "official_url": "https://www.economist.com/search?q=The%20extraordinary%20rise%20of%20Miami%E2%80%99s%20economy",
+      "issues": [
+        "2026-09-05",
+        "2026-08-29"
       ],
-      "article_title": "Museums and galleries are turning to individual patrons",
-      "official_url": "https://www.economist.com/search?q=Museums%20and%20galleries%20are%20turning%20to%20individual%20patrons"
-    },
-    {
-      "term": "anti-establishment",
-      "pronunciation": "",
-      "meaning_en": "opposed to the traditional political or social elite",
-      "meaning_zh": "反建制的；反传统权力体系的",
-      "sentence": "But the attempt, which many experts considered extreme, has boosted Mr Santos’s anti-establishment cred.",
-      "mini_note": "政治评论高频词，可修饰 mood、candidate、movement；不等于简单的“反政府”。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 137",
-      "category": "interesting",
-      "tags": [
-        "curated",
-        "word"
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 265",
+          "article_title": "The extraordinary rise of Miami’s economy",
+          "official_url": "https://www.economist.com/search?q=The%20extraordinary%20rise%20of%20Miami%E2%80%99s%20economy"
+        },
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 214",
+          "article_title": "Meta settles its blockbuster trial for up to $17bn",
+          "official_url": "https://www.economist.com/search?q=Meta%20settles%20its%20blockbuster%20trial%20for%20up%20to%20%2417bn"
+        }
       ],
-      "article_title": "The presidential candidate Brazil’s authorities tried to ban",
-      "official_url": "https://www.economist.com/search?q=The%20presidential%20candidate%20Brazil%E2%80%99s%20authorities%20tried%20to%20ban"
+      "occurrence_count": 2
     },
     {
       "term": "anti-constitutional",
@@ -5362,7 +6850,19 @@
         "word"
       ],
       "article_title": "How the Alternative for Germany would govern",
-      "official_url": "https://www.economist.com/search?q=How%20the%20Alternative%20for%20Germany%20would%20govern"
+      "official_url": "https://www.economist.com/search?q=How%20the%20Alternative%20for%20Germany%20would%20govern",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 163",
+          "article_title": "How the Alternative for Germany would govern",
+          "official_url": "https://www.economist.com/search?q=How%20the%20Alternative%20for%20Germany%20would%20govern"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "animal testing",
@@ -5380,43 +6880,19 @@
         "word"
       ],
       "article_title": "The opposition of scientific research on animals",
-      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
-    },
-    {
-      "term": "all the more",
-      "pronunciation": "",
-      "meaning_en": "even more than before or than expected",
-      "meaning_zh": "更加；更为",
-      "sentence": "Higher inflation makes it all the more certain that the European Central Bank will lift interest rates again when it meets on September 10th.",
-      "mini_note": "常与 striking、important 等形容词连用。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 13",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
       ],
-      "article_title": "Business",
-      "official_url": "https://www.economist.com/search?q=Business"
-    },
-    {
-      "term": "aircraft carrier",
-      "pronunciation": "",
-      "meaning_en": "a large warship from which military aircraft can take off and land",
-      "meaning_zh": "航空母舰",
-      "sentence": "The aircraft-carrier was deployed last November.",
-      "mini_note": "单数形式；复数为 aircraft carriers。作定语时原文偶见连字符。",
-      "source": "The Economist · 2026-09-05",
-      "issue": "2026-09-05",
-      "page": "2026-09-05 · p. 9",
-      "category": "interesting",
-      "tags": [
-        "curated",
-        "word"
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 38",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
       ],
-      "article_title": "Politics",
-      "official_url": "https://www.economist.com/search?q=Politics"
+      "occurrence_count": 1
     },
     {
       "term": "trade-intelligence",
@@ -5430,11 +6906,23 @@
       "page": "2026-08-29 · p. 125",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Iran will be able to shrug off America’s financial threats",
-      "official_url": "https://www.economist.com/search?q=Iran%20will%20be%20able%20to%20shrug%20off%20America%E2%80%99s%20financial%20threats"
+      "official_url": "https://www.economist.com/search?q=Iran%20will%20be%20able%20to%20shrug%20off%20America%E2%80%99s%20financial%20threats",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 125",
+          "article_title": "Iran will be able to shrug off America’s financial threats",
+          "official_url": "https://www.economist.com/search?q=Iran%20will%20be%20able%20to%20shrug%20off%20America%E2%80%99s%20financial%20threats"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "tetrahydrocannabinol",
@@ -5448,11 +6936,23 @@
       "page": "2026-08-29 · p. 286",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "America’s cannabis-drinks market is booming— and imperilled",
-      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20cannabis-drinks%20market%20is%20booming%E2%80%94%20and%20imperilled"
+      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20cannabis-drinks%20market%20is%20booming%E2%80%94%20and%20imperilled",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 286",
+          "article_title": "America’s cannabis-drinks market is booming— and imperilled",
+          "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20cannabis-drinks%20market%20is%20booming%E2%80%94%20and%20imperilled"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "telecoms-equipment",
@@ -5466,11 +6966,23 @@
       "page": "2026-08-29 · p. 79",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "The long arm of the Chinese state",
-      "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
+      "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 79",
+          "article_title": "The long arm of the Chinese state",
+          "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "skew",
@@ -5484,11 +6996,23 @@
       "page": "2026-08-29 · p. 86",
       "category": "usage",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Chinese women are falling behind in the office",
-      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
+      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 86",
+          "article_title": "Chinese women are falling behind in the office",
+          "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "schlock",
@@ -5502,29 +7026,23 @@
       "page": "2026-08-29 · p. 173",
       "category": "usage",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Harry and Meghan are ghastly and back in Britain. Good",
-      "official_url": "https://www.economist.com/search?q=Harry%20and%20Meghan%20are%20ghastly%20and%20back%20in%20Britain.%20Good"
-    },
-    {
-      "term": "rule of law",
-      "pronunciation": "",
-      "meaning_en": "the principle that everyone and every institution is subject to the law",
-      "meaning_zh": "法治；法律至上",
-      "sentence": "Unrelenting violence, an unregulated economy and the absence of the rule of law have meant that Myanmar’s people are living in “untold misery”, said the UN.",
-      "mini_note": "政治和法律评论中的高频表达。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 11",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
+      "official_url": "https://www.economist.com/search?q=Harry%20and%20Meghan%20are%20ghastly%20and%20back%20in%20Britain.%20Good",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "Politics",
-      "official_url": "https://www.economist.com/search?q=Politics"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 173",
+          "article_title": "Harry and Meghan are ghastly and back in Britain. Good",
+          "official_url": "https://www.economist.com/search?q=Harry%20and%20Meghan%20are%20ghastly%20and%20back%20in%20Britain.%20Good"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "reasonable-sounding",
@@ -5538,11 +7056,23 @@
       "page": "2026-08-29 · p. 57",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Donald Trump is delivering the deportations he promised",
-      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 57",
+          "article_title": "Donald Trump is delivering the deportations he promised",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "ratcheted higher",
@@ -5556,11 +7086,23 @@
       "page": "2026-08-29 · p. 33",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "When obeying an American law means breaking a Chinese one",
-      "official_url": "https://www.economist.com/search?q=When%20obeying%20an%20American%20law%20means%20breaking%20a%20Chinese%20one"
+      "official_url": "https://www.economist.com/search?q=When%20obeying%20an%20American%20law%20means%20breaking%20a%20Chinese%20one",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 33",
+          "article_title": "When obeying an American law means breaking a Chinese one",
+          "official_url": "https://www.economist.com/search?q=When%20obeying%20an%20American%20law%20means%20breaking%20a%20Chinese%20one"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "on the brink",
@@ -5574,11 +7116,23 @@
       "page": "2026-08-29 · p. 8",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "Politics",
-      "official_url": "https://www.economist.com/search?q=Politics"
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 8",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "on balance",
@@ -5592,11 +7146,23 @@
       "page": "2026-08-29 · p. 53",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "Donald Trump is delivering the deportations he promised",
-      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 53",
+          "article_title": "Donald Trump is delivering the deportations he promised",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "morass",
@@ -5610,11 +7176,23 @@
       "page": "2026-08-29 · p. 65",
       "category": "usage",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Can AI make dysfunctional governments more effective?",
-      "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F"
+      "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 65",
+          "article_title": "Can AI make dysfunctional governments more effective?",
+          "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "mischaracterisations",
@@ -5628,11 +7206,23 @@
       "page": "2026-08-29 · p. 37",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Daron Acemoglu responds to our article",
-      "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article"
+      "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 37",
+          "article_title": "Daron Acemoglu responds to our article",
+          "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "manufacturing-heavy",
@@ -5646,11 +7236,23 @@
       "page": "2026-08-29 · p. 166",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "British politicians want a manufacturing jobs boom",
-      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
+      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 166",
+          "article_title": "British politicians want a manufacturing jobs boom",
+          "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "Lebanese-Nigerian",
@@ -5668,7 +7270,19 @@
         "word"
       ],
       "article_title": "The quiet tycoons powering Africa’s rise",
-      "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise"
+      "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 133",
+          "article_title": "The quiet tycoons powering Africa’s rise",
+          "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "labour-productivity",
@@ -5682,11 +7296,23 @@
       "page": "2026-08-29 · p. 241",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "The economic costs of Donald Trump’s immigration crackdown",
-      "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown"
+      "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 241",
+          "article_title": "The economic costs of Donald Trump’s immigration crackdown",
+          "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "knowledge-intensive",
@@ -5700,11 +7326,23 @@
       "page": "2026-08-29 · p. 168",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "British politicians want a manufacturing jobs boom",
-      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
+      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 168",
+          "article_title": "British politicians want a manufacturing jobs boom",
+          "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "investment-promotion",
@@ -5718,65 +7356,23 @@
       "page": "2026-08-29 · p. 84",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Chinese women are falling behind in the office",
-      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
-    },
-    {
-      "term": "influence-peddling",
-      "pronunciation": "",
-      "meaning_en": "the improper use of influence for personal or commercial gain",
-      "meaning_zh": "以权谋私；影响力交易",
-      "sentence": "Their appetite for bribes and aversion to business reduced what was once one of India’s industrial strongholds to a “syndicate raj” of dodgy influence-peddling.",
-      "mini_note": "通常带有贬义。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 70",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "A hundred days of BJP shock and awe in West Bengal",
-      "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal"
-    },
-    {
-      "term": "in turn",
-      "pronunciation": "",
-      "meaning_en": "successively, or as a result of something else",
-      "meaning_zh": "依次；反过来；从而",
-      "sentence": "Dark energy therefore sets the size of the dark dimension, which in turn sets the mass of the dark matter, which is itself nothing but gravity seeping into the dark dimension.",
-      "mini_note": "根据上下文判断是顺序关系还是因果关系。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 256",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 84",
+          "article_title": "Chinese women are falling behind in the office",
+          "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
+        }
       ],
-      "article_title": "The universe is peculiar. But it may soon become less so",
-      "official_url": "https://www.economist.com/search?q=The%20universe%20is%20peculiar.%20But%20it%20may%20soon%20become%20less%20so"
-    },
-    {
-      "term": "in the long run",
-      "pronunciation": "",
-      "meaning_en": "over a long period of time",
-      "meaning_zh": "从长远看",
-      "sentence": "The backlash against Mr Trump’s campaign could hurt Republicans in the midterm elections—and, in the long run, could lead to an overhaul of the immigration system.",
-      "mini_note": "常用于比较短期代价与长期结果。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 52",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
-      ],
-      "article_title": "Donald Trump is delivering the deportations he promised",
-      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+      "occurrence_count": 1
     },
     {
       "term": "image-recognition",
@@ -5790,11 +7386,23 @@
       "page": "2026-08-29 · p. 202",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "China is training up thousands of humanoid robots",
-      "official_url": "https://www.economist.com/search?q=China%20is%20training%20up%20thousands%20of%20humanoid%20robots"
+      "official_url": "https://www.economist.com/search?q=China%20is%20training%20up%20thousands%20of%20humanoid%20robots",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 202",
+          "article_title": "China is training up thousands of humanoid robots",
+          "official_url": "https://www.economist.com/search?q=China%20is%20training%20up%20thousands%20of%20humanoid%20robots"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "humanitarian-parole",
@@ -5808,11 +7416,23 @@
       "page": "2026-08-29 · p. 240",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "The economic costs of Donald Trump’s immigration crackdown",
-      "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown"
+      "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 240",
+          "article_title": "The economic costs of Donald Trump’s immigration crackdown",
+          "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "horses-and-buggies",
@@ -5826,11 +7446,23 @@
       "page": "2026-08-29 · p. 217",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "One thing America still excels at making? Pretzels",
-      "official_url": "https://www.economist.com/search?q=One%20thing%20America%20still%20excels%20at%20making%3F%20Pretzels"
+      "official_url": "https://www.economist.com/search?q=One%20thing%20America%20still%20excels%20at%20making%3F%20Pretzels",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 217",
+          "article_title": "One thing America still excels at making? Pretzels",
+          "official_url": "https://www.economist.com/search?q=One%20thing%20America%20still%20excels%20at%20making%3F%20Pretzels"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "homeland-security",
@@ -5844,11 +7476,23 @@
       "page": "2026-08-29 · p. 19",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "The Unwelcoming States of America",
-      "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+      "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 19",
+          "article_title": "The Unwelcoming States of America",
+          "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "hindu-nationalist",
@@ -5862,11 +7506,23 @@
       "page": "2026-08-29 · p. 70",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "A hundred days of BJP shock and awe in West Bengal",
-      "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal"
+      "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 70",
+          "article_title": "A hundred days of BJP shock and awe in West Bengal",
+          "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "highest-performing",
@@ -5880,29 +7536,23 @@
       "page": "2026-08-29 · p. 168",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "British politicians want a manufacturing jobs boom",
-      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
-    },
-    {
-      "term": "headline-grabbing",
-      "pronunciation": "",
-      "meaning_en": "likely to attract a lot of attention in the news",
-      "meaning_zh": "吸引头条注意的；轰动的",
-      "sentence": "Since then, there have been fewer headline-grabbing clashes, as a showboating homeland-security chief has been replaced by a more competent one.",
-      "mini_note": "可作定语，常带轻微评论色彩。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 19",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "The Unwelcoming States of America",
-      "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 168",
+          "article_title": "British politicians want a manufacturing jobs boom",
+          "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "gusto",
@@ -5916,29 +7566,23 @@
       "page": "2026-08-29 · p. 77",
       "category": "usage",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "The long arm of the Chinese state",
-      "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
-    },
-    {
-      "term": "government-backed",
-      "pronunciation": "",
-      "meaning_en": "supported or financed by a government",
-      "meaning_zh": "政府支持的；政府担保的",
-      "sentence": "The attacks seem designed to weaken the National Resistance Forces, an elite group of government-backed fighters that use Mokha as a base.",
-      "mini_note": "可描述企业、贷款、项目或机构。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 129",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "How the Houthis have become the most fearsome of Iran’s allies",
-      "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 77",
+          "article_title": "The long arm of the Chinese state",
+          "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "government-aligned",
@@ -5952,11 +7596,23 @@
       "page": "2026-08-29 · p. 129",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "How the Houthis have become the most fearsome of Iran’s allies",
-      "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies"
+      "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 129",
+          "article_title": "How the Houthis have become the most fearsome of Iran’s allies",
+          "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "forthright",
@@ -5970,47 +7626,23 @@
       "page": "2026-08-29 · p. 84",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Chinese women are falling behind in the office",
-      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
-    },
-    {
-      "term": "endure",
-      "pronunciation": "",
-      "meaning_en": "to suffer something difficult patiently or for a long time",
-      "meaning_zh": "忍受；经受住",
-      "sentence": "Their country has already endured the “maximum pressure” campaign of Mr Trump’s first term and the bombing campaigns of his second.",
-      "mini_note": "可作不及物动词，强调持续承受困难。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 29",
-      "category": "usage",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "America’s new sanctions are unlikely to topple Iran’s regime",
-      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20new%20sanctions%20are%20unlikely%20to%20topple%20Iran%E2%80%99s%20regime"
-    },
-    {
-      "term": "electrical-equipment",
-      "pronunciation": "",
-      "meaning_en": "machines or devices that use or distribute electricity",
-      "meaning_zh": "电气设备",
-      "sentence": "Electrical-equipment makers are still benefiting from an investment cycle accelerated by policies enacted under Joe Biden.",
-      "mini_note": "常见于制造业和基础设施语境。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 100",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 84",
+          "article_title": "Chinese women are falling behind in the office",
+          "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
+        }
       ],
-      "article_title": "Does Donald Trump deserve credit for a manufacturing revival?",
-      "official_url": "https://www.economist.com/search?q=Does%20Donald%20Trump%20deserve%20credit%20for%20a%20manufacturing%20revival%3F"
+      "occurrence_count": 1
     },
     {
       "term": "dollar-for-dollar",
@@ -6024,11 +7656,23 @@
       "page": "2026-08-29 · p. 23",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Mark Carney must beware an all-out trade war",
-      "official_url": "https://www.economist.com/search?q=Mark%20Carney%20must%20beware%20an%20all-out%20trade%20war"
+      "official_url": "https://www.economist.com/search?q=Mark%20Carney%20must%20beware%20an%20all-out%20trade%20war",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 23",
+          "article_title": "Mark Carney must beware an all-out trade war",
+          "official_url": "https://www.economist.com/search?q=Mark%20Carney%20must%20beware%20an%20all-out%20trade%20war"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "document-processing",
@@ -6042,11 +7686,23 @@
       "page": "2026-08-29 · p. 66",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Can AI make dysfunctional governments more effective?",
-      "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F"
+      "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 66",
+          "article_title": "Can AI make dysfunctional governments more effective?",
+          "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "deporter-in-chief",
@@ -6060,11 +7716,23 @@
       "page": "2026-08-29 · p. 49",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Donald Trump is delivering the deportations he promised",
-      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 49",
+          "article_title": "Donald Trump is delivering the deportations he promised",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "counter-subsidies",
@@ -6078,29 +7746,23 @@
       "page": "2026-08-29 · p. 170",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "Steelyard blues",
-      "official_url": "https://www.economist.com/search?q=Steelyard%20blues"
-    },
-    {
-      "term": "commander-in-chief",
-      "pronunciation": "",
-      "meaning_en": "the person who has supreme command of a country’s armed forces",
-      "meaning_zh": "三军统帅；最高统帅",
-      "sentence": "As long as Mr Trump is still commander-in-chief, he can secure a place in history by remaking, or breaking, the world.",
-      "mini_note": "美国总统等国家元首常用称谓。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 195",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=Steelyard%20blues",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "As his presidency flounders, Trump is more dangerous than ever",
-      "official_url": "https://www.economist.com/search?q=As%20his%20presidency%20flounders%2C%20Trump%20is%20more%20dangerous%20than%20ever"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 170",
+          "article_title": "Steelyard blues",
+          "official_url": "https://www.economist.com/search?q=Steelyard%20blues"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "college-to-Silicon Valley pipeline",
@@ -6118,7 +7780,19 @@
         "word"
       ],
       "article_title": "The Unwelcoming States of America",
-      "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+      "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 20",
+          "article_title": "The Unwelcoming States of America",
+          "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "career-wreckingly",
@@ -6132,11 +7806,23 @@
       "page": "2026-08-29 · p. 246",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "What makes a great investor?",
-      "official_url": "https://www.economist.com/search?q=What%20makes%20a%20great%20investor%3F"
+      "official_url": "https://www.economist.com/search?q=What%20makes%20a%20great%20investor%3F",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 246",
+          "article_title": "What makes a great investor?",
+          "official_url": "https://www.economist.com/search?q=What%20makes%20a%20great%20investor%3F"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "capitalist-roader",
@@ -6150,29 +7836,23 @@
       "page": "2026-08-29 · p. 236",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "China should be loosening budgetary policy. It’s doing the opposite",
-      "official_url": "https://www.economist.com/search?q=China%20should%20be%20loosening%20budgetary%20policy.%20It%E2%80%99s%20doing%20the%20opposite"
-    },
-    {
-      "term": "capital-intensive",
-      "pronunciation": "",
-      "meaning_en": "requiring a large amount of capital to operate or develop",
-      "meaning_zh": "资本密集型的",
-      "sentence": "It becomes flammable only after being drained, and draining it ranks among the most capital-intensive infrastructure feats in Indonesia’s history, canals cut by heavy machinery ac…",
-      "mini_note": "常修饰 industry、project、infrastructure。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 39",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=China%20should%20be%20loosening%20budgetary%20policy.%20It%E2%80%99s%20doing%20the%20opposite",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "Daron Acemoglu responds to our article",
-      "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 236",
+          "article_title": "China should be loosening budgetary policy. It’s doing the opposite",
+          "official_url": "https://www.economist.com/search?q=China%20should%20be%20loosening%20budgetary%20policy.%20It%E2%80%99s%20doing%20the%20opposite"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "broadband-from-space",
@@ -6186,11 +7866,23 @@
       "page": "2026-08-29 · p. 262",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "SpaceX plans to build the world’s biggest spaceport",
-      "official_url": "https://www.economist.com/search?q=SpaceX%20plans%20to%20build%20the%20world%E2%80%99s%20biggest%20spaceport"
+      "official_url": "https://www.economist.com/search?q=SpaceX%20plans%20to%20build%20the%20world%E2%80%99s%20biggest%20spaceport",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 262",
+          "article_title": "SpaceX plans to build the world’s biggest spaceport",
+          "official_url": "https://www.economist.com/search?q=SpaceX%20plans%20to%20build%20the%20world%E2%80%99s%20biggest%20spaceport"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "balance-of-payments",
@@ -6204,11 +7896,23 @@
       "page": "2026-08-29 · p. 234",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "How India’s central bank subsidised the diaspora",
-      "official_url": "https://www.economist.com/search?q=How%20India%E2%80%99s%20central%20bank%20subsidised%20the%20diaspora"
+      "official_url": "https://www.economist.com/search?q=How%20India%E2%80%99s%20central%20bank%20subsidised%20the%20diaspora",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 234",
+          "article_title": "How India’s central bank subsidised the diaspora",
+          "official_url": "https://www.economist.com/search?q=How%20India%E2%80%99s%20central%20bank%20subsidised%20the%20diaspora"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "backward-integrate",
@@ -6222,29 +7926,23 @@
       "page": "2026-08-29 · p. 134",
       "category": "interesting",
       "tags": [
-        "auto-candidate",
+        "curated",
         "word"
       ],
       "article_title": "The quiet tycoons powering Africa’s rise",
-      "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise"
-    },
-    {
-      "term": "attorneys-general",
-      "pronunciation": "",
-      "meaning_en": "the chief legal officers of a state or government",
-      "meaning_zh": "检察长；司法部长（复数）",
-      "sentence": "Then, on August 26th, Meta and the attorneys-general filed a settlement agreement.",
-      "mini_note": "attorney general 的复数形式不规则。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 214",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "Meta settles its blockbuster trial for up to $17bn",
-      "official_url": "https://www.economist.com/search?q=Meta%20settles%20its%20blockbuster%20trial%20for%20up%20to%20%2417bn"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 134",
+          "article_title": "The quiet tycoons powering Africa’s rise",
+          "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "at odds",
@@ -6258,11 +7956,23 @@
       "page": "2026-08-29 · p. 282",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "The Philippines is going wild for its home-grown star, Alex Eala",
-      "official_url": "https://www.economist.com/search?q=The%20Philippines%20is%20going%20wild%20for%20its%20home-grown%20star%2C%20Alex%20Eala"
+      "official_url": "https://www.economist.com/search?q=The%20Philippines%20is%20going%20wild%20for%20its%20home-grown%20star%2C%20Alex%20Eala",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 282",
+          "article_title": "The Philippines is going wild for its home-grown star, Alex Eala",
+          "official_url": "https://www.economist.com/search?q=The%20Philippines%20is%20going%20wild%20for%20its%20home-grown%20star%2C%20Alex%20Eala"
+        }
+      ],
+      "occurrence_count": 1
     },
     {
       "term": "all-out trade war",
@@ -6276,47 +7986,23 @@
       "page": "2026-08-29 · p. 8",
       "category": "common",
       "tags": [
-        "auto-candidate",
+        "curated",
         "phrase"
       ],
       "article_title": "Politics",
-      "official_url": "https://www.economist.com/search?q=Politics"
-    },
-    {
-      "term": "all the more",
-      "pronunciation": "",
-      "meaning_en": "even more than before or than expected",
-      "meaning_zh": "更加；更为",
-      "sentence": "All the more striking, then, that China now wants to play the extraterritorial game, waging lawfare with ever more gusto.",
-      "mini_note": "常与 striking、important 等形容词连用。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 77",
-      "category": "common",
-      "tags": [
-        "auto-candidate",
-        "phrase"
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-08-29"
       ],
-      "article_title": "The long arm of the Chinese state",
-      "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
-    },
-    {
-      "term": "aircraft-carriers",
-      "pronunciation": "",
-      "meaning_en": "large warships that operate military aircraft",
-      "meaning_zh": "航空母舰",
-      "sentence": "He loves “Victory at Sea”, a 1950s documentary about the American navy’s exploits in the second world war, with battleships firing big guns and planes taking off from the pitching…",
-      "mini_note": "aircraft carrier 的复数。",
-      "source": "The Economist · 2026-08-29",
-      "issue": "2026-08-29",
-      "page": "2026-08-29 · p. 95",
-      "category": "interesting",
-      "tags": [
-        "auto-candidate",
-        "word"
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 8",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
       ],
-      "article_title": "From battleships to catapults, Trump keeps messing with the navy",
-      "official_url": "https://www.economist.com/search?q=From%20battleships%20to%20catapults%2C%20Trump%20keeps%20messing%20with%20the%20navy"
+      "occurrence_count": 1
     }
   ],
   "latest_reads": [
