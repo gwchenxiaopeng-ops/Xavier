@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173f35">
+  <meta name="description" content="移动端友好的英文精读、文章索引与双语词汇卡。">
+  <title>英文精读札记 · Reading Notes</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#home" data-route="home" aria-label="英文精读札记首页">
+      <span class="brand-mark">R</span>
+      <span><strong>英文精读札记</strong><small>Reading Notes</small></span>
+    </a>
+    <nav class="desktop-nav" aria-label="主导航">
+      <button class="nav-link is-active" type="button" data-route="home">首页</button>
+      <button class="nav-link" type="button" data-route="articles">文章索引</button>
+      <button class="nav-link" type="button" data-route="vocab">词汇卡</button>
+      <button class="nav-link" type="button" data-route="about">关于</button>
+    </nav>
+    <button id="shareButton" class="share-button" type="button">分享</button>
+  </header>
+
+  <main>
+    <section class="page is-active" data-page="home">
+      <div class="hero">
+        <div class="hero-copy">
+          <p class="kicker">READ · NOTICE · REMEMBER</p>
+          <h1>读新闻，也积累<br><em>真正能用的英语</em></h1>
+          <p class="hero-intro">把每一期阅读沉淀成文章索引、语境例句和双语词汇卡。适合手机浏览，也方便把学习成果分享给朋友。</p>
+          <div class="hero-actions">
+            <button class="primary-button" type="button" data-route="vocab">开始看词卡</button>
+            <button class="text-button" type="button" data-route="articles">浏览文章索引 →</button>
+          </div>
+        </div>
+        <div class="hero-edition" aria-label="最新一期">
+          <span>LATEST EDITION</span>
+          <strong id="heroIssue">—</strong>
+          <p><b id="heroArticles">0</b> 篇索引 · <b id="heroVocab">0</b> 张词卡</p>
+        </div>
+      </div>
+
+      <div id="stats" class="stats" aria-label="公开内容统计"></div>
+
+      <section class="content-section">
+        <div class="section-heading">
+          <div><p class="kicker">ISSUES</p><h2>近期整理</h2></div>
+          <button class="text-button" type="button" data-route="articles">全部文章 →</button>
+        </div>
+        <div id="issueStrip" class="issue-strip" aria-live="polite"></div>
+      </section>
+
+      <section class="content-section split-section">
+        <div>
+          <div class="section-heading compact"><div><p class="kicker">VOCABULARY</p><h2>本周表达</h2></div></div>
+          <div id="featuredVocab" class="featured-vocab"></div>
+        </div>
+        <div>
+          <div class="section-heading compact"><div><p class="kicker">FROM THE ECONOMIST</p><h2>官方最新文章</h2></div></div>
+          <div id="latestReads" class="latest-reads"></div>
+        </div>
+      </section>
+    </section>
+
+    <section class="page" data-page="articles" hidden>
+      <div class="page-head">
+        <p class="kicker">ARTICLE INDEX</p>
+        <h1>文章索引</h1>
+        <p>按期号和栏目查找阅读主题，点击后前往 The Economist 官方网站。</p>
+      </div>
+      <div class="filter-bar">
+        <label class="search-field"><span>搜索</span><input id="articleSearch" type="search" placeholder="标题、栏目或摘要" autocomplete="off"></label>
+        <label><span>期号</span><select id="articleIssue"><option value="">全部期号</option></select></label>
+        <label><span>栏目</span><select id="articleSection"><option value="">全部栏目</option></select></label>
+      </div>
+      <div class="result-line"><strong id="articleResultCount">0</strong> 篇文章</div>
+      <div id="articleGrid" class="article-grid" aria-live="polite"></div>
+      <button id="moreArticles" class="load-more" type="button">加载更多</button>
+    </section>
+
+    <section class="page" data-page="vocab" hidden>
+      <div class="page-head">
+        <p class="kicker">VOCABULARY CARDS</p>
+        <h1>词汇与表达</h1>
+        <p>每张卡都保留简短语境，同时连接到所属文章的官方入口。</p>
+      </div>
+      <div class="filter-bar vocab-filter">
+        <label class="search-field"><span>搜索</span><input id="vocabSearch" type="search" placeholder="表达、释义或例句" autocomplete="off"></label>
+        <label><span>期号</span><select id="vocabIssue"><option value="">全部期号</option></select></label>
+        <label><span>类型</span><select id="vocabCategory"><option value="">全部类型</option><option value="usage">熟词新用法</option><option value="interesting">陌生 / 感兴趣</option><option value="common">常用表达</option><option value="other">其他</option></select></label>
+      </div>
+      <div class="result-line"><strong id="vocabResultCount">0</strong> 张词卡</div>
+      <div id="vocabGrid" class="vocab-grid" aria-live="polite"></div>
+      <button id="moreVocab" class="load-more" type="button">加载更多</button>
+    </section>
+
+    <section class="page" data-page="about" hidden>
+      <div class="page-head narrow">
+        <p class="kicker">ABOUT THIS PROJECT</p>
+        <h1>这是一份学习笔记，<br>不是杂志镜像。</h1>
+        <p>公开站点只展示自制的词汇卡、文章目录、简短摘要和少量语境摘录。完整文章及刊物文件不会上传。</p>
+      </div>
+      <div class="about-grid">
+        <article><span>01</span><h2>阅读入口</h2><p>文章卡片只提供主题线索，并跳转至 The Economist 官方网站继续阅读。</p></article>
+        <article><span>02</span><h2>语言积累</h2><p>词汇卡聚焦释义、搭配、语气和可复用表达，而不是复制原文。</p></article>
+        <article><span>03</span><h2>持续更新</h2><p>本地学习系统定期整理新内容，再导出经过筛选的公开数据。</p></article>
+      </div>
+      <div class="public-note"><strong>内容说明</strong><p id="publicNotice">公开版不包含杂志文件或完整文章。</p></div>
+    </section>
+  </main>
+
+  <footer>
+    <span>英文精读札记 · Personal learning notes</span>
+    <span id="updatedAt">正在读取数据…</span>
+  </footer>
+
+  <nav class="mobile-nav" aria-label="移动端导航">
+    <button class="is-active" type="button" data-route="home"><span>⌂</span>首页</button>
+    <button type="button" data-route="articles"><span>▤</span>文章</button>
+    <button type="button" data-route="vocab"><span>Aa</span>词汇</button>
+    <button type="button" data-route="about"><span>○</span>关于</button>
+  </nav>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
