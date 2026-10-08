@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "exported_at": "2026-10-08T02:15:20+00:00",
+  "exported_at": "2026-10-08T02:33:14+00:00",
   "notice": "公开版不包含杂志文件或完整文章；文章入口跳转至 The Economist 官方网站。",
   "stats": {
-    "issues": 4,
+    "issues": 6,
     "articles": 448,
-    "vocab": 200
+    "vocab": 300
   },
   "issues": [
     {
@@ -30,6 +30,18 @@
       "issue": "2026-09-12",
       "format": "EPUB",
       "article_count": 71,
+      "vocab_count": 50
+    },
+    {
+      "issue": "2026-09-05",
+      "format": "PDF",
+      "article_count": 79,
+      "vocab_count": 50
+    },
+    {
+      "issue": "2026-08-29",
+      "format": "PDF",
+      "article_count": 72,
       "vocab_count": 50
     }
   ],
@@ -10064,6 +10076,3006 @@
           "page": "2026-09-12 · p. 59",
           "article_title": "How to cool buildings on the cheap",
           "official_url": "https://www.economist.com/search?q=How%20to%20cool%20buildings%20on%20the%20cheap"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "virtue signalling",
+      "pronunciation": "",
+      "meaning_en": "the public display of moral views mainly to appear virtuous",
+      "meaning_zh": "美德表演；道德姿态",
+      "sentence": "Western virtue-signalling politicians can look elsewhere for their validation.",
+      "mini_note": "通常是贬义标签，暗示表态重在展示自身正确而非产生实际效果。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 39",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The opposition of scientific research on animals",
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 39",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "utilitarian",
+      "pronunciation": "",
+      "meaning_en": "believing that actions should be judged by how much overall well-being they produce",
+      "meaning_zh": "功利主义的；功利主义者",
+      "sentence": "As even the great utilitarian, Jeremy Bentham, once said, the question is not “Can they reason?” or “Can they talk?, but “Can they suffer?” Steven ShakespeareProfessor of philosop…",
+      "mini_note": "原词是职位与地名粘连造成的抽取错误，已根据例句中的 Jeremy Bentham 改为 utilitarian。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 39",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The opposition of scientific research on animals",
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 39",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "United States-Mexico-Canada Agreement",
+      "pronunciation": "",
+      "meaning_en": "the trade agreement linking the United States, Mexico and Canada",
+      "meaning_zh": "《美墨加协定》；美国—墨西哥—加拿大协定",
+      "sentence": "Investor confidence has been hit by uncertainty over the fate of the United States-Mexico-Canada Agreement (USMCA), which America’s president is dismantling.",
+      "mini_note": "原词是专名被截断后的抽取结果，已还原为 United States-Mexico-Canada Agreement，缩写 USMCA。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 275",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Mexico is struggling to win over bond markets",
+      "official_url": "https://www.economist.com/search?q=Mexico%20is%20struggling%20to%20win%20over%20bond%20markets",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 275",
+          "article_title": "Mexico is struggling to win over bond markets",
+          "official_url": "https://www.economist.com/search?q=Mexico%20is%20struggling%20to%20win%20over%20bond%20markets"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "uninitiated",
+      "pronunciation": "",
+      "meaning_en": "people who lack special knowledge or experience of a subject",
+      "meaning_zh": "外行；未入门者；不了解内情的人",
+      "sentence": "But that is a mystery only for the uninitiated: a French scholar in the 18th century called it a tapisserie (tapestry), and it stuck.",
+      "mini_note": "常用结构 for the uninitiated，指“给不了解这一领域的人”。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 310",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The many mysteries and lessons of the Bayeux tapestry",
+      "official_url": "https://www.economist.com/search?q=The%20many%20mysteries%20and%20lessons%20of%20the%20Bayeux%20tapestry",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 310",
+          "article_title": "The many mysteries and lessons of the Bayeux tapestry",
+          "official_url": "https://www.economist.com/search?q=The%20many%20mysteries%20and%20lessons%20of%20the%20Bayeux%20tapestry"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "two-centuries-old",
+      "pronunciation": "",
+      "meaning_en": "having existed for about two hundred years",
+      "meaning_zh": "有约两百年历史的",
+      "sentence": "It is only a couple of years since the Nordic country joined NATO, driven by Mr Putin’s aggression to abandon a two-centuries-old policy of neutrality, bordering at times on wide-…",
+      "mini_note": "数量复合形容词中 century 用复数 centuries，整体置于名词前并加连字符。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 217",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The Ukraine war is intensifying, expanding and stuck",
+      "official_url": "https://www.economist.com/search?q=The%20Ukraine%20war%20is%20intensifying%2C%20expanding%20and%20stuck",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 217",
+          "article_title": "The Ukraine war is intensifying, expanding and stuck",
+          "official_url": "https://www.economist.com/search?q=The%20Ukraine%20war%20is%20intensifying%2C%20expanding%20and%20stuck"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "sword-and-sandal",
+      "pronunciation": "",
+      "meaning_en": "a film or story genre set in the ancient world and filled with battles and spectacle",
+      "meaning_zh": "古装史诗类型；“剑与凉鞋”式故事",
+      "sentence": "Ultimately his choice of narrator means this swords-and-sandals tale does not quite result in the philosophical meditation on friendship, loyalty and power that Mr Harris aimed fo…",
+      "mini_note": "更固定的形式是 sword-and-sandal epic；原文以复数制造轻松的评论语气。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 319",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "With “Agrippa” Robert Harris is back to roaming in ancient Rome",
+      "official_url": "https://www.economist.com/search?q=With%20%E2%80%9CAgrippa%E2%80%9D%20Robert%20Harris%20is%20back%20to%20roaming%20in%20ancient%20Rome",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 319",
+          "article_title": "With “Agrippa” Robert Harris is back to roaming in ancient Rome",
+          "official_url": "https://www.economist.com/search?q=With%20%E2%80%9CAgrippa%E2%80%9D%20Robert%20Harris%20is%20back%20to%20roaming%20in%20ancient%20Rome"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "superfast fashion",
+      "pronunciation": "",
+      "meaning_en": "an extremely rapid form of fast fashion with very short design-to-sale cycles",
+      "meaning_zh": "超快时尚",
+      "sentence": "It offered a refuge to Shein, a pedlar of superfast-fashion which debuted on August 31st, after geopolitical concerns deterred the company from listing in New York or London.",
+      "mini_note": "比 fast fashion 周期更短、上新更频繁，常用于描述 Shein 一类平台模式并带批评色彩。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 283",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "IPO booms can spell trouble for the markets",
+      "official_url": "https://www.economist.com/search?q=IPO%20booms%20can%20spell%20trouble%20for%20the%20markets",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 283",
+          "article_title": "IPO booms can spell trouble for the markets",
+          "official_url": "https://www.economist.com/search?q=IPO%20booms%20can%20spell%20trouble%20for%20the%20markets"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "stars-and-stripes",
+      "pronunciation": "",
+      "meaning_en": "decorated with the pattern of the United States flag",
+      "meaning_zh": "星条旗图案的；美国国旗风格的",
+      "sentence": "(“Anti-rent radical and Mamdani pal who is ‘squatting’ in Brooklyn is Grammy nepo baby”.) The Post has branded Grace Ryan, “a 25-year-old chocolate heiress from Ohio”, as “one of…",
+      "mini_note": "Stars and Stripes 也可直接指美国国旗；作服饰定语时常为小写并加连字符。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 124",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Woke 1 was about identity. Woke 2 is about class",
+      "official_url": "https://www.economist.com/search?q=Woke%201%20was%20about%20identity.%20Woke%202%20is%20about%20class",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 124",
+          "article_title": "Woke 1 was about identity. Woke 2 is about class",
+          "official_url": "https://www.economist.com/search?q=Woke%201%20was%20about%20identity.%20Woke%202%20is%20about%20class"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Singapore-inspired",
+      "pronunciation": "",
+      "meaning_en": "modelled on or influenced by Singapore's approach",
+      "meaning_zh": "借鉴新加坡模式的；受新加坡启发的",
+      "sentence": "The Singapore-inspired master plan features abundant water and greenery and miles of cycle lanes, designed around a grid system.",
+      "mini_note": "inspired 表示借鉴而非照搬；Singapore 必须大写。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 66",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Chandrababu Naidu’s techno-utopian vision for his Indian state",
+      "official_url": "https://www.economist.com/search?q=Chandrababu%20Naidu%E2%80%99s%20techno-utopian%20vision%20for%20his%20Indian%20state",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 66",
+          "article_title": "Chandrababu Naidu’s techno-utopian vision for his Indian state",
+          "official_url": "https://www.economist.com/search?q=Chandrababu%20Naidu%E2%80%99s%20techno-utopian%20vision%20for%20his%20Indian%20state"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "self-consciousness",
+      "pronunciation": "",
+      "meaning_en": "nervous awareness of oneself and how one appears to others",
+      "meaning_zh": "不自在；忸怩；过度在意自己",
+      "sentence": "Yet he sang along to Dolly without any hint of self-consciousness.",
+      "mini_note": "without any hint of self-consciousness 表示非常自然投入、毫不扭捏。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 42",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The opposition of scientific research on animals",
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 42",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "repetitive-strain injury",
+      "pronunciation": "",
+      "meaning_en": "caused by repeated movements that overuse muscles or tendons",
+      "meaning_zh": "重复性劳损的",
+      "sentence": "Manuel Góngora Morales, the centre’s manager, wants to see if the devices reduce repetitive-strain injuries.",
+      "mini_note": "固定搭配 repetitive-strain injury，缩写 RSI；常见于手腕、肩颈等长期重复动作损伤。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 292",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Humble exoskeletons work better than combat supersuits",
+      "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 292",
+          "article_title": "Humble exoskeletons work better than combat supersuits",
+          "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "physical fitness",
+      "pronunciation": "",
+      "meaning_en": "the condition of being healthy, strong and able to perform physical activity",
+      "meaning_zh": "身体素质；体能",
+      "sentence": "Mr Driscoll had also fought with General LaNeve over his efforts to rewrite the army’s physical-fitness standards, a long-running fixation of Mr Hegseth’s.",
+      "mini_note": "常见搭配 physical-fitness standards / test；不要只译为“健身”。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 114",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Pete Hegseth is conquering the Pentagon",
+      "official_url": "https://www.economist.com/search?q=Pete%20Hegseth%20is%20conquering%20the%20Pentagon",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 114",
+          "article_title": "Pete Hegseth is conquering the Pentagon",
+          "official_url": "https://www.economist.com/search?q=Pete%20Hegseth%20is%20conquering%20the%20Pentagon"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "personal finance",
+      "pronunciation": "",
+      "meaning_en": "the management of an individual's income, spending, saving and investment",
+      "meaning_zh": "个人理财；个人财务",
+      "sentence": "Abigail Foster, a personal-finance influencer, argues that online personalities can reach areas that newspapers cannot: “We are where the next generation are, we look and sound li…",
+      "mini_note": "涵盖预算、储蓄、保险、投资和退休规划；常见 personal-finance advice / influencer。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 200",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The British government turns to influencers to get its message out",
+      "official_url": "https://www.economist.com/search?q=The%20British%20government%20turns%20to%20influencers%20to%20get%20its%20message%20out",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 200",
+          "article_title": "The British government turns to influencers to get its message out",
+          "official_url": "https://www.economist.com/search?q=The%20British%20government%20turns%20to%20influencers%20to%20get%20its%20message%20out"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "oilfield services",
+      "pronunciation": "",
+      "meaning_en": "specialist services and equipment supplied to oil and gas producers",
+      "meaning_zh": "油田服务",
+      "sentence": "Better known as the world’s biggest oilfield-services company, SLB also builds prefabricated infrastructure for data centres such as electrical rooms and server halls, which it th…",
+      "mini_note": "包括钻井、测井、完井和设备支持；常见 oilfield-services company。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 14",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Business",
+      "official_url": "https://www.economist.com/search?q=Business",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 14",
+          "article_title": "Business",
+          "official_url": "https://www.economist.com/search?q=Business"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "natural language",
+      "pronunciation": "",
+      "meaning_en": "relating to ordinary human language rather than computer code",
+      "meaning_zh": "自然语言的",
+      "sentence": "trawled more than 150 years of congressional speeches and millions of social-media posts, categorising their emotional character using artificial intelligence, including large lan…",
+      "mini_note": "常见搭配 natural-language processing，缩写 NLP；与 programming language 相对。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 109",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Quantifying anger in American politics",
+      "official_url": "https://www.economist.com/search?q=Quantifying%20anger%20in%20American%20politics",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 109",
+          "article_title": "Quantifying anger in American politics",
+          "official_url": "https://www.economist.com/search?q=Quantifying%20anger%20in%20American%20politics"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "mixed martial arts",
+      "pronunciation": "",
+      "meaning_en": "a combat sport combining techniques from several martial arts",
+      "meaning_zh": "综合格斗",
+      "sentence": "Only a few upstarts prosper, such as Ultimate Fighting Championship, an American mixed-martial-arts organisation that has taken cage fighting to a new level.",
+      "mini_note": "固定名称 mixed martial arts，缩写 MMA；作定语时可写 mixed-martial-arts organisation。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 253",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "LIV Golf’s failure shows how not to invest in sport",
+      "official_url": "https://www.economist.com/search?q=LIV%20Golf%E2%80%99s%20failure%20shows%20how%20not%20to%20invest%20in%20sport",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 253",
+          "article_title": "LIV Golf’s failure shows how not to invest in sport",
+          "official_url": "https://www.economist.com/search?q=LIV%20Golf%E2%80%99s%20failure%20shows%20how%20not%20to%20invest%20in%20sport"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "mass-participation",
+      "pronunciation": "",
+      "meaning_en": "involving very large numbers of ordinary participants",
+      "meaning_zh": "大众参与型的；大规模参与的",
+      "sentence": "But Hyrox claims to be the “fastest-growing mass-participation fitness concept in the world”.",
+      "mini_note": "常修饰 sport、event、fitness concept，强调普通人广泛参加而非精英竞技。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 324",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Hyrox, the fitness craze that runs and runs",
+      "official_url": "https://www.economist.com/search?q=Hyrox%2C%20the%20fitness%20craze%20that%20runs%20and%20runs",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 324",
+          "article_title": "Hyrox, the fitness craze that runs and runs",
+          "official_url": "https://www.economist.com/search?q=Hyrox%2C%20the%20fitness%20craze%20that%20runs%20and%20runs"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "management speak",
+      "pronunciation": "",
+      "meaning_en": "jargon and stock phrases commonly used by managers",
+      "meaning_zh": "管理层套话；管理黑话",
+      "sentence": "A rare fountain of ordinary management-speak is the team’s captain, Kyle Walker, who offers such pearls as: “Make sure we stick together out there.” But he is shown the door at th…",
+      "mini_note": "通常带调侃意味，指听起来专业但内容空泛的管理术语。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 260",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Why get an MBA when you can watch a sports documentary?",
+      "official_url": "https://www.economist.com/search?q=Why%20get%20an%20MBA%20when%20you%20can%20watch%20a%20sports%20documentary%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 260",
+          "article_title": "Why get an MBA when you can watch a sports documentary?",
+          "official_url": "https://www.economist.com/search?q=Why%20get%20an%20MBA%20when%20you%20can%20watch%20a%20sports%20documentary%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "maids-with-teapots roles",
+      "pronunciation": "",
+      "meaning_en": "stereotypical minor acting roles in which maids merely serve tea",
+      "meaning_zh": "端茶女仆式的小角色",
+      "sentence": "So she had persevered, progressing from maids-with-teapots parts to roles big enough to get her on the posters.",
+      "mini_note": "原文是带幽默和自嘲的临时复合词，强调演员早期角色刻板、戏份很小。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 332",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Guo Lanying was the singer everyone loved",
+      "official_url": "https://www.economist.com/search?q=Guo%20Lanying%20was%20the%20singer%20everyone%20loved",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 332",
+          "article_title": "Guo Lanying was the singer everyone loved",
+          "official_url": "https://www.economist.com/search?q=Guo%20Lanying%20was%20the%20singer%20everyone%20loved"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "laugh out loud",
+      "pronunciation": "",
+      "meaning_en": "to laugh audibly because something is very funny",
+      "meaning_zh": "大声笑出来；笑出声",
+      "sentence": "Patrick OkigboFounding partnerNextierAbuja, Nigeria It is rare for me to laugh out loud while reading, so thanks Bartleby for the six stages of holiday-making (August 15th).",
+      "mini_note": "原词是署名、机构和城市粘连造成的抽取错误，已根据例句改为高频表达 laugh out loud。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 43",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The opposition of scientific research on animals",
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 43",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "juggernaut",
+      "pronunciation": "",
+      "meaning_en": "an extremely powerful force or organisation that seems impossible to stop",
+      "meaning_zh": "势不可挡的强大力量；强势巨头",
+      "sentence": "It is less clear whether it will slow down the ai juggernaut.",
+      "mini_note": "强调推进势头而非单纯体量，常搭配 AI / commercial / political juggernaut。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 102",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "How data centres became one of America’s hottest political issues",
+      "official_url": "https://www.economist.com/search?q=How%20data%20centres%20became%20one%20of%20America%E2%80%99s%20hottest%20political%20issues",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 102",
+          "article_title": "How data centres became one of America’s hottest political issues",
+          "official_url": "https://www.economist.com/search?q=How%20data%20centres%20became%20one%20of%20America%E2%80%99s%20hottest%20political%20issues"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "investment-grade",
+      "pronunciation": "",
+      "meaning_en": "rated as having a relatively low risk of default",
+      "meaning_zh": "投资级的；达到投资级评级的",
+      "sentence": "Profits would need to drop by 60% from that plateau for Nvidia to forsake its investment-grade credit rating.",
+      "mini_note": "通常修饰 bond / credit rating；与 speculative-grade 或 junk 相对。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 19",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Nvidia is driving the AI boom. Good",
+      "official_url": "https://www.economist.com/search?q=Nvidia%20is%20driving%20the%20AI%20boom.%20Good",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 19",
+          "article_title": "Nvidia is driving the AI boom. Good",
+          "official_url": "https://www.economist.com/search?q=Nvidia%20is%20driving%20the%20AI%20boom.%20Good"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "independent-minded",
+      "pronunciation": "",
+      "meaning_en": "willing to form and act on one's own opinions",
+      "meaning_zh": "有独立见解的；有主见的",
+      "sentence": "At the other extreme are the Houthis, the most independent-minded of Iran’s allies.",
+      "mini_note": "通常偏褒义；形容政治盟友时也可能暗示“不易控制”。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 153",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Iran’s proxies are going their own way",
+      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 153",
+          "article_title": "Iran’s proxies are going their own way",
+          "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "humanitarian relief",
+      "pronunciation": "",
+      "meaning_en": "urgent assistance given to people affected by war or disaster",
+      "meaning_zh": "人道主义救援；紧急人道援助",
+      "sentence": "Besides limiting immediate humanitarian-relief efforts, the shortage of funds scuppers plans to build back better, by investing in climate-resilient roads, bridges and villages.",
+      "mini_note": "relief 强调缓解眼前困境，常与长期 reconstruction 或 development 区分。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 75",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Catastrophic floods warn Nepal of more disasters to come",
+      "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 75",
+          "article_title": "Catastrophic floods warn Nepal of more disasters to come",
+          "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "graphics processing",
+      "pronunciation": "",
+      "meaning_en": "the computer processing used to create and manipulate visual images",
+      "meaning_zh": "图形处理",
+      "sentence": "Insatiable global demand for its graphics-processing units (GPUs), the chips that power artificial intelligence, has made Nvidia the world’s most valuable company, worth $5.4trn.",
+      "mini_note": "固定搭配 graphics-processing unit，缩写 GPU；如今也广泛用于 AI 计算。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 17",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Nvidia is driving the AI boom. Good",
+      "official_url": "https://www.economist.com/search?q=Nvidia%20is%20driving%20the%20AI%20boom.%20Good",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 17",
+          "article_title": "Nvidia is driving the AI boom. Good",
+          "official_url": "https://www.economist.com/search?q=Nvidia%20is%20driving%20the%20AI%20boom.%20Good"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "general education",
+      "pronunciation": "",
+      "meaning_en": "ordinary broad schooling rather than specialised educational provision",
+      "meaning_zh": "普通教育；通识教育",
+      "sentence": "Across the country, school districts are pulling money from general-education funds to pay for services for pupils with special needs.",
+      "mini_note": "在学校财政语境中常与 special education 对照，具体译法取决于教育制度。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 119",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "America’s support system for disabled pupils is broken",
+      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20support%20system%20for%20disabled%20pupils%20is%20broken",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 119",
+          "article_title": "America’s support system for disabled pupils is broken",
+          "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20support%20system%20for%20disabled%20pupils%20is%20broken"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "forward-deployed",
+      "pronunciation": "",
+      "meaning_en": "stationed close to customers, operations or a potential conflict area",
+      "meaning_zh": "前置部署的；派驻一线的",
+      "sentence": "Legions of so-called forward-deployed engineers are now being dispatched by AI companies to their customers’ offices to troubleshoot problems and improve their tools.",
+      "mini_note": "军事上指靠近前沿部署；科技公司语境的 forward-deployed engineer 指驻客户现场解决问题的工程师。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 237",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Will anybody use AI as much as coders do?",
+      "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 237",
+          "article_title": "Will anybody use AI as much as coders do?",
+          "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "financial services",
+      "pronunciation": "",
+      "meaning_en": "services such as banking, insurance, investment and payments",
+      "meaning_zh": "金融服务",
+      "sentence": "Rogo, an AI startup building tools for the financial-services industry, added 100 enterprise customers in the past quarter and increased annual recurring revenue by 50%.",
+      "mini_note": "通常用复数 services；作定语时常写 financial-services industry / firm。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 236",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Will anybody use AI as much as coders do?",
+      "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 236",
+          "article_title": "Will anybody use AI as much as coders do?",
+          "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "financial research",
+      "pronunciation": "",
+      "meaning_en": "analysis of companies, markets and financial instruments",
+      "meaning_zh": "金融研究；财经分析",
+      "sentence": "Andy Li of CreditSights, a financial-research firm, worries that it will keep “pushing the pedal” until “something breaks”.",
+      "mini_note": "常见搭配：financial-research firm / report；与 academic research 的语境不同。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 61",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Nvidia is the central bank of AI",
+      "official_url": "https://www.economist.com/search?q=Nvidia%20is%20the%20central%20bank%20of%20AI",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 61",
+          "article_title": "Nvidia is the central bank of AI",
+          "official_url": "https://www.economist.com/search?q=Nvidia%20is%20the%20central%20bank%20of%20AI"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "exoskeleton makers",
+      "pronunciation": "",
+      "meaning_en": "companies that manufacture wearable mechanical support frames",
+      "meaning_zh": "外骨骼设备制造商",
+      "sentence": "Exoskeleton-makers say their technology is not a licence to take on heavier tasks, but some users surely will anyway.",
+      "mini_note": "exoskeleton 在工业和医疗语境中指帮助负重或行走的可穿戴机械骨架。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 292",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Humble exoskeletons work better than combat supersuits",
+      "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 292",
+          "article_title": "Humble exoskeletons work better than combat supersuits",
+          "official_url": "https://www.economist.com/search?q=Humble%20exoskeletons%20work%20better%20than%20combat%20supersuits"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "euro-denominated",
+      "pronunciation": "",
+      "meaning_en": "priced, issued or payable in euros",
+      "meaning_zh": "以欧元计价的；欧元本位的",
+      "sentence": "They are responsible for almost a tenth of euro-denominated corporate-bond issuance this year, according to the ECB.",
+      "mini_note": "金融搭配：euro-denominated bonds / debt；denominated 指规定计价货币。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 273",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Europe’s bond markets are suffering a post- holiday shock",
+      "official_url": "https://www.economist.com/search?q=Europe%E2%80%99s%20bond%20markets%20are%20suffering%20a%20post-%20holiday%20shock",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 273",
+          "article_title": "Europe’s bond markets are suffering a post- holiday shock",
+          "official_url": "https://www.economist.com/search?q=Europe%E2%80%99s%20bond%20markets%20are%20suffering%20a%20post-%20holiday%20shock"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "environmental impact",
+      "pronunciation": "",
+      "meaning_en": "the effect that an activity or project has on the natural environment",
+      "meaning_zh": "环境影响",
+      "sentence": "That didn’t stop California’s state legislature from passing several bills imposing new regulations on data centres, including environmental-impact reviews and requirements to rep…",
+      "mini_note": "最常见搭配是 environmental-impact review / assessment。独立作名词通常不用连字符。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 8",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Politics",
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 8",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "drug trafficking",
+      "pronunciation": "",
+      "meaning_en": "the illegal trade in controlled drugs",
+      "meaning_zh": "毒品贩运；非法毒品交易",
+      "sentence": "That referred to the raid carried out on January 3rd by American special forces to nab Venezuelan strongman Nicolás Maduro and his wife in Caracas, Venezuela’s capital, and fly th…",
+      "mini_note": "trafficking 强调非法运输和买卖网络；常见搭配 drug-trafficking organisation / charge。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 129",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "America has laid claim to a fifth of Venezuela’s oil",
+      "official_url": "https://www.economist.com/search?q=America%20has%20laid%20claim%20to%20a%20fifth%20of%20Venezuela%E2%80%99s%20oil",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 129",
+          "article_title": "America has laid claim to a fifth of Venezuela’s oil",
+          "official_url": "https://www.economist.com/search?q=America%20has%20laid%20claim%20to%20a%20fifth%20of%20Venezuela%E2%80%99s%20oil"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "defined-contribution",
+      "pronunciation": "",
+      "meaning_en": "describing a pension whose value depends on contributions and investment returns",
+      "meaning_zh": "确定缴费型的；缴费确定型的",
+      "sentence": "Pension funds which bought long-dated debt to fund defined-benefit retirement schemes are switching to defined-contribution plans that try to boost returns with riskier assets lik…",
+      "mini_note": "与 defined-benefit pension 相对：前者确定缴费额，退休收益随投资表现变化。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 273",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Europe’s bond markets are suffering a post- holiday shock",
+      "official_url": "https://www.economist.com/search?q=Europe%E2%80%99s%20bond%20markets%20are%20suffering%20a%20post-%20holiday%20shock",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 273",
+          "article_title": "Europe’s bond markets are suffering a post- holiday shock",
+          "official_url": "https://www.economist.com/search?q=Europe%E2%80%99s%20bond%20markets%20are%20suffering%20a%20post-%20holiday%20shock"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "customer service",
+      "pronunciation": "",
+      "meaning_en": "help and support provided to customers before and after a purchase",
+      "meaning_zh": "客户服务；客服",
+      "sentence": "Ping Wu, boss of Cresta, an AI customer-service startup, says that by analysing thousands of call-centre transcripts his firm can infer some of the knowledge lodged in the heads o…",
+      "mini_note": "作名词通常写 customer service；作定语时常见 customer-service team / startup。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 237",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Will anybody use AI as much as coders do?",
+      "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 237",
+          "article_title": "Will anybody use AI as much as coders do?",
+          "official_url": "https://www.economist.com/search?q=Will%20anybody%20use%20AI%20as%20much%20as%20coders%20do%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "critical mineral",
+      "pronunciation": "",
+      "meaning_en": "a mineral considered essential to the economy or national security and vulnerable to supply disruption",
+      "meaning_zh": "关键矿产",
+      "sentence": "In Canada, other moves are being discussed, such as curbs on oil and critical-mineral exports.",
+      "mini_note": "critical 在这里是“战略上至关重要”，不是“受到批评的”。常见复数 critical minerals。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 117",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Where Canada can hurt America most",
+      "official_url": "https://www.economist.com/search?q=Where%20Canada%20can%20hurt%20America%20most",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 117",
+          "article_title": "Where Canada can hurt America most",
+          "official_url": "https://www.economist.com/search?q=Where%20Canada%20can%20hurt%20America%20most"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "counter-intuitively",
+      "pronunciation": "",
+      "meaning_en": "in a way that is contrary to what people would normally expect",
+      "meaning_zh": "反直觉地；出乎通常预料地",
+      "sentence": "Counter-intuitively, Iran will exercise the tightest control over groups that have suffered the greatest blows to their capabilities.",
+      "mini_note": "常置于句首引出与常识相反的结论，后面通常需要解释原因。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 153",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Iran’s proxies are going their own way",
+      "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 153",
+          "article_title": "Iran’s proxies are going their own way",
+          "official_url": "https://www.economist.com/search?q=Iran%E2%80%99s%20proxies%20are%20going%20their%20own%20way"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "corporate-income tax",
+      "pronunciation": "",
+      "meaning_en": "income or profit earned by companies, especially for tax purposes",
+      "meaning_zh": "企业所得；公司收入",
+      "sentence": "That amounts to about a fifth of the total corporate-income tax that the American government collected in 2025.",
+      "mini_note": "几乎总在 corporate-income tax 中出现，中文固定译为“企业所得税”。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 251",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The IRS is going after America Inc’s overseas profits",
+      "official_url": "https://www.economist.com/search?q=The%20IRS%20is%20going%20after%20America%20Inc%E2%80%99s%20overseas%20profits",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 251",
+          "article_title": "The IRS is going after America Inc’s overseas profits",
+          "official_url": "https://www.economist.com/search?q=The%20IRS%20is%20going%20after%20America%20Inc%E2%80%99s%20overseas%20profits"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "coalition-building",
+      "pronunciation": "",
+      "meaning_en": "the process of forming an alliance between political groups",
+      "meaning_zh": "组建政治联盟；联盟构建",
+      "sentence": "Like Mr Netanyahu, Mr Abbas is not only trying to win votes, but to change the terms of coalition-building.",
+      "mini_note": "常用于议会政治，既包括选后组阁，也包括选前争取不同群体支持。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 158",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Binyamin Netanyahu sows discord ahead of Israel’s election",
+      "official_url": "https://www.economist.com/search?q=Binyamin%20Netanyahu%20sows%20discord%20ahead%20of%20Israel%E2%80%99s%20election",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 158",
+          "article_title": "Binyamin Netanyahu sows discord ahead of Israel’s election",
+          "official_url": "https://www.economist.com/search?q=Binyamin%20Netanyahu%20sows%20discord%20ahead%20of%20Israel%E2%80%99s%20election"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "climate-resilient",
+      "pronunciation": "",
+      "meaning_en": "able to withstand and recover from climate-related shocks",
+      "meaning_zh": "具有气候韧性的；能抵御气候冲击的",
+      "sentence": "Besides limiting immediate humanitarian-relief efforts, the shortage of funds scuppers plans to build back better, by investing in climate-resilient roads, bridges and villages.",
+      "mini_note": "常修饰 infrastructure、agriculture、community，重点是适应和恢复能力。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 75",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Catastrophic floods warn Nepal of more disasters to come",
+      "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 75",
+          "article_title": "Catastrophic floods warn Nepal of more disasters to come",
+          "official_url": "https://www.economist.com/search?q=Catastrophic%20floods%20warn%20Nepal%20of%20more%20disasters%20to%20come"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "chemical testing",
+      "pronunciation": "",
+      "meaning_en": "laboratory testing for chemicals, residues or product safety",
+      "meaning_zh": "化学检测；化学成分检验",
+      "sentence": "Hema, a homegrown alternative set up by Alibaba, a tech giant, allows consumers to scan some product barcodes to see chemical-testing certificates and transport logs.",
+      "mini_note": "chemical-testing certificate 指证明产品通过相关化学检测的证书。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 88",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Why can’t a tech-savvy China make its food safe?",
+      "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 88",
+          "article_title": "Why can’t a tech-savvy China make its food safe?",
+          "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "cable-resistance training",
+      "pronunciation": "",
+      "meaning_en": "resistance supplied by a cable-and-pulley exercise machine",
+      "meaning_zh": "拉索阻力；绳索器械阻力",
+      "sentence": "Researchers at the University of California, Los Angeles, got round this by augmenting a cable-resistance training machine with a VR headset running a tower-defence game (in which…",
+      "mini_note": "常用于 cable-resistance training，指健身器械提供的持续阻力，不是电缆电阻。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 303",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "How to combine exercise with video games",
+      "official_url": "https://www.economist.com/search?q=How%20to%20combine%20exercise%20with%20video%20games",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 303",
+          "article_title": "How to combine exercise with video games",
+          "official_url": "https://www.economist.com/search?q=How%20to%20combine%20exercise%20with%20video%20games"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "business-friendly",
+      "pronunciation": "",
+      "meaning_en": "supportive of companies, investment and commercial activity",
+      "meaning_zh": "亲商的；有利于企业经营的",
+      "sentence": "Miami’s officials are determinedly business-friendly.",
+      "mini_note": "可形容 government、policy、tax regime；不等同于对所有企业要求宽松。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 265",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The extraordinary rise of Miami’s economy",
+      "official_url": "https://www.economist.com/search?q=The%20extraordinary%20rise%20of%20Miami%E2%80%99s%20economy",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 265",
+          "article_title": "The extraordinary rise of Miami’s economy",
+          "official_url": "https://www.economist.com/search?q=The%20extraordinary%20rise%20of%20Miami%E2%80%99s%20economy"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "bayberry sellers",
+      "pronunciation": "",
+      "meaning_en": "people who sell bayberries",
+      "meaning_zh": "杨梅商贩",
+      "sentence": "Bayberry-sellers were recently caught soaking their wares in another prohibited chemical to keep them fresh.",
+      "mini_note": "seller 表示销售者；这种名词复合词应结合具体商品理解，不是固定习语。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 87",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Why can’t a tech-savvy China make its food safe?",
+      "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 87",
+          "article_title": "Why can’t a tech-savvy China make its food safe?",
+          "official_url": "https://www.economist.com/search?q=Why%20can%E2%80%99t%20a%20tech-savvy%20China%20make%20its%20food%20safe%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "autonomous driving",
+      "pronunciation": "",
+      "meaning_en": "technology that allows a vehicle to drive with little or no human control",
+      "meaning_zh": "自动驾驶；无人驾驶技术",
+      "sentence": "Huawei’s telecoms base stations, which are visible throughout Yimin, cover the area with 5G, allowing the lorries’ autonomous-driving system to function.",
+      "mini_note": "autonomous-driving system 是常见定语搭配；也常说 autonomous vehicle。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 247",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Chinese businesses of all stripes are turning to Huawei",
+      "official_url": "https://www.economist.com/search?q=Chinese%20businesses%20of%20all%20stripes%20are%20turning%20to%20Huawei",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 247",
+          "article_title": "Chinese businesses of all stripes are turning to Huawei",
+          "official_url": "https://www.economist.com/search?q=Chinese%20businesses%20of%20all%20stripes%20are%20turning%20to%20Huawei"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Australian-style",
+      "pronunciation": "",
+      "meaning_en": "following or resembling the approach used in Australia",
+      "meaning_zh": "澳大利亚式的；仿照澳大利亚做法的",
+      "sentence": "Malaysia, one of just a few other countries where Australian-style restrictions are in force, has opted for this method.",
+      "mini_note": "国家名构成复合形容词时保留大写：Australian-style restrictions。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 83",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Social-media curbs for kids are not working in Asia",
+      "official_url": "https://www.economist.com/search?q=Social-media%20curbs%20for%20kids%20are%20not%20working%20in%20Asia",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 83",
+          "article_title": "Social-media curbs for kids are not working in Asia",
+          "official_url": "https://www.economist.com/search?q=Social-media%20curbs%20for%20kids%20are%20not%20working%20in%20Asia"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "asset management",
+      "pronunciation": "",
+      "meaning_en": "the professional management of investments for clients",
+      "meaning_zh": "资产管理",
+      "sentence": "It is Igor Tulchinsky, the boss of WorldQuant, an asset-management firm.",
+      "mini_note": "常见搭配：asset-management firm / arm / industry；独立作名词时通常写 asset management。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 314",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Museums and galleries are turning to individual patrons",
+      "official_url": "https://www.economist.com/search?q=Museums%20and%20galleries%20are%20turning%20to%20individual%20patrons",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 314",
+          "article_title": "Museums and galleries are turning to individual patrons",
+          "official_url": "https://www.economist.com/search?q=Museums%20and%20galleries%20are%20turning%20to%20individual%20patrons"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "anti-establishment",
+      "pronunciation": "",
+      "meaning_en": "opposed to the traditional political or social elite",
+      "meaning_zh": "反建制的；反传统权力体系的",
+      "sentence": "But the attempt, which many experts considered extreme, has boosted Mr Santos’s anti-establishment cred.",
+      "mini_note": "政治评论高频词，可修饰 mood、candidate、movement；不等于简单的“反政府”。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 137",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The presidential candidate Brazil’s authorities tried to ban",
+      "official_url": "https://www.economist.com/search?q=The%20presidential%20candidate%20Brazil%E2%80%99s%20authorities%20tried%20to%20ban",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 137",
+          "article_title": "The presidential candidate Brazil’s authorities tried to ban",
+          "official_url": "https://www.economist.com/search?q=The%20presidential%20candidate%20Brazil%E2%80%99s%20authorities%20tried%20to%20ban"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "anti-constitutional",
+      "pronunciation": "",
+      "meaning_en": "opposed to or incompatible with a constitution",
+      "meaning_zh": "反宪法的；违宪的",
+      "sentence": "A big fear is that the AfD could push through endless anti-constitutional measures in the knowledge that courts would take years to overrule them, sapping adversaries’ morale.",
+      "mini_note": "anti- 表示“反对”，但具体语境也可能更自然地译为“违宪的”。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 163",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "How the Alternative for Germany would govern",
+      "official_url": "https://www.economist.com/search?q=How%20the%20Alternative%20for%20Germany%20would%20govern",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 163",
+          "article_title": "How the Alternative for Germany would govern",
+          "official_url": "https://www.economist.com/search?q=How%20the%20Alternative%20for%20Germany%20would%20govern"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "animal testing",
+      "pronunciation": "",
+      "meaning_en": "the use of animals in scientific experiments",
+      "meaning_zh": "动物实验",
+      "sentence": "Kathy GuillermoSenior vice-president, laboratory investigationsPeople for the Ethical Treatment of AnimalsNorfolk, Virginia If the West stopped animal testing the practice would m…",
+      "mini_note": "原词是署名与机构名粘连造成的抽取错误，已根据例句改为真正讨论的 animal testing。",
+      "source": "The Economist · 2026-09-05",
+      "issue": "2026-09-05",
+      "page": "2026-09-05 · p. 38",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The opposition of scientific research on animals",
+      "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals",
+      "issues": [
+        "2026-09-05"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-09-05",
+          "page": "2026-09-05 · p. 38",
+          "article_title": "The opposition of scientific research on animals",
+          "official_url": "https://www.economist.com/search?q=The%20opposition%20of%20scientific%20research%20on%20animals"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "trade-intelligence",
+      "pronunciation": "",
+      "meaning_en": "information gathered about markets, trade and competitors",
+      "meaning_zh": "贸易情报；商业情报",
+      "sentence": "According to Kpler, a trade-intelligence firm, Iran still has some 80m barrels of oil on board ships",
+      "mini_note": "intelligence 在这里不是军事“情报”专属。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 125",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Iran will be able to shrug off America’s financial threats",
+      "official_url": "https://www.economist.com/search?q=Iran%20will%20be%20able%20to%20shrug%20off%20America%E2%80%99s%20financial%20threats",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 125",
+          "article_title": "Iran will be able to shrug off America’s financial threats",
+          "official_url": "https://www.economist.com/search?q=Iran%20will%20be%20able%20to%20shrug%20off%20America%E2%80%99s%20financial%20threats"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "tetrahydrocannabinol",
+      "pronunciation": "",
+      "meaning_en": "the main psychoactive compound in cannabis, usually called THC",
+      "meaning_zh": "四氢大麻酚；THC",
+      "sentence": "And yet in many places where Texans buy beer, they can also find drinks infused with tetrahydrocannabinol (THC), the psychoactive component of cannabis.",
+      "mini_note": "医学和药理学术语。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 286",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "America’s cannabis-drinks market is booming— and imperilled",
+      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20cannabis-drinks%20market%20is%20booming%E2%80%94%20and%20imperilled",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 286",
+          "article_title": "America’s cannabis-drinks market is booming— and imperilled",
+          "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20cannabis-drinks%20market%20is%20booming%E2%80%94%20and%20imperilled"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "telecoms-equipment",
+      "pronunciation": "",
+      "meaning_en": "equipment used for telecommunications networks",
+      "meaning_zh": "电信设备",
+      "sentence": "In May courts in London and Chongqing, in south- west China, handed down sharply different rulings in a licensing dispute between Samsung, a giant South Korean conglomerate, and Z…",
+      "mini_note": "telecoms 是 telecommunications 的缩略形式。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 79",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The long arm of the Chinese state",
+      "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 79",
+          "article_title": "The long arm of the Chinese state",
+          "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "skew",
+      "pronunciation": "",
+      "meaning_en": "to make something unfairly unbalanced or slanted",
+      "meaning_zh": "使偏斜；使失衡",
+      "sentence": "Yet what women are up against is less skewed policy than powerful social norms, especially the weight placed upon mothers.",
+      "mini_note": "既可表示统计分布偏斜，也可表示观点或结果被扭曲。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 86",
+      "category": "usage",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Chinese women are falling behind in the office",
+      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 86",
+          "article_title": "Chinese women are falling behind in the office",
+          "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "schlock",
+      "pronunciation": "",
+      "meaning_en": "cheap, sentimental or poor-quality material",
+      "meaning_zh": "低俗廉价的作品；粗制滥造的东西",
+      "sentence": "Next came a breakthrough part in a schlocky American mini-series, “Suits” (2012), “$50,000 per episode”; then the even bigger role of, as the website royal.uk notes, “The Duchess…",
+      "mini_note": "常带贬义，尤其用于电影、艺术或商业内容。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 173",
+      "category": "usage",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Harry and Meghan are ghastly and back in Britain. Good",
+      "official_url": "https://www.economist.com/search?q=Harry%20and%20Meghan%20are%20ghastly%20and%20back%20in%20Britain.%20Good",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 173",
+          "article_title": "Harry and Meghan are ghastly and back in Britain. Good",
+          "official_url": "https://www.economist.com/search?q=Harry%20and%20Meghan%20are%20ghastly%20and%20back%20in%20Britain.%20Good"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "rule of law",
+      "pronunciation": "",
+      "meaning_en": "the principle that everyone and every institution is subject to the law",
+      "meaning_zh": "法治；法律至上",
+      "sentence": "Unrelenting violence, an unregulated economy and the absence of the rule of law have meant that Myanmar’s people are living in “untold misery”, said the UN.",
+      "mini_note": "政治和法律评论中的高频表达。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 11",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Politics",
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 11",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "reasonable-sounding",
+      "pronunciation": "",
+      "meaning_en": "appearing reasonable when first heard or considered",
+      "meaning_zh": "听起来合理的",
+      "sentence": "In August, after he had made a reasonable-sounding comment to governors that some industries do need migrant workers, he followed up with a post on X: “NO amnesty for illegal alie…",
+      "mini_note": "sounding 表示表面听感，不保证真正合理。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 57",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Donald Trump is delivering the deportations he promised",
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 57",
+          "article_title": "Donald Trump is delivering the deportations he promised",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "ratcheted higher",
+      "pronunciation": "",
+      "meaning_en": "increased in a steady way and became difficult to reverse",
+      "meaning_zh": "逐步升级；不断升高",
+      "sentence": "The legal tussles between the two biggest economic powers ratcheted higher on August 24th, when Scott Bessent, America’s treasury secretary, imposed sanctions on dozens of Chinese…",
+      "mini_note": "ratchet 暗含“升上去后不易退回”的感觉。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 33",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "When obeying an American law means breaking a Chinese one",
+      "official_url": "https://www.economist.com/search?q=When%20obeying%20an%20American%20law%20means%20breaking%20a%20Chinese%20one",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 33",
+          "article_title": "When obeying an American law means breaking a Chinese one",
+          "official_url": "https://www.economist.com/search?q=When%20obeying%20an%20American%20law%20means%20breaking%20a%20Chinese%20one"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "on the brink",
+      "pronunciation": "",
+      "meaning_en": "very close to a dangerous or important event",
+      "meaning_zh": "处于……边缘；濒临",
+      "sentence": "Aid workers are regularly attacked in South Sudan, which has been teetering on the brink of civil war for months, but attacks on peacekeepers are rare.",
+      "mini_note": "常见搭配：on the brink of。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 8",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Politics",
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 8",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "on balance",
+      "pronunciation": "",
+      "meaning_en": "after considering all the relevant factors",
+      "meaning_zh": "总的来说；权衡之后",
+      "sentence": "On balance the courts have helped along Mr Trump’s deportation drive.",
+      "mini_note": "用于给出综合判断。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 53",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Donald Trump is delivering the deportations he promised",
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 53",
+          "article_title": "Donald Trump is delivering the deportations he promised",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "morass",
+      "pronunciation": "",
+      "meaning_en": "a complicated and confusing situation",
+      "meaning_zh": "混乱复杂的局面；泥潭",
+      "sentence": "Yet all too often this bureaucratic morass only worsens persistent problems, from rampant graft to sluggish growth.",
+      "mini_note": "常用于 bureaucratic / political morass。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 65",
+      "category": "usage",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Can AI make dysfunctional governments more effective?",
+      "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 65",
+          "article_title": "Can AI make dysfunctional governments more effective?",
+          "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "mischaracterisations",
+      "pronunciation": "",
+      "meaning_en": "descriptions that present a person or thing inaccurately",
+      "meaning_zh": "错误描述；歪曲性的概括",
+      "sentence": "His enormous stature has allowed such mischaracterisations to carry unusual weight.",
+      "mini_note": "mischaracterise 表示把观点或事实说歪。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 37",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Daron Acemoglu responds to our article",
+      "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 37",
+          "article_title": "Daron Acemoglu responds to our article",
+          "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "manufacturing-heavy",
+      "pronunciation": "",
+      "meaning_en": "having a large share of manufacturing activity",
+      "meaning_zh": "制造业占比较高的",
+      "sentence": "Countries that specialise in services are, on average, richer than manufacturing-heavy ones and better placed to profit as global trade tilts further toward services.",
+      "mini_note": "heavy 在这里表示“比重大的”。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 166",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "British politicians want a manufacturing jobs boom",
+      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 166",
+          "article_title": "British politicians want a manufacturing jobs boom",
+          "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Lebanese-Nigerian",
+      "pronunciation": "",
+      "meaning_en": "Nigerian with Lebanese family origins, or relating to both Lebanon and Nigeria",
+      "meaning_zh": "黎巴嫩裔尼日利亚人；黎巴嫩—尼日利亚的",
+      "sentence": "In west Africa some of the wealthiest industrialists have Lebanese roots, among them the Lebanese-Nigerian billionaire Gilbert Chagoury.",
+      "mini_note": "涉及族裔身份时注意连字符两端专名均大写。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 133",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The quiet tycoons powering Africa’s rise",
+      "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 133",
+          "article_title": "The quiet tycoons powering Africa’s rise",
+          "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "labour-productivity",
+      "pronunciation": "",
+      "meaning_en": "the amount of output produced per unit of labour",
+      "meaning_zh": "劳动生产率",
+      "sentence": "In the first half of 2026 labour-productivity growth was a lacklustre 1.1% (at an annualised rate).",
+      "mini_note": "英式拼写 labour；美式为 labor productivity。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 241",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The economic costs of Donald Trump’s immigration crackdown",
+      "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 241",
+          "article_title": "The economic costs of Donald Trump’s immigration crackdown",
+          "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "knowledge-intensive",
+      "pronunciation": "",
+      "meaning_en": "requiring a high level of specialised knowledge",
+      "meaning_zh": "知识密集型的",
+      "sentence": "This would mean including knowledge-intensive services in the definition, and pursuing policies to support them, whether on migration or trade.",
+      "mini_note": "常用于 services、industry 或 work。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 168",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "British politicians want a manufacturing jobs boom",
+      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 168",
+          "article_title": "British politicians want a manufacturing jobs boom",
+          "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "investment-promotion",
+      "pronunciation": "",
+      "meaning_en": "the activity of attracting investment to a place or sector",
+      "meaning_zh": "招商；投资促进",
+      "sentence": "Huangshi, a city in Hubei, recently sought investment-promotion officers under 35 years old, specifying “men preferred”.",
+      "mini_note": "investment-promotion officers 指招商人员。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 84",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Chinese women are falling behind in the office",
+      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 84",
+          "article_title": "Chinese women are falling behind in the office",
+          "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "influence-peddling",
+      "pronunciation": "",
+      "meaning_en": "the improper use of influence for personal or commercial gain",
+      "meaning_zh": "以权谋私；影响力交易",
+      "sentence": "Their appetite for bribes and aversion to business reduced what was once one of India’s industrial strongholds to a “syndicate raj” of dodgy influence-peddling.",
+      "mini_note": "通常带有贬义。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 70",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "A hundred days of BJP shock and awe in West Bengal",
+      "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 70",
+          "article_title": "A hundred days of BJP shock and awe in West Bengal",
+          "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "in turn",
+      "pronunciation": "",
+      "meaning_en": "successively, or as a result of something else",
+      "meaning_zh": "依次；反过来；从而",
+      "sentence": "Dark energy therefore sets the size of the dark dimension, which in turn sets the mass of the dark matter, which is itself nothing but gravity seeping into the dark dimension.",
+      "mini_note": "根据上下文判断是顺序关系还是因果关系。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 256",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "The universe is peculiar. But it may soon become less so",
+      "official_url": "https://www.economist.com/search?q=The%20universe%20is%20peculiar.%20But%20it%20may%20soon%20become%20less%20so",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 256",
+          "article_title": "The universe is peculiar. But it may soon become less so",
+          "official_url": "https://www.economist.com/search?q=The%20universe%20is%20peculiar.%20But%20it%20may%20soon%20become%20less%20so"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "in the long run",
+      "pronunciation": "",
+      "meaning_en": "over a long period of time",
+      "meaning_zh": "从长远看",
+      "sentence": "The backlash against Mr Trump’s campaign could hurt Republicans in the midterm elections—and, in the long run, could lead to an overhaul of the immigration system.",
+      "mini_note": "常用于比较短期代价与长期结果。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 52",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Donald Trump is delivering the deportations he promised",
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 52",
+          "article_title": "Donald Trump is delivering the deportations he promised",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "image-recognition",
+      "pronunciation": "",
+      "meaning_en": "technology that identifies or classifies objects in images",
+      "meaning_zh": "图像识别",
+      "sentence": "Still, China gained an early edge in image-recognition technology by employing large groups of people to tag pictures.",
+      "mini_note": "人工智能和计算机视觉常用术语。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 202",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "China is training up thousands of humanoid robots",
+      "official_url": "https://www.economist.com/search?q=China%20is%20training%20up%20thousands%20of%20humanoid%20robots",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 202",
+          "article_title": "China is training up thousands of humanoid robots",
+          "official_url": "https://www.economist.com/search?q=China%20is%20training%20up%20thousands%20of%20humanoid%20robots"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "humanitarian-parole",
+      "pronunciation": "",
+      "meaning_en": "temporary permission to enter or remain for urgent humanitarian reasons",
+      "meaning_zh": "人道主义临时准入",
+      "sentence": "Since his return to office, America’s southern border has in effect been closed to irregular migrants, access to asylum has been sharply curtailed, humanitarian-parole routes most…",
+      "mini_note": "美国移民政策语境中的术语。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 240",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The economic costs of Donald Trump’s immigration crackdown",
+      "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 240",
+          "article_title": "The economic costs of Donald Trump’s immigration crackdown",
+          "official_url": "https://www.economist.com/search?q=The%20economic%20costs%20of%20Donald%20Trump%E2%80%99s%20immigration%20crackdown"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "horses-and-buggies",
+      "pronunciation": "",
+      "meaning_en": "an old-fashioned way of doing things",
+      "meaning_zh": "马车时代的；过时的",
+      "sentence": "At Julius Sturgis Pretzel Bakery in Lititz, another Pennsylvanian hamlet, customers drive from New York, New Jersey and Baltimore to tour local snack factories (as well as to catc…",
+      "mini_note": "常作比喻，强调技术或制度落后。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 217",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "One thing America still excels at making? Pretzels",
+      "official_url": "https://www.economist.com/search?q=One%20thing%20America%20still%20excels%20at%20making%3F%20Pretzels",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 217",
+          "article_title": "One thing America still excels at making? Pretzels",
+          "official_url": "https://www.economist.com/search?q=One%20thing%20America%20still%20excels%20at%20making%3F%20Pretzels"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "homeland-security",
+      "pronunciation": "",
+      "meaning_en": "the protection of a country against domestic security threats",
+      "meaning_zh": "国土安全；国土安全事务",
+      "sentence": "Since then, there have been fewer headline-grabbing clashes, as a showboating homeland-security chief has been replaced by a more competent one.",
+      "mini_note": "美国语境中也指 Department of Homeland Security。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 19",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The Unwelcoming States of America",
+      "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 19",
+          "article_title": "The Unwelcoming States of America",
+          "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "hindu-nationalist",
+      "pronunciation": "",
+      "meaning_en": "a person who supports Hindu-nationalist political ideas",
+      "meaning_zh": "印度教民族主义者",
+      "sentence": "Until now, West Bengal has been everything the Hindu-nationalist BJP is not: secular, left-leaning and abysmal at business.",
+      "mini_note": "政治身份词，大小写依照专名规则。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 70",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "A hundred days of BJP shock and awe in West Bengal",
+      "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 70",
+          "article_title": "A hundred days of BJP shock and awe in West Bengal",
+          "official_url": "https://www.economist.com/search?q=A%20hundred%20days%20of%20BJP%20shock%20and%20awe%20in%20West%20Bengal"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "highest-performing",
+      "pronunciation": "",
+      "meaning_en": "performing better than all or most others",
+      "meaning_zh": "表现最佳的",
+      "sentence": "The highest-performing sectors hire the fewest people, and further productivity improvements will probably entail more automation.",
+      "mini_note": "常用于学校、公司、资产或团队。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 168",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "British politicians want a manufacturing jobs boom",
+      "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 168",
+          "article_title": "British politicians want a manufacturing jobs boom",
+          "official_url": "https://www.economist.com/search?q=British%20politicians%20want%20a%20manufacturing%20jobs%20boom"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "headline-grabbing",
+      "pronunciation": "",
+      "meaning_en": "likely to attract a lot of attention in the news",
+      "meaning_zh": "吸引头条注意的；轰动的",
+      "sentence": "Since then, there have been fewer headline-grabbing clashes, as a showboating homeland-security chief has been replaced by a more competent one.",
+      "mini_note": "可作定语，常带轻微评论色彩。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 19",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The Unwelcoming States of America",
+      "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 19",
+          "article_title": "The Unwelcoming States of America",
+          "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "gusto",
+      "pronunciation": "",
+      "meaning_en": "enthusiasm and energy in doing something",
+      "meaning_zh": "热情；兴致勃勃",
+      "sentence": "All the more striking, then, that China now wants to play the extraterritorial game, waging lawfare with ever more gusto.",
+      "mini_note": "with gusto 表示“干劲十足地”。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 77",
+      "category": "usage",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The long arm of the Chinese state",
+      "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 77",
+          "article_title": "The long arm of the Chinese state",
+          "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "government-backed",
+      "pronunciation": "",
+      "meaning_en": "supported or financed by a government",
+      "meaning_zh": "政府支持的；政府担保的",
+      "sentence": "The attacks seem designed to weaken the National Resistance Forces, an elite group of government-backed fighters that use Mokha as a base.",
+      "mini_note": "可描述企业、贷款、项目或机构。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 129",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "How the Houthis have become the most fearsome of Iran’s allies",
+      "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 129",
+          "article_title": "How the Houthis have become the most fearsome of Iran’s allies",
+          "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "government-aligned",
+      "pronunciation": "",
+      "meaning_en": "supporting or closely matching a government’s position",
+      "meaning_zh": "与政府立场一致的",
+      "sentence": "In early 2022 they nearly captured oil wells in Marib, east of Sana’a, but were repelled by a government-aligned militia trained by the United Arab Emirates (UAE).",
+      "mini_note": "可描述媒体、机构或政策。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 129",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "How the Houthis have become the most fearsome of Iran’s allies",
+      "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 129",
+          "article_title": "How the Houthis have become the most fearsome of Iran’s allies",
+          "official_url": "https://www.economist.com/search?q=How%20the%20Houthis%20have%20become%20the%20most%20fearsome%20of%20Iran%E2%80%99s%20allies"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "forthright",
+      "pronunciation": "",
+      "meaning_en": "frank and direct in speech or writing",
+      "meaning_zh": "直率的；坦诚的",
+      "sentence": "For those unaccustomed to truth in advertising, employers in China can be astonishingly forthright in their help-wanted notices.",
+      "mini_note": "常用于评价表达方式，语气通常偏正面。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 84",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Chinese women are falling behind in the office",
+      "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 84",
+          "article_title": "Chinese women are falling behind in the office",
+          "official_url": "https://www.economist.com/search?q=Chinese%20women%20are%20falling%20behind%20in%20the%20office"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "endure",
+      "pronunciation": "",
+      "meaning_en": "to suffer something difficult patiently or for a long time",
+      "meaning_zh": "忍受；经受住",
+      "sentence": "Their country has already endured the “maximum pressure” campaign of Mr Trump’s first term and the bombing campaigns of his second.",
+      "mini_note": "可作不及物动词，强调持续承受困难。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 29",
+      "category": "usage",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "America’s new sanctions are unlikely to topple Iran’s regime",
+      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20new%20sanctions%20are%20unlikely%20to%20topple%20Iran%E2%80%99s%20regime",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 29",
+          "article_title": "America’s new sanctions are unlikely to topple Iran’s regime",
+          "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20new%20sanctions%20are%20unlikely%20to%20topple%20Iran%E2%80%99s%20regime"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "electrical-equipment",
+      "pronunciation": "",
+      "meaning_en": "machines or devices that use or distribute electricity",
+      "meaning_zh": "电气设备",
+      "sentence": "Electrical-equipment makers are still benefiting from an investment cycle accelerated by policies enacted under Joe Biden.",
+      "mini_note": "常见于制造业和基础设施语境。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 100",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Does Donald Trump deserve credit for a manufacturing revival?",
+      "official_url": "https://www.economist.com/search?q=Does%20Donald%20Trump%20deserve%20credit%20for%20a%20manufacturing%20revival%3F",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 100",
+          "article_title": "Does Donald Trump deserve credit for a manufacturing revival?",
+          "official_url": "https://www.economist.com/search?q=Does%20Donald%20Trump%20deserve%20credit%20for%20a%20manufacturing%20revival%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "dollar-for-dollar",
+      "pronunciation": "",
+      "meaning_en": "in an equal amount of money",
+      "meaning_zh": "一比一地；等额地",
+      "sentence": "25th Canada announced $20bn-worth of dollar-for-dollar retaliatory tariffs on American goods.",
+      "mini_note": "常用于 retaliatory tariffs / matching payments。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 23",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Mark Carney must beware an all-out trade war",
+      "official_url": "https://www.economist.com/search?q=Mark%20Carney%20must%20beware%20an%20all-out%20trade%20war",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 23",
+          "article_title": "Mark Carney must beware an all-out trade war",
+          "official_url": "https://www.economist.com/search?q=Mark%20Carney%20must%20beware%20an%20all-out%20trade%20war"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "document-processing",
+      "pronunciation": "",
+      "meaning_en": "the handling, conversion or analysis of documents",
+      "meaning_zh": "文档处理",
+      "sentence": "Similarly, in India, where there is an even bigger legal logjam, Adalat AI, a startup, claims that its transcription tools and document-processing software have reduced case times…",
+      "mini_note": "常用于软件、法律和行政流程。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 66",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Can AI make dysfunctional governments more effective?",
+      "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 66",
+          "article_title": "Can AI make dysfunctional governments more effective?",
+          "official_url": "https://www.economist.com/search?q=Can%20AI%20make%20dysfunctional%20governments%20more%20effective%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "deporter-in-chief",
+      "pronunciation": "",
+      "meaning_en": "a humorous label for a leader responsible for large-scale deportations",
+      "meaning_zh": "“驱逐出境总司令”",
+      "sentence": "But even so Mr Trump is now presiding over a deportation machine that is unlike any that have come before it, even that of the reigning record-holder as deporter-in-chief, Barack…",
+      "mini_note": "带有讽刺意味的仿造称谓。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 49",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Donald Trump is delivering the deportations he promised",
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 49",
+          "article_title": "Donald Trump is delivering the deportations he promised",
+          "official_url": "https://www.economist.com/search?q=Donald%20Trump%20is%20delivering%20the%20deportations%20he%20promised"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "counter-subsidies",
+      "pronunciation": "",
+      "meaning_en": "subsidies introduced to offset another country’s subsidies",
+      "meaning_zh": "反补贴措施",
+      "sentence": "Pursuing anti-dumping cases against China for breaking World Trade Organisation rules is tricky, so the more usual defence is counter-subsidies, tariffs and quotas.",
+      "mini_note": "贸易政策术语。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 170",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Steelyard blues",
+      "official_url": "https://www.economist.com/search?q=Steelyard%20blues",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 170",
+          "article_title": "Steelyard blues",
+          "official_url": "https://www.economist.com/search?q=Steelyard%20blues"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "commander-in-chief",
+      "pronunciation": "",
+      "meaning_en": "the person who has supreme command of a country’s armed forces",
+      "meaning_zh": "三军统帅；最高统帅",
+      "sentence": "As long as Mr Trump is still commander-in-chief, he can secure a place in history by remaking, or breaking, the world.",
+      "mini_note": "美国总统等国家元首常用称谓。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 195",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "As his presidency flounders, Trump is more dangerous than ever",
+      "official_url": "https://www.economist.com/search?q=As%20his%20presidency%20flounders%2C%20Trump%20is%20more%20dangerous%20than%20ever",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 195",
+          "article_title": "As his presidency flounders, Trump is more dangerous than ever",
+          "official_url": "https://www.economist.com/search?q=As%20his%20presidency%20flounders%2C%20Trump%20is%20more%20dangerous%20than%20ever"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "college-to-Silicon Valley pipeline",
+      "pronunciation": "",
+      "meaning_en": "a route by which graduates move from university into Silicon Valley careers",
+      "meaning_zh": "从大学进入硅谷的人才通道",
+      "sentence": "Many of America’s most brilliant entrepreneurs, including Elon Musk, entered via the college-to-Silicon Valley pipeline that is now narrowing.",
+      "mini_note": "原文完整表达是 college-to-Silicon Valley pipeline；pipeline 强调稳定的人才输送路径。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 20",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The Unwelcoming States of America",
+      "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 20",
+          "article_title": "The Unwelcoming States of America",
+          "official_url": "https://www.economist.com/search?q=The%20Unwelcoming%20States%20of%20America"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "career-wreckingly",
+      "pronunciation": "",
+      "meaning_en": "in a way that seriously damages someone’s career",
+      "meaning_zh": "足以毁掉职业生涯地",
+      "sentence": "Even the whizziest strategies can underperform for career-wreckingly long periods.",
+      "mini_note": "副词形式，语气很强。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 246",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "What makes a great investor?",
+      "official_url": "https://www.economist.com/search?q=What%20makes%20a%20great%20investor%3F",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 246",
+          "article_title": "What makes a great investor?",
+          "official_url": "https://www.economist.com/search?q=What%20makes%20a%20great%20investor%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "capitalist-roader",
+      "pronunciation": "",
+      "meaning_en": "a person accused of favouring capitalist policies, especially in Mao-era political language",
+      "meaning_zh": "走资本主义道路的人",
+      "sentence": "The business, better known as Beidahuang (which translates as “Great Northern Wilderness”), is no offshore capitalist-roader.",
+      "mini_note": "带有特定历史政治语境和贬义。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 236",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "China should be loosening budgetary policy. It’s doing the opposite",
+      "official_url": "https://www.economist.com/search?q=China%20should%20be%20loosening%20budgetary%20policy.%20It%E2%80%99s%20doing%20the%20opposite",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 236",
+          "article_title": "China should be loosening budgetary policy. It’s doing the opposite",
+          "official_url": "https://www.economist.com/search?q=China%20should%20be%20loosening%20budgetary%20policy.%20It%E2%80%99s%20doing%20the%20opposite"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "capital-intensive",
+      "pronunciation": "",
+      "meaning_en": "requiring a large amount of capital to operate or develop",
+      "meaning_zh": "资本密集型的",
+      "sentence": "It becomes flammable only after being drained, and draining it ranks among the most capital-intensive infrastructure feats in Indonesia’s history, canals cut by heavy machinery ac…",
+      "mini_note": "常修饰 industry、project、infrastructure。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 39",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Daron Acemoglu responds to our article",
+      "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 39",
+          "article_title": "Daron Acemoglu responds to our article",
+          "official_url": "https://www.economist.com/search?q=Daron%20Acemoglu%20responds%20to%20our%20article"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "broadband-from-space",
+      "pronunciation": "",
+      "meaning_en": "a broadband service delivered by satellites or space-based systems",
+      "meaning_zh": "太空宽带；卫星宽带",
+      "sentence": "Mr Musk’s ambition is for the site to host more than 30 rocket launches a day, to support both Starlink—the firm’s existing broadband-from-space service—and its plans to fly data…",
+      "mini_note": "常用于描述 Starlink 一类的卫星互联网。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 262",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "SpaceX plans to build the world’s biggest spaceport",
+      "official_url": "https://www.economist.com/search?q=SpaceX%20plans%20to%20build%20the%20world%E2%80%99s%20biggest%20spaceport",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 262",
+          "article_title": "SpaceX plans to build the world’s biggest spaceport",
+          "official_url": "https://www.economist.com/search?q=SpaceX%20plans%20to%20build%20the%20world%E2%80%99s%20biggest%20spaceport"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "balance-of-payments",
+      "pronunciation": "",
+      "meaning_en": "a record of a country’s financial transactions with the rest of the world",
+      "meaning_zh": "国际收支",
+      "sentence": "India was facing a third year of balance-of-payments deficit.",
+      "mini_note": "经济学和宏观政策中的固定术语。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 234",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "How India’s central bank subsidised the diaspora",
+      "official_url": "https://www.economist.com/search?q=How%20India%E2%80%99s%20central%20bank%20subsidised%20the%20diaspora",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 234",
+          "article_title": "How India’s central bank subsidised the diaspora",
+          "official_url": "https://www.economist.com/search?q=How%20India%E2%80%99s%20central%20bank%20subsidised%20the%20diaspora"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "backward-integrate",
+      "pronunciation": "",
+      "meaning_en": "to expand into an earlier stage of a supply chain",
+      "meaning_zh": "向上游一体化；后向整合",
+      "sentence": "So you backward-integrate into polypropylene bags.” Success often hinges on cosy relationships with officials.",
+      "mini_note": "企业战略术语，常与 supply chain 连用。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 134",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The quiet tycoons powering Africa’s rise",
+      "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 134",
+          "article_title": "The quiet tycoons powering Africa’s rise",
+          "official_url": "https://www.economist.com/search?q=The%20quiet%20tycoons%20powering%20Africa%E2%80%99s%20rise"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "attorney general",
+      "pronunciation": "",
+      "meaning_en": "the chief legal officer of a government or jurisdiction",
+      "meaning_zh": "司法部长；检察长",
+      "sentence": "Then, on August 26th, Meta and the attorneys-general filed a settlement agreement.",
+      "mini_note": "单数通常写 attorney general；不规则复数是 attorneys general。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 214",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Meta settles its blockbuster trial for up to $17bn",
+      "official_url": "https://www.economist.com/search?q=Meta%20settles%20its%20blockbuster%20trial%20for%20up%20to%20%2417bn",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 214",
+          "article_title": "Meta settles its blockbuster trial for up to $17bn",
+          "official_url": "https://www.economist.com/search?q=Meta%20settles%20its%20blockbuster%20trial%20for%20up%20to%20%2417bn"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "at odds",
+      "pronunciation": "",
+      "meaning_en": "in disagreement or conflict",
+      "meaning_zh": "不一致；冲突",
+      "sentence": "At odds of around 5%, Alexandra Eala is far from the favourite for the US Open, the final tennis grand slam of the year, which begins in New York on August 30th.",
+      "mini_note": "常见搭配：at odds with。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 282",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "The Philippines is going wild for its home-grown star, Alex Eala",
+      "official_url": "https://www.economist.com/search?q=The%20Philippines%20is%20going%20wild%20for%20its%20home-grown%20star%2C%20Alex%20Eala",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 282",
+          "article_title": "The Philippines is going wild for its home-grown star, Alex Eala",
+          "official_url": "https://www.economist.com/search?q=The%20Philippines%20is%20going%20wild%20for%20its%20home-grown%20star%2C%20Alex%20Eala"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "all-out trade war",
+      "pronunciation": "",
+      "meaning_en": "a full-scale conflict over tariffs and trade",
+      "meaning_zh": "全面贸易战",
+      "sentence": "Canada was on the verge of an all-out trade war with the United States, after Mark Carney, the prime minister, rejected a trade deal that had been endorsed by Donald Trump.",
+      "mini_note": "all-out 表示不留余地、全面展开。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 8",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Politics",
+      "official_url": "https://www.economist.com/search?q=Politics",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 8",
+          "article_title": "Politics",
+          "official_url": "https://www.economist.com/search?q=Politics"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "all the more",
+      "pronunciation": "",
+      "meaning_en": "even more than before or than expected",
+      "meaning_zh": "更加；更为",
+      "sentence": "All the more striking, then, that China now wants to play the extraterritorial game, waging lawfare with ever more gusto.",
+      "mini_note": "常与 striking、important 等形容词连用。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 77",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "The long arm of the Chinese state",
+      "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 77",
+          "article_title": "The long arm of the Chinese state",
+          "official_url": "https://www.economist.com/search?q=The%20long%20arm%20of%20the%20Chinese%20state"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "aircraft carrier",
+      "pronunciation": "",
+      "meaning_en": "a large warship from which military aircraft can take off and land",
+      "meaning_zh": "航空母舰",
+      "sentence": "He loves “Victory at Sea”, a 1950s documentary about the American navy’s exploits in the second world war, with battleships firing big guns and planes taking off from the pitching…",
+      "mini_note": "单数形式；复数为 aircraft carriers。作定语时原文偶见连字符。",
+      "source": "The Economist · 2026-08-29",
+      "issue": "2026-08-29",
+      "page": "2026-08-29 · p. 95",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "From battleships to catapults, Trump keeps messing with the navy",
+      "official_url": "https://www.economist.com/search?q=From%20battleships%20to%20catapults%2C%20Trump%20keeps%20messing%20with%20the%20navy",
+      "issues": [
+        "2026-08-29"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-08-29",
+          "page": "2026-08-29 · p. 95",
+          "article_title": "From battleships to catapults, Trump keeps messing with the navy",
+          "official_url": "https://www.economist.com/search?q=From%20battleships%20to%20catapults%2C%20Trump%20keeps%20messing%20with%20the%20navy"
         }
       ],
       "occurrence_count": 1
