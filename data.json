@@ -1,13 +1,19 @@
 {
   "version": 1,
-  "exported_at": "2026-10-23T02:05:34+00:00",
+  "exported_at": "2026-10-30T02:06:56+00:00",
   "notice": "公开版不包含杂志文件或完整文章；文章入口跳转至 The Economist 官方网站。",
   "stats": {
-    "issues": 9,
-    "articles": 671,
-    "vocab": 450
+    "issues": 10,
+    "articles": 747,
+    "vocab": 500
   },
   "issues": [
+    {
+      "issue": "2026-10-31",
+      "format": "EPUB",
+      "article_count": 76,
+      "vocab_count": 50
+    },
     {
       "issue": "2026-10-24",
       "format": "PDF",
@@ -64,6 +70,690 @@
     }
   ],
   "articles": [
+    {
+      "id": "2026-10-31-026",
+      "issue": "2026-10-31",
+      "section": "United States",
+      "title": "The winners and losers of Trumponomics",
+      "dek": "The president promised to help ordinary Americans. He achieved something rather different",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20winners%20and%20losers%20of%20Trumponomics"
+    },
+    {
+      "id": "2026-10-31-025",
+      "issue": "2026-10-31",
+      "section": "United States",
+      "title": "The midterms could reshape American politics far beyond Congress",
+      "dek": "Democrats may take control of several state governments",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20midterms%20could%20reshape%20American%20politics%20far%20beyond%20Congress"
+    },
+    {
+      "id": "2026-10-31-024",
+      "issue": "2026-10-31",
+      "section": "United States",
+      "title": "Our forecast of the midterms’ outcome",
+      "dek": "The auguries are good for Democrats",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Our%20forecast%20of%20the%20midterms%E2%80%99%20outcome"
+    },
+    {
+      "id": "2026-10-31-027",
+      "issue": "2026-10-31",
+      "section": "United States",
+      "title": "Democrats are rediscovering what an appealing politics of progress looks like",
+      "dek": "Their competitive candidates in states such as Iowa show how the party can avoid approaching doom",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Democrats%20are%20rediscovering%20what%20an%20appealing%20politics%20of%20progress%20looks%20like"
+    },
+    {
+      "id": "2026-10-31-023",
+      "issue": "2026-10-31",
+      "section": "United States",
+      "title": "America’s decisive voters are its most recent arrivals",
+      "dek": "Hispanic- and Asian-Americans will shape this year’s midterm elections and more",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20decisive%20voters%20are%20its%20most%20recent%20arrivals"
+    },
+    {
+      "id": "2026-10-31-001",
+      "issue": "2026-10-31",
+      "section": "The world this week",
+      "title": "Politics",
+      "dek": "",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Politics"
+    },
+    {
+      "id": "2026-10-31-003",
+      "issue": "2026-10-31",
+      "section": "The world this week",
+      "title": "Cartoon: Israel’s election",
+      "dek": "A lighter take on the news",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Cartoon%3A%20Israel%E2%80%99s%20election"
+    },
+    {
+      "id": "2026-10-31-002",
+      "issue": "2026-10-31",
+      "section": "The world this week",
+      "title": "Business",
+      "dek": "",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Business"
+    },
+    {
+      "id": "2026-10-31-028",
+      "issue": "2026-10-31",
+      "section": "The Americas",
+      "title": "Lula, the great survivor, makes history",
+      "dek": "His defeated rival has fled to the United States",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Lula%2C%20the%20great%20survivor%2C%20makes%20history"
+    },
+    {
+      "id": "2026-10-31-029",
+      "issue": "2026-10-31",
+      "section": "The Americas",
+      "title": "Donald Trump’s tantrums are an opportunity for Spain",
+      "dek": "Can it get on better with its former colonies?",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%E2%80%99s%20tantrums%20are%20an%20opportunity%20for%20Spain"
+    },
+    {
+      "id": "2026-10-31-030",
+      "issue": "2026-10-31",
+      "section": "The Americas",
+      "title": "Back in Venezuela, María Corina Machado may speed the return of democracy",
+      "dek": "She will push for elections to happen sooner than Donald Trump had in mind",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Back%20in%20Venezuela%2C%20Mar%C3%ADa%20Corina%20Machado%20may%20speed%20the%20return%20of%20democracy"
+    },
+    {
+      "id": "2026-10-31-067",
+      "issue": "2026-10-31",
+      "section": "Science & technology",
+      "title": "Why dogs catch yawns from their owners but not other dogs",
+      "dek": "Studies of wolves suggest the effect may be a result of domestication",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Why%20dogs%20catch%20yawns%20from%20their%20owners%20but%20not%20other%20dogs"
+    },
+    {
+      "id": "2026-10-31-065",
+      "issue": "2026-10-31",
+      "section": "Science & technology",
+      "title": "Treatments for age-related infertility are being developed at last",
+      "dek": "Startups hope to improve IVF by revealing the biology of infertility",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Treatments%20for%20age-related%20infertility%20are%20being%20developed%20at%20last"
+    },
+    {
+      "id": "2026-10-31-066",
+      "issue": "2026-10-31",
+      "section": "Science & technology",
+      "title": "China increasingly depends on copying American AI",
+      "dek": "Model distillation infuriates America, but may end up holding China back",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=China%20increasingly%20depends%20on%20copying%20American%20AI"
+    },
+    {
+      "id": "2026-10-31-068",
+      "issue": "2026-10-31",
+      "section": "Science & technology",
+      "title": "Are some protein powders better than others?",
+      "dek": "Pure whey is the way to go",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Are%20some%20protein%20powders%20better%20than%20others%3F"
+    },
+    {
+      "id": "2026-10-31-076",
+      "issue": "2026-10-31",
+      "section": "Obituary",
+      "title": "Cecily Gemmell would do almost anything for Churchill",
+      "dek": "His last personal secretary died on October 8th, aged 97",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Cecily%20Gemmell%20would%20do%20almost%20anything%20for%20Churchill"
+    },
+    {
+      "id": "2026-10-31-033",
+      "issue": "2026-10-31",
+      "section": "Middle East & Africa",
+      "title": "South Africa’s “white party” looks for more black votes",
+      "dek": "Local elections will highlight the ANC’s steep decline and the role of race in politics",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=South%20Africa%E2%80%99s%20%E2%80%9Cwhite%20party%E2%80%9D%20looks%20for%20more%20black%20votes"
+    },
+    {
+      "id": "2026-10-31-034",
+      "issue": "2026-10-31",
+      "section": "Middle East & Africa",
+      "title": "Senegal tries to teach more children in their first language",
+      "dek": "The government hopes that will make them learn more",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Senegal%20tries%20to%20teach%20more%20children%20in%20their%20first%20language"
+    },
+    {
+      "id": "2026-10-31-032",
+      "issue": "2026-10-31",
+      "section": "Middle East & Africa",
+      "title": "Saudi Arabia wants Iran to call off the Houthis and make a deal with America",
+      "dek": "But a summit meant to pressure the regime achieved little",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Saudi%20Arabia%20wants%20Iran%20to%20call%20off%20the%20Houthis%20and%20make%20a%20deal%20with%20America"
+    },
+    {
+      "id": "2026-10-31-031",
+      "issue": "2026-10-31",
+      "section": "Middle East & Africa",
+      "title": "Binyamin Netanyahu has not won, but nor has he lost",
+      "dek": "Refusing to work with the Arab parties may be his opponents’ undoing",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Binyamin%20Netanyahu%20has%20not%20won%2C%20but%20nor%20has%20he%20lost"
+    },
+    {
+      "id": "2026-10-31-010",
+      "issue": "2026-10-31",
+      "section": "Letters",
+      "title": "What does OpenAI’s progress mean for scientists?",
+      "dek": "Also this week, Mark Carney, competition from China, tote bags, baldness",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=What%20does%20OpenAI%E2%80%99s%20progress%20mean%20for%20scientists%3F"
+    },
+    {
+      "id": "2026-10-31-007",
+      "issue": "2026-10-31",
+      "section": "Leaders",
+      "title": "What to make of 25 years of Narendra Modi",
+      "dek": "He is learning that even rapid economic growth won’t placate voters if it fails to produce jobs",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=What%20to%20make%20of%2025%20years%20of%20Narendra%20Modi"
+    },
+    {
+      "id": "2026-10-31-004",
+      "issue": "2026-10-31",
+      "section": "Leaders",
+      "title": "The Americans changing politics for the better",
+      "dek": "Hispanics and Asians have become their country’s most dynamic swing voters",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20Americans%20changing%20politics%20for%20the%20better"
+    },
+    {
+      "id": "2026-10-31-008",
+      "issue": "2026-10-31",
+      "section": "Leaders",
+      "title": "Markets are dismayed by Lula’s surprise win—and for good reason",
+      "dek": "The pressure is on Brazil’s re-elected president to avoid an economic slump",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Markets%20are%20dismayed%20by%20Lula%E2%80%99s%20surprise%20win%E2%80%94and%20for%20good%20reason"
+    },
+    {
+      "id": "2026-10-31-009",
+      "issue": "2026-10-31",
+      "section": "Leaders",
+      "title": "Let China copy American AI",
+      "dek": "Distillation annoys Anthropic and OpenAI. That is not reason enough to ban it",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Let%20China%20copy%20American%20AI"
+    },
+    {
+      "id": "2026-10-31-006",
+      "issue": "2026-10-31",
+      "section": "Leaders",
+      "title": "Israel’s Jewish and Arab opposition parties should work together",
+      "dek": "If they want to dislodge Binyamin Netanyahu from office, they need to act fast",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Israel%E2%80%99s%20Jewish%20and%20Arab%20opposition%20parties%20should%20work%20together"
+    },
+    {
+      "id": "2026-10-31-005",
+      "issue": "2026-10-31",
+      "section": "Leaders",
+      "title": "Andy Burnham’s government talks of change, then does nothing",
+      "dek": "Britain’s unimpressive budget reveals a lack of ambition",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Andy%20Burnham%E2%80%99s%20government%20talks%20of%20change%2C%20then%20does%20nothing"
+    },
+    {
+      "id": "2026-10-31-048",
+      "issue": "2026-10-31",
+      "section": "International",
+      "title": "To understand African politics, just listen to the music",
+      "dek": "Artists have captured a continental spirit of revolt",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=To%20understand%20African%20politics%2C%20just%20listen%20to%20the%20music"
+    },
+    {
+      "id": "2026-10-31-049",
+      "issue": "2026-10-31",
+      "section": "International",
+      "title": "Donald Trump may love the Middle East to death",
+      "dek": "The folly of wanting a Middle East run by nationalist strongmen and made rich by global commerce",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Donald%20Trump%20may%20love%20the%20Middle%20East%20to%20death"
+    },
+    {
+      "id": "2026-10-31-062",
+      "issue": "2026-10-31",
+      "section": "Finance & economics",
+      "title": "The task facing the new head of India’s biggest private bank",
+      "dek": "HDFC Bank needs revitalising",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20task%20facing%20the%20new%20head%20of%20India%E2%80%99s%20biggest%20private%20bank"
+    },
+    {
+      "id": "2026-10-31-060",
+      "issue": "2026-10-31",
+      "section": "Finance & economics",
+      "title": "The never-ending absurdity of global oil markets",
+      "dek": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20never-ending%20absurdity%20of%20global%20oil%20markets"
+    },
+    {
+      "id": "2026-10-31-058",
+      "issue": "2026-10-31",
+      "section": "Finance & economics",
+      "title": "The countries making a fortune from the US-China rivalry",
+      "dek": "Critical-mineral profits could transform a lucky few",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20countries%20making%20a%20fortune%20from%20the%20US-China%20rivalry"
+    },
+    {
+      "id": "2026-10-31-061",
+      "issue": "2026-10-31",
+      "section": "Finance & economics",
+      "title": "In an AI blow-up, would insurance pay out?",
+      "dek": "Credit default swaps are back in vogue amid fears of a debt disaster",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=In%20an%20AI%20blow-up%2C%20would%20insurance%20pay%20out%3F"
+    },
+    {
+      "id": "2026-10-31-064",
+      "issue": "2026-10-31",
+      "section": "Finance & economics",
+      "title": "Ignore AI and ask for that pay rise",
+      "dek": "Fear of a technological revolution may be suppressing wages",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Ignore%20AI%20and%20ask%20for%20that%20pay%20rise"
+    },
+    {
+      "id": "2026-10-31-063",
+      "issue": "2026-10-31",
+      "section": "Finance & economics",
+      "title": "Christine Lagarde departs at a moment of peril",
+      "dek": "Her successor as ECB chief will have an unenviable job",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Christine%20Lagarde%20departs%20at%20a%20moment%20of%20peril"
+    },
+    {
+      "id": "2026-10-31-059",
+      "issue": "2026-10-31",
+      "section": "Finance & economics",
+      "title": "China’s stock markets are the great global exception",
+      "dek": "If the country is winning the future, why are its investors so glum?",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20stock%20markets%20are%20the%20great%20global%20exception"
+    },
+    {
+      "id": "2026-10-31-039",
+      "issue": "2026-10-31",
+      "section": "Europe",
+      "title": "The Kremlin is shutting down Russia’s last free newspaper",
+      "dek": "Novaya Gazeta is closing after being placed on a state enemies list",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20Kremlin%20is%20shutting%20down%20Russia%E2%80%99s%20last%20free%20newspaper"
+    },
+    {
+      "id": "2026-10-31-035",
+      "issue": "2026-10-31",
+      "section": "Europe",
+      "title": "Serbia’s students found a new way to topple a strongman",
+      "dek": "Like Viktor Orban, Aleksandar Vucic fell to an anti-corruption movement",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Serbia%E2%80%99s%20students%20found%20a%20new%20way%20to%20topple%20a%20strongman"
+    },
+    {
+      "id": "2026-10-31-036",
+      "issue": "2026-10-31",
+      "section": "Europe",
+      "title": "Poland is growing less religious, but not less right-wing",
+      "dek": "As belief in Catholicism declines, secular far-right parties are rising",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Poland%20is%20growing%20less%20religious%2C%20but%20not%20less%20right-wing"
+    },
+    {
+      "id": "2026-10-31-037",
+      "issue": "2026-10-31",
+      "section": "Europe",
+      "title": "Europe’s biggest steelworks may be nearing its end",
+      "dek": "A court will soon decide whether Italy’s polluting Taranto plant must close",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Europe%E2%80%99s%20biggest%20steelworks%20may%20be%20nearing%20its%20end"
+    },
+    {
+      "id": "2026-10-31-040",
+      "issue": "2026-10-31",
+      "section": "Europe",
+      "title": "Europe is gearing up for a future war Russia is already waging",
+      "dek": "Living in a phoney peace",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Europe%20is%20gearing%20up%20for%20a%20future%20war%20Russia%20is%20already%20waging"
+    },
+    {
+      "id": "2026-10-31-038",
+      "issue": "2026-10-31",
+      "section": "Europe",
+      "title": "Another deadly train crash puts Spanish infrastructure in question",
+      "dek": "It is the second collision on the same line this year",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Another%20deadly%20train%20crash%20puts%20Spanish%20infrastructure%20in%20question"
+    },
+    {
+      "id": "2026-10-31-075",
+      "issue": "2026-10-31",
+      "section": "Economic & financial indicators",
+      "title": "Economic data, commodities and markets",
+      "dek": "",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Economic%20data%2C%20commodities%20and%20markets"
+    },
+    {
+      "id": "2026-10-31-071",
+      "issue": "2026-10-31",
+      "section": "Culture",
+      "title": "Why this is a golden age for conspiracy theories",
+      "dek": "They flourish during periods of social and political upheaval",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Why%20this%20is%20a%20golden%20age%20for%20conspiracy%20theories"
+    },
+    {
+      "id": "2026-10-31-070",
+      "issue": "2026-10-31",
+      "section": "Culture",
+      "title": "What the world’s most famous magician has to teach you",
+      "dek": "Hint: it does not involve handcuffs or a straitjacket",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=What%20the%20world%E2%80%99s%20most%20famous%20magician%20has%20to%20teach%20you"
+    },
+    {
+      "id": "2026-10-31-074",
+      "issue": "2026-10-31",
+      "section": "Culture",
+      "title": "Once the heroes, ambitious outsiders have become TV villains",
+      "dek": "Call it the era of the talentless Mr Ripleys",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Once%20the%20heroes%2C%20ambitious%20outsiders%20have%20become%20TV%20villains"
+    },
+    {
+      "id": "2026-10-31-072",
+      "issue": "2026-10-31",
+      "section": "Culture",
+      "title": "John Green, a hit young-adult author, is now writing for adults",
+      "dek": "His latest novel explores social-media stardom; his own career has tracked it, too",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=John%20Green%2C%20a%20hit%20young-adult%20author%2C%20is%20now%20writing%20for%20adults"
+    },
+    {
+      "id": "2026-10-31-069",
+      "issue": "2026-10-31",
+      "section": "Culture",
+      "title": "Humans will never again create a project quite like Wikipedia",
+      "dek": "As it turns 25, one of the internet’s unlikeliest successes faces grave new threats",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Humans%20will%20never%20again%20create%20a%20project%20quite%20like%20Wikipedia"
+    },
+    {
+      "id": "2026-10-31-073",
+      "issue": "2026-10-31",
+      "section": "Culture",
+      "title": "How Lebanon’s civil war shaped America’s rivalry with Iran",
+      "dek": "A new book argues a murder in 1984 can help you understand the Middle East today",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=How%20Lebanon%E2%80%99s%20civil%20war%20shaped%20America%E2%80%99s%20rivalry%20with%20Iran"
+    },
+    {
+      "id": "2026-10-31-020",
+      "issue": "2026-10-31",
+      "section": "China",
+      "title": "Kim Jong Un’s curious visit to China",
+      "dek": "North Korea’s dictator rebuilds ties with an old friend",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Kim%20Jong%20Un%E2%80%99s%20curious%20visit%20to%20China"
+    },
+    {
+      "id": "2026-10-31-022",
+      "issue": "2026-10-31",
+      "section": "China",
+      "title": "China’s most successful Astroturf operation: grassroots football",
+      "dek": "Provincial leagues spur spending and a hometown renaissance",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20most%20successful%20Astroturf%20operation%3A%20grassroots%20football"
+    },
+    {
+      "id": "2026-10-31-019",
+      "issue": "2026-10-31",
+      "section": "China",
+      "title": "China’s investment in transport infrastructure has peaked",
+      "dek": "Has it built too many expressways and high-speed rail lines?",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20investment%20in%20transport%20infrastructure%20has%20peaked"
+    },
+    {
+      "id": "2026-10-31-021",
+      "issue": "2026-10-31",
+      "section": "China",
+      "title": "China loves to rank its cities. The government wants it to stop",
+      "dek": "Annual city scorecards of all sorts are being torn up",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=China%20loves%20to%20rank%20its%20cities.%20The%20government%20wants%20it%20to%20stop"
+    },
+    {
+      "id": "2026-10-31-011",
+      "issue": "2026-10-31",
+      "section": "By Invitation",
+      "title": "The “let-it-rip” camp is wrong on AI",
+      "dek": "They make four main arguments and all of them are flawed, write Bridgewater’s Nir Bar Dea and Greg Jensen",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20%E2%80%9Clet-it-rip%E2%80%9D%20camp%20is%20wrong%20on%20AI"
+    },
+    {
+      "id": "2026-10-31-012",
+      "issue": "2026-10-31",
+      "section": "By Invitation",
+      "title": "AI is a technological version of the Homeric songs",
+      "dek": "Its agents are more than stochastic parrots and stranger than machine gods, write Henry Farrell and Cosma Shalizi",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=AI%20is%20a%20technological%20version%20of%20the%20Homeric%20songs"
+    },
+    {
+      "id": "2026-10-31-056",
+      "issue": "2026-10-31",
+      "section": "Business",
+      "title": "Why it’s a bad time to be a rat-killer",
+      "dek": "Private equity and artificial intelligence are nibbling at sales",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Why%20it%E2%80%99s%20a%20bad%20time%20to%20be%20a%20rat-killer"
+    },
+    {
+      "id": "2026-10-31-057",
+      "issue": "2026-10-31",
+      "section": "Business",
+      "title": "Weil’s collapse and the death of corporate loyalty",
+      "dek": "Superstar talent is alluring. It is also dangerous",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Weil%E2%80%99s%20collapse%20and%20the%20death%20of%20corporate%20loyalty"
+    },
+    {
+      "id": "2026-10-31-055",
+      "issue": "2026-10-31",
+      "section": "Business",
+      "title": "The world’s biggest maker of spectacles faces a crisis",
+      "dek": "EssilorLuxottica has been rocked by a petty feud",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20world%E2%80%99s%20biggest%20maker%20of%20spectacles%20faces%20a%20crisis"
+    },
+    {
+      "id": "2026-10-31-052",
+      "issue": "2026-10-31",
+      "section": "Business",
+      "title": "Seven hot new sources of leadership inspiration",
+      "dek": "From amoebae to impalement",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Seven%20hot%20new%20sources%20of%20leadership%20inspiration"
+    },
+    {
+      "id": "2026-10-31-054",
+      "issue": "2026-10-31",
+      "section": "Business",
+      "title": "India’s ultra-cheap internet is about to get more expensive",
+      "dek": "Blame Jio, the country’s telecoms disrupter, going public",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=India%E2%80%99s%20ultra-cheap%20internet%20is%20about%20to%20get%20more%20expensive"
+    },
+    {
+      "id": "2026-10-31-051",
+      "issue": "2026-10-31",
+      "section": "Business",
+      "title": "Don’t expect supersize profits from Anthropic soon",
+      "dek": "Lurking in its IPO prospectus are warnings of challenges ahead",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20expect%20supersize%20profits%20from%20Anthropic%20soon"
+    },
+    {
+      "id": "2026-10-31-050",
+      "issue": "2026-10-31",
+      "section": "Business",
+      "title": "American bosses are desperately trying to de-MAGAfy",
+      "dek": "Ahead of the midterms, corporations want to win back favour with the Democrats",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=American%20bosses%20are%20desperately%20trying%20to%20de-MAGAfy"
+    },
+    {
+      "id": "2026-10-31-053",
+      "issue": "2026-10-31",
+      "section": "Business",
+      "title": "After its Odyssey, IMAX hits the big time",
+      "dek": "Its popularity reflects a shift in how audiences think about cinemas",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=After%20its%20Odyssey%2C%20IMAX%20hits%20the%20big%20time"
+    },
+    {
+      "id": "2026-10-31-047",
+      "issue": "2026-10-31",
+      "section": "Britain",
+      "title": "What happens when a place degenerates and gentrifies all at once?",
+      "dek": "It says a lot about the state of the British state",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=What%20happens%20when%20a%20place%20degenerates%20and%20gentrifies%20all%20at%20once%3F"
+    },
+    {
+      "id": "2026-10-31-044",
+      "issue": "2026-10-31",
+      "section": "Britain",
+      "title": "Prince William builds a high street",
+      "dek": "Go ahead and laugh. Your local shopping street will soon resemble it",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Prince%20William%20builds%20a%20high%20street"
+    },
+    {
+      "id": "2026-10-31-045",
+      "issue": "2026-10-31",
+      "section": "Britain",
+      "title": "London’s courts can thrive under AI—but they are also at risk",
+      "dek": "An outgoing top judge gives some parting advice",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=London%E2%80%99s%20courts%20can%20thrive%20under%20AI%E2%80%94but%20they%20are%20also%20at%20risk"
+    },
+    {
+      "id": "2026-10-31-043",
+      "issue": "2026-10-31",
+      "section": "Britain",
+      "title": "Do immigrants from some countries commit more sex crimes?",
+      "dek": "A hard look at Britain’s data suggests so. But it is hardly an epidemic",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Do%20immigrants%20from%20some%20countries%20commit%20more%20sex%20crimes%3F"
+    },
+    {
+      "id": "2026-10-31-046",
+      "issue": "2026-10-31",
+      "section": "Britain",
+      "title": "Did Harry Kane have to leave England to win the Ballon d’Or?",
+      "dek": "The Premier League’s greatest strength is also a weakness",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Did%20Harry%20Kane%20have%20to%20leave%20England%20to%20win%20the%20Ballon%20d%E2%80%99Or%3F"
+    },
+    {
+      "id": "2026-10-31-042",
+      "issue": "2026-10-31",
+      "section": "Britain",
+      "title": "Britain’s energy system gets half an overhaul",
+      "dek": "But bills will remain uncomfortably high",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Britain%E2%80%99s%20energy%20system%20gets%20half%20an%20overhaul"
+    },
+    {
+      "id": "2026-10-31-041",
+      "issue": "2026-10-31",
+      "section": "Britain",
+      "title": "Britain’s defensive budget did little to tackle deeper problems",
+      "dek": "The government hopes to win voters over with small treats now and the promise of reform later",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Britain%E2%80%99s%20defensive%20budget%20did%20little%20to%20tackle%20deeper%20problems"
+    },
+    {
+      "id": "2026-10-31-013",
+      "issue": "2026-10-31",
+      "section": "Briefing",
+      "title": "Narendra Modi and the battle for India",
+      "dek": "India’s strongman has changed the country for good and ill. Now he is facing one of his sternest tests yet",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India"
+    },
+    {
+      "id": "2026-10-31-018",
+      "issue": "2026-10-31",
+      "section": "Asia",
+      "title": "The North Aral Sea is expanding after decades of shrinkage",
+      "dek": "The southern remnant is probably still doomed, however",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=The%20North%20Aral%20Sea%20is%20expanding%20after%20decades%20of%20shrinkage"
+    },
+    {
+      "id": "2026-10-31-014",
+      "issue": "2026-10-31",
+      "section": "Asia",
+      "title": "Russia has seized a Japanese journalist",
+      "dek": "Vladimir Putin may be preparing for a prisoner exchange. Pressuring Japan also pleases China",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Russia%20has%20seized%20a%20Japanese%20journalist"
+    },
+    {
+      "id": "2026-10-31-017",
+      "issue": "2026-10-31",
+      "section": "Asia",
+      "title": "Meet the millennial centrist shaking up New Zealand’s election",
+      "dek": "The Opportunity Party claims to be taking on the rich world’s biggest problems",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=Meet%20the%20millennial%20centrist%20shaking%20up%20New%20Zealand%E2%80%99s%20election"
+    },
+    {
+      "id": "2026-10-31-016",
+      "issue": "2026-10-31",
+      "section": "Asia",
+      "title": "India has stabilised its currency. But at what cost?",
+      "dek": "The central bank is using ever harsher measures to keep the rupee below 100 to the dollar",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=India%20has%20stabilised%20its%20currency.%20But%20at%20what%20cost%3F"
+    },
+    {
+      "id": "2026-10-31-015",
+      "issue": "2026-10-31",
+      "section": "Asia",
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "dek": "The Marshall Islands uses an American windfall to pay every citizen",
+      "date": "2026-10-29",
+      "official_url": "https://www.economist.com/search?q=A%20tiny%20Pacific%20country%20rolls%20out%20universal%20basic%20income"
+    },
     {
       "id": "2026-10-24-024",
       "issue": "2026-10-24",
@@ -6105,6 +6795,1506 @@
     }
   ],
   "vocab": [
+    {
+      "term": "voter verification",
+      "pronunciation": "",
+      "meaning_en": "checking that a person registering or voting is an eligible voter",
+      "meaning_zh": "选民核验；选民身份验证",
+      "sentence": "Protesters accuse him of “stealing democracy” through a voter-verification process called the Special Intensive Revision (SIR), under which more than 130m names were removed from…",
+      "mini_note": "可包括身份、登记资格和投票权检查；不等于 vote counting。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 13",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Narendra Modi and the battle for India",
+      "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 13",
+          "article_title": "Narendra Modi and the battle for India",
+          "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Tuareg-nationalist",
+      "pronunciation": "",
+      "meaning_en": "supporting nationalism or political autonomy for the Tuareg people",
+      "meaning_zh": "图阿雷格民族主义的；支持图阿雷格自治的",
+      "sentence": "Some are said to have been written by Iyad ag Ghali, though he later abandoned the Tuareg-nationalist cause: Mr ag Ghali is now the leader of JNIM, west Africa’s most powerful jih…",
+      "mini_note": "Tuareg 是撒哈拉—萨赫勒地区族群专名；nationalist cause 在此指民族政治诉求，不等于圣战主义。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 48",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "To understand African politics, just listen to the music",
+      "official_url": "https://www.economist.com/search?q=To%20understand%20African%20politics%2C%20just%20listen%20to%20the%20music",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 48",
+          "article_title": "To understand African politics, just listen to the music",
+          "official_url": "https://www.economist.com/search?q=To%20understand%20African%20politics%2C%20just%20listen%20to%20the%20music"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "treatment efficiency",
+      "pronunciation": "",
+      "meaning_en": "the ability of a treatment to achieve results with less time, cost or effort",
+      "meaning_zh": "治疗效率；疗法效能效率",
+      "sentence": "Still, says Dr Vassena, “Fixing the problem at the source brings about an unprecedented potential for treatment-efficiency gains.” Demand will be high if any of these approaches p…",
+      "mini_note": "原句 treatment-efficiency gains 指从病因源头干预后提高疗效或降低资源投入，不单指治疗速度。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 65",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Treatments for age-related infertility are being developed at last",
+      "official_url": "https://www.economist.com/search?q=Treatments%20for%20age-related%20infertility%20are%20being%20developed%20at%20last",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 65",
+          "article_title": "Treatments for age-related infertility are being developed at last",
+          "official_url": "https://www.economist.com/search?q=Treatments%20for%20age-related%20infertility%20are%20being%20developed%20at%20last"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "system-destabilising",
+      "pronunciation": "",
+      "meaning_en": "capable of making an entire system unstable or prone to failure",
+      "meaning_zh": "可能破坏系统稳定的；具有系统性冲击的",
+      "sentence": "It won’t accept contaminated baby food, a drug that kills thousands or system-destabilising financial instruments just because companies will later be liable.",
+      "mini_note": "比 harmful 范围更广，强调风险可能沿金融或制度网络扩散；英式拼写 destabilising。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 11",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The “let-it-rip” camp is wrong on AI",
+      "official_url": "https://www.economist.com/search?q=The%20%E2%80%9Clet-it-rip%E2%80%9D%20camp%20is%20wrong%20on%20AI",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 11",
+          "article_title": "The “let-it-rip” camp is wrong on AI",
+          "official_url": "https://www.economist.com/search?q=The%20%E2%80%9Clet-it-rip%E2%80%9D%20camp%20is%20wrong%20on%20AI"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "spindle-stabilising",
+      "pronunciation": "",
+      "meaning_en": "helping to keep the cell-division spindle stable",
+      "meaning_zh": "稳定纺锤体的",
+      "sentence": "Comparisons with mice, cows and pigs revealed that human oocytes have very low levels of a spindle-stabilising protein called KIFC-1.",
+      "mini_note": "细胞生物学复合形容词；原句指 KIFC-1 蛋白帮助维持卵母细胞分裂时纺锤体的稳定。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 65",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Treatments for age-related infertility are being developed at last",
+      "official_url": "https://www.economist.com/search?q=Treatments%20for%20age-related%20infertility%20are%20being%20developed%20at%20last",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 65",
+          "article_title": "Treatments for age-related infertility are being developed at last",
+          "official_url": "https://www.economist.com/search?q=Treatments%20for%20age-related%20infertility%20are%20being%20developed%20at%20last"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "skew",
+      "pronunciation": "",
+      "meaning_en": "to make something unfairly unbalanced or slanted",
+      "meaning_zh": "使偏斜；使失衡",
+      "sentence": "Our number is still uncertain: it may be skewed by a few serial offenders, by quirks in reporting and detection rates for such crimes.",
+      "mini_note": "既可表示统计分布偏斜，也可表示观点或结果被扭曲。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 43",
+      "category": "usage",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Do immigrants from some countries commit more sex crimes?",
+      "official_url": "https://www.economist.com/search?q=Do%20immigrants%20from%20some%20countries%20commit%20more%20sex%20crimes%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 43",
+          "article_title": "Do immigrants from some countries commit more sex crimes?",
+          "official_url": "https://www.economist.com/search?q=Do%20immigrants%20from%20some%20countries%20commit%20more%20sex%20crimes%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "secondary-schoolers",
+      "pronunciation": "",
+      "meaning_en": "students who attend secondary school",
+      "meaning_zh": "中学生；中等学校学生",
+      "sentence": "From the 1990s, when Poland scrapped communism, until the early 2010s the share of secondary-schoolers in their final year who took religion courses hovered around 90%.",
+      "mini_note": "schooler 是较口语的学生称呼；secondary school 的年龄范围会因国家教育制度而不同。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 36",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Poland is growing less religious, but not less right-wing",
+      "official_url": "https://www.economist.com/search?q=Poland%20is%20growing%20less%20religious%2C%20but%20not%20less%20right-wing",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 36",
+          "article_title": "Poland is growing less religious, but not less right-wing",
+          "official_url": "https://www.economist.com/search?q=Poland%20is%20growing%20less%20religious%2C%20but%20not%20less%20right-wing"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "second-most-senior",
+      "pronunciation": "",
+      "meaning_en": "ranking immediately below the most senior person or position",
+      "meaning_zh": "资历或职级第二高的",
+      "sentence": "He steps down this week as the Master of the Rolls, the second-most-senior judge in England and Wales who oversees the civil courts.",
+      "mini_note": "second-most + 形容词表达排序；此处按英格兰和威尔士司法职位级别，而非年龄。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 45",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "London’s courts can thrive under AI—but they are also at risk",
+      "official_url": "https://www.economist.com/search?q=London%E2%80%99s%20courts%20can%20thrive%20under%20AI%E2%80%94but%20they%20are%20also%20at%20risk",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 45",
+          "article_title": "London’s courts can thrive under AI—but they are also at risk",
+          "official_url": "https://www.economist.com/search?q=London%E2%80%99s%20courts%20can%20thrive%20under%20AI%E2%80%94but%20they%20are%20also%20at%20risk"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "satellite internet",
+      "pronunciation": "",
+      "meaning_en": "internet access provided through communications satellites",
+      "meaning_zh": "卫星互联网",
+      "sentence": "He is also plotting a satellite-internet offering similar to Elon Musk’s Starlink, the rollout of which has been held up by regulatory hurdles.",
+      "mini_note": "常修饰 firm / service；Starlink 是典型例子。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 54",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "India’s ultra-cheap internet is about to get more expensive",
+      "official_url": "https://www.economist.com/search?q=India%E2%80%99s%20ultra-cheap%20internet%20is%20about%20to%20get%20more%20expensive",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 54",
+          "article_title": "India’s ultra-cheap internet is about to get more expensive",
+          "official_url": "https://www.economist.com/search?q=India%E2%80%99s%20ultra-cheap%20internet%20is%20about%20to%20get%20more%20expensive"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "satellite broadband",
+      "pronunciation": "",
+      "meaning_en": "high-speed internet access delivered through satellites",
+      "meaning_zh": "卫星宽带",
+      "sentence": "Jio will use the proceeds to pay debt accrued as it furthers its ambitions in AI and satellite broadband.",
+      "mini_note": "常见 satellite-broadband service / provider；区别于地面光纤或移动网络。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 2",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Business",
+      "official_url": "https://www.economist.com/search?q=Business",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 2",
+          "article_title": "Business",
+          "official_url": "https://www.economist.com/search?q=Business"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "rule of law",
+      "pronunciation": "",
+      "meaning_en": "the principle that everyone and every institution is subject to the law",
+      "meaning_zh": "法治；法律至上",
+      "sentence": "They will try to restore the rule of law to the state that Mr Vucic captured.",
+      "mini_note": "政治和法律评论中的高频表达。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 35",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Serbia’s students found a new way to topple a strongman",
+      "official_url": "https://www.economist.com/search?q=Serbia%E2%80%99s%20students%20found%20a%20new%20way%20to%20topple%20a%20strongman",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 35",
+          "article_title": "Serbia’s students found a new way to topple a strongman",
+          "official_url": "https://www.economist.com/search?q=Serbia%E2%80%99s%20students%20found%20a%20new%20way%20to%20topple%20a%20strongman"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "ridiculous-looking",
+      "pronunciation": "",
+      "meaning_en": "having an appearance that seems absurd or invites mockery",
+      "meaning_zh": "外观滑稽的；看起来荒唐的",
+      "sentence": "In the 1990s it began to build Poundbury, a ridiculously named (and, in parts, ridiculous-looking) town in Dorset.",
+      "mini_note": "比 unusual 更带负面评价；原句把名称 ridiculous 与部分建筑外观 ridiculous-looking 并列。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 44",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Prince William builds a high street",
+      "official_url": "https://www.economist.com/search?q=Prince%20William%20builds%20a%20high%20street",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 44",
+          "article_title": "Prince William builds a high street",
+          "official_url": "https://www.economist.com/search?q=Prince%20William%20builds%20a%20high%20street"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "resource-intensive",
+      "pronunciation": "",
+      "meaning_en": "requiring a large amount of money, labour, time or other resources",
+      "meaning_zh": "资源密集型的；耗费大量资源的",
+      "sentence": "This makes CDSs sound like resource-intensive bets on distressed debt in the mould of Oaktree Capital or Elliott Management.",
+      "mini_note": "需要结合名词判断具体资源；原句指困境债务投资需要大量资本、研究和专业执行能力。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 61",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "In an AI blow-up, would insurance pay out?",
+      "official_url": "https://www.economist.com/search?q=In%20an%20AI%20blow-up%2C%20would%20insurance%20pay%20out%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 61",
+          "article_title": "In an AI blow-up, would insurance pay out?",
+          "official_url": "https://www.economist.com/search?q=In%20an%20AI%20blow-up%2C%20would%20insurance%20pay%20out%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Republican-leaning",
+      "pronunciation": "",
+      "meaning_en": "tending to support the US Republican Party",
+      "meaning_zh": "倾向共和党的；偏共和党的",
+      "sentence": "Nearly two-thirds of Americans think that Mr Trump’s economic policies have made conditions worse, according to a recent survey by the Pew Research Centre; the same is true of 35%…",
+      "mini_note": "leaning 表示总体倾向而非稳定党员身份，语气比 Republican 更弱。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 26",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The winners and losers of Trumponomics",
+      "official_url": "https://www.economist.com/search?q=The%20winners%20and%20losers%20of%20Trumponomics",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 26",
+          "article_title": "The winners and losers of Trumponomics",
+          "official_url": "https://www.economist.com/search?q=The%20winners%20and%20losers%20of%20Trumponomics"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Republican whisperer",
+      "pronunciation": "",
+      "meaning_en": "a person thought to understand and influence Republican politicians unusually well",
+      "meaning_zh": "共和党沟通高手；善于影响共和党人的人物",
+      "sentence": "In January 2025, the same month Mr Trump was inaugurated, Meta elevated Joel Kaplan, its longtime Republican-whisperer, to be the social-media giant’s chief emissary.",
+      "mini_note": "whisperer 是新闻化比喻，表示特别会理解或安抚某类人；Republican 必须大写，并非正式职位。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 50",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "American bosses are desperately trying to de-MAGAfy",
+      "official_url": "https://www.economist.com/search?q=American%20bosses%20are%20desperately%20trying%20to%20de-MAGAfy",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 50",
+          "article_title": "American bosses are desperately trying to de-MAGAfy",
+          "official_url": "https://www.economist.com/search?q=American%20bosses%20are%20desperately%20trying%20to%20de-MAGAfy"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "rail infrastructure",
+      "pronunciation": "",
+      "meaning_en": "the tracks, stations, signalling and other fixed systems needed for rail transport",
+      "meaning_zh": "铁路基础设施",
+      "sentence": "And some say both Renfe and Adif, the state rail-infrastructure company, have been stuffed with political appointees.",
+      "mini_note": "通常涵盖轨道、信号、车站和供电等固定资产，不等于列车运营服务。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 38",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Another deadly train crash puts Spanish infrastructure in question",
+      "official_url": "https://www.economist.com/search?q=Another%20deadly%20train%20crash%20puts%20Spanish%20infrastructure%20in%20question",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 38",
+          "article_title": "Another deadly train crash puts Spanish infrastructure in question",
+          "official_url": "https://www.economist.com/search?q=Another%20deadly%20train%20crash%20puts%20Spanish%20infrastructure%20in%20question"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "over-representation",
+      "pronunciation": "",
+      "meaning_en": "the presence of a group in a proportion greater than its share of the relevant population",
+      "meaning_zh": "过度代表；占比偏高",
+      "sentence": "Where age-standardised analysis exists for those countries, the over-representation shrinks, as in Britain, but it does not vanish.",
+      "mini_note": "统计语境要先确定比较基准；年龄标准化后差距缩小说明人口结构解释了部分但非全部现象。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 43",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Do immigrants from some countries commit more sex crimes?",
+      "official_url": "https://www.economist.com/search?q=Do%20immigrants%20from%20some%20countries%20commit%20more%20sex%20crimes%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 43",
+          "article_title": "Do immigrants from some countries commit more sex crimes?",
+          "official_url": "https://www.economist.com/search?q=Do%20immigrants%20from%20some%20countries%20commit%20more%20sex%20crimes%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "multimillion-dollar",
+      "pronunciation": "",
+      "meaning_en": "costing or worth several million dollars",
+      "meaning_zh": "价值数百万美元的；耗资数百万美元的",
+      "sentence": "A $2.99 tote, a designer handbag and a multimillion-dollar yacht differ in price, but not necessarily in purpose.",
+      "mini_note": "置于名词前作复合形容词时 million 和 dollar 用单数；只给数量级，不表示精确金额。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 10",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "What does OpenAI’s progress mean for scientists?",
+      "official_url": "https://www.economist.com/search?q=What%20does%20OpenAI%E2%80%99s%20progress%20mean%20for%20scientists%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 10",
+          "article_title": "What does OpenAI’s progress mean for scientists?",
+          "official_url": "https://www.economist.com/search?q=What%20does%20OpenAI%E2%80%99s%20progress%20mean%20for%20scientists%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "liability management",
+      "pronunciation": "",
+      "meaning_en": "relating to the restructuring or management of a company's debts and obligations",
+      "meaning_zh": "债务管理的；负债重组的",
+      "sentence": "Many now opt for liability-management exercises (LMEs), creative restructurings of their debts that avoid lengthy court battles.",
+      "mini_note": "liability-management exercise 在困境债务中常指庭外换债、回购或调整偿付顺序，简称 LME。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 61",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "In an AI blow-up, would insurance pay out?",
+      "official_url": "https://www.economist.com/search?q=In%20an%20AI%20blow-up%2C%20would%20insurance%20pay%20out%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 61",
+          "article_title": "In an AI blow-up, would insurance pay out?",
+          "official_url": "https://www.economist.com/search?q=In%20an%20AI%20blow-up%2C%20would%20insurance%20pay%20out%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Italian-controlled",
+      "pronunciation": "",
+      "meaning_en": "controlled or owned by an Italian company or Italian interests",
+      "meaning_zh": "由意大利方面控制的；意资控股的",
+      "sentence": "Survivors described horrific carnage in the first carriage of the Renfe train and the rear three of the stationary one, operated by Iryo, an Italian-controlled competitor.",
+      "mini_note": "controlled 描述控制权，不必然表示企业在意大利注册；Italian 为专名需大写。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 38",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Another deadly train crash puts Spanish infrastructure in question",
+      "official_url": "https://www.economist.com/search?q=Another%20deadly%20train%20crash%20puts%20Spanish%20infrastructure%20in%20question",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 38",
+          "article_title": "Another deadly train crash puts Spanish infrastructure in question",
+          "official_url": "https://www.economist.com/search?q=Another%20deadly%20train%20crash%20puts%20Spanish%20infrastructure%20in%20question"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Israeli-Palestinian",
+      "pronunciation": "",
+      "meaning_en": "relating to Israelis and Palestinians or the conflict between them",
+      "meaning_zh": "以色列—巴勒斯坦的；以巴的",
+      "sentence": "Such statements helped Mr Netanyahu stoke Jewish Israeli fears that their Arab neighbours, who mostly identify as Palestinian, are on the opposite side in the Israeli-Palestinian…",
+      "mini_note": "双方并列作定语时专名均应大写；常见 Israeli-Palestinian conflict / peace process。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 31",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Binyamin Netanyahu has not won, but nor has he lost",
+      "official_url": "https://www.economist.com/search?q=Binyamin%20Netanyahu%20has%20not%20won%2C%20but%20nor%20has%20he%20lost",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 31",
+          "article_title": "Binyamin Netanyahu has not won, but nor has he lost",
+          "official_url": "https://www.economist.com/search?q=Binyamin%20Netanyahu%20has%20not%20won%2C%20but%20nor%20has%20he%20lost"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "inflation-targeting",
+      "pronunciation": "",
+      "meaning_en": "using a stated inflation rate as a central objective of monetary policy",
+      "meaning_zh": "以通胀目标制为导向的",
+      "sentence": "The RBI is, of course, an independent, inflation-targeting central bank.",
+      "mini_note": "inflation-targeting central bank 会公开目标并运用利率等工具引导通胀，但仍可能兼顾就业或金融稳定。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 16",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "India has stabilised its currency. But at what cost?",
+      "official_url": "https://www.economist.com/search?q=India%20has%20stabilised%20its%20currency.%20But%20at%20what%20cost%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 16",
+          "article_title": "India has stabilised its currency. But at what cost?",
+          "official_url": "https://www.economist.com/search?q=India%20has%20stabilised%20its%20currency.%20But%20at%20what%20cost%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "in turn",
+      "pronunciation": "",
+      "meaning_en": "successively, or as a result of something else",
+      "meaning_zh": "依次；反过来；从而",
+      "sentence": "That, in turn, results in premium prices—though still far cheaper than a live concert or sports match.",
+      "mini_note": "根据上下文判断是顺序关系还是因果关系。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 53",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "After its Odyssey, IMAX hits the big time",
+      "official_url": "https://www.economist.com/search?q=After%20its%20Odyssey%2C%20IMAX%20hits%20the%20big%20time",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 53",
+          "article_title": "After its Odyssey, IMAX hits the big time",
+          "official_url": "https://www.economist.com/search?q=After%20its%20Odyssey%2C%20IMAX%20hits%20the%20big%20time"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "in the long run",
+      "pronunciation": "",
+      "meaning_en": "over a long period of time",
+      "meaning_zh": "从长远看",
+      "sentence": "In the long run the movement could break up into left, centre and right factions.",
+      "mini_note": "常用于比较短期代价与长期结果。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 35",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Serbia’s students found a new way to topple a strongman",
+      "official_url": "https://www.economist.com/search?q=Serbia%E2%80%99s%20students%20found%20a%20new%20way%20to%20topple%20a%20strongman",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 35",
+          "article_title": "Serbia’s students found a new way to topple a strongman",
+          "official_url": "https://www.economist.com/search?q=Serbia%E2%80%99s%20students%20found%20a%20new%20way%20to%20topple%20a%20strongman"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "higher-than-average",
+      "pronunciation": "",
+      "meaning_en": "above the usual or mean level for the relevant group",
+      "meaning_zh": "高于平均水平的",
+      "sentence": "Latinos were particularly exposed to the spike in petrol prices in 2022 owing to their higher-than-average spending on cars, trucks and fuel.",
+      "mini_note": "比较对象必须由上下文补足；原句指拉美裔家庭在汽车、卡车和燃油上的平均支出更高。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 23",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "America’s decisive voters are its most recent arrivals",
+      "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20decisive%20voters%20are%20its%20most%20recent%20arrivals",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 23",
+          "article_title": "America’s decisive voters are its most recent arrivals",
+          "official_url": "https://www.economist.com/search?q=America%E2%80%99s%20decisive%20voters%20are%20its%20most%20recent%20arrivals"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "government-financed",
+      "pronunciation": "",
+      "meaning_en": "paid for wholly or partly with government money",
+      "meaning_zh": "政府出资的；由政府融资的",
+      "sentence": "A government-financed fund is in talks to buy 40% of one of the last remaining Western-owned operating mines, a copper concern run by Glencore, a Swiss-based company.",
+      "mini_note": "financed 强调资金来源，不必然表示政府负责日常运营或拥有全部股权。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 58",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The countries making a fortune from the US-China rivalry",
+      "official_url": "https://www.economist.com/search?q=The%20countries%20making%20a%20fortune%20from%20the%20US-China%20rivalry",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 58",
+          "article_title": "The countries making a fortune from the US-China rivalry",
+          "official_url": "https://www.economist.com/search?q=The%20countries%20making%20a%20fortune%20from%20the%20US-China%20rivalry"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "government managed",
+      "pronunciation": "",
+      "meaning_en": "administered or controlled by the government",
+      "meaning_zh": "政府管理的；政府掌管的",
+      "sentence": "According to the two American officials, the Kazakh government managed to extract a bigger stake in the Kairakty joint venture than America first offered.",
+      "mini_note": "managed 强调运营或配置由政府负责，未必完全由财政出资。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 58",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "The countries making a fortune from the US-China rivalry",
+      "official_url": "https://www.economist.com/search?q=The%20countries%20making%20a%20fortune%20from%20the%20US-China%20rivalry",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 58",
+          "article_title": "The countries making a fortune from the US-China rivalry",
+          "official_url": "https://www.economist.com/search?q=The%20countries%20making%20a%20fortune%20from%20the%20US-China%20rivalry"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "goods and services",
+      "pronunciation": "",
+      "meaning_en": "products and activities supplied to satisfy economic needs",
+      "meaning_zh": "商品与服务",
+      "sentence": "In 2014 he inherited plans for a national digital-identity and -payment system and a goods-and-services tax, to replace 17 state-level taxes.",
+      "mini_note": "固定经济学搭配；goods-and-services tax 通常指对商品和服务统一征收的增值型消费税。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 13",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Narendra Modi and the battle for India",
+      "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 13",
+          "article_title": "Narendra Modi and the battle for India",
+          "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "financial services",
+      "pronunciation": "",
+      "meaning_en": "services such as banking, insurance, investment and payments",
+      "meaning_zh": "金融服务",
+      "sentence": "(The central bank reversed course only this month.) While loan rates fell, banks were still paying higher deposit rates locked in earlier, explains Nitin Aggarwal of Motilal Oswal…",
+      "mini_note": "通常用复数 services；作定语时常写 financial-services industry / firm。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 62",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The task facing the new head of India’s biggest private bank",
+      "official_url": "https://www.economist.com/search?q=The%20task%20facing%20the%20new%20head%20of%20India%E2%80%99s%20biggest%20private%20bank",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 62",
+          "article_title": "The task facing the new head of India’s biggest private bank",
+          "official_url": "https://www.economist.com/search?q=The%20task%20facing%20the%20new%20head%20of%20India%E2%80%99s%20biggest%20private%20bank"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "facial recognition",
+      "pronunciation": "",
+      "meaning_en": "using technology to identify or verify people from images of their faces",
+      "meaning_zh": "人脸识别的；面部识别",
+      "sentence": "When scalpers muscled in, authorities introduced facial-recognition turnstiles, ensuring that original ticket recipients could not sell their seats.",
+      "mini_note": "facial-recognition turnstiles 将票券与本人面部核验结合，用来阻止转售；识别与一般视频监控不同。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 22",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "China’s most successful Astroturf operation: grassroots football",
+      "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20most%20successful%20Astroturf%20operation%3A%20grassroots%20football",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 22",
+          "article_title": "China’s most successful Astroturf operation: grassroots football",
+          "official_url": "https://www.economist.com/search?q=China%E2%80%99s%20most%20successful%20Astroturf%20operation%3A%20grassroots%20football"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "endure",
+      "pronunciation": "",
+      "meaning_en": "to suffer something difficult patiently or for a long time",
+      "meaning_zh": "忍受；经受住",
+      "sentence": "If the BJP wins, it will claim that Mr Modi’s enduring popularity has been proved and the opposition are sore losers.",
+      "mini_note": "可作不及物动词，强调持续承受困难。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 13",
+      "category": "usage",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Narendra Modi and the battle for India",
+      "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 13",
+          "article_title": "Narendra Modi and the battle for India",
+          "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Democrat-Republican",
+      "pronunciation": "",
+      "meaning_en": "involving or contrasting the US Democratic and Republican parties",
+      "meaning_zh": "美国民主党—共和党两党的；两党对立框架的",
+      "sentence": "Neither fits neatly into the familiar Democrat-Republican template.",
+      "mini_note": "规范政党形容词通常写 Democratic-Republican；原文 Democrat-Republican 强调熟悉的两党分类模板。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 4",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The Americans changing politics for the better",
+      "official_url": "https://www.economist.com/search?q=The%20Americans%20changing%20politics%20for%20the%20better",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 4",
+          "article_title": "The Americans changing politics for the better",
+          "official_url": "https://www.economist.com/search?q=The%20Americans%20changing%20politics%20for%20the%20better"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "Democrat-dominated",
+      "pronunciation": "",
+      "meaning_en": "controlled politically by the US Democratic Party",
+      "meaning_zh": "由美国民主党主导的",
+      "sentence": "Americans have been moving from Democrat-dominated states such as New York and California to Republican states including Florida and Texas.",
+      "mini_note": "美国政党正式形容词更常写 Democratic-dominated；dominated 指长期选举或治理优势。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 27",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Democrats are rediscovering what an appealing politics of progress looks like",
+      "official_url": "https://www.economist.com/search?q=Democrats%20are%20rediscovering%20what%20an%20appealing%20politics%20of%20progress%20looks%20like",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 27",
+          "article_title": "Democrats are rediscovering what an appealing politics of progress looks like",
+          "official_url": "https://www.economist.com/search?q=Democrats%20are%20rediscovering%20what%20an%20appealing%20politics%20of%20progress%20looks%20like"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "counter-terrorism",
+      "pronunciation": "",
+      "meaning_en": "measures taken to prevent, disrupt or respond to terrorism",
+      "meaning_zh": "反恐；反恐行动",
+      "sentence": "Researchers at the International Centre for Counter-Terrorism, a Dutch outfit, have documented over 180 such incidents linked to Russia since 2022.",
+      "mini_note": "常见搭配：counter-terrorism operation / strategy / workload。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 40",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Europe is gearing up for a future war Russia is already waging",
+      "official_url": "https://www.economist.com/search?q=Europe%20is%20gearing%20up%20for%20a%20future%20war%20Russia%20is%20already%20waging",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 40",
+          "article_title": "Europe is gearing up for a future war Russia is already waging",
+          "official_url": "https://www.economist.com/search?q=Europe%20is%20gearing%20up%20for%20a%20future%20war%20Russia%20is%20already%20waging"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "consensus building",
+      "pronunciation": "",
+      "meaning_en": "the process of developing broad agreement among people or groups",
+      "meaning_zh": "凝聚共识；建立共识",
+      "sentence": "But he has failed in areas that require consensus-building or systemic reform.",
+      "mini_note": "常用于政治和组织改革；重点不是简单多数表决，而是协调不同利益方形成较广泛支持。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 13",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Narendra Modi and the battle for India",
+      "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 13",
+          "article_title": "Narendra Modi and the battle for India",
+          "official_url": "https://www.economist.com/search?q=Narendra%20Modi%20and%20the%20battle%20for%20India"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "concrete-and-steel",
+      "pronunciation": "",
+      "meaning_en": "consisting mainly of exposed concrete and steel at an unfinished construction stage",
+      "meaning_zh": "处于混凝土和钢结构阶段的；土建未完工的",
+      "sentence": "Because Nansledan’s high street is still in the concrete-and-steel phase of construction, it is simple to see the thinking behind it.",
+      "mini_note": "原句是形象说法，表示商业街仍在主体施工阶段，尚未完成装修和街景。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 44",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Prince William builds a high street",
+      "official_url": "https://www.economist.com/search?q=Prince%20William%20builds%20a%20high%20street",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 44",
+          "article_title": "Prince William builds a high street",
+          "official_url": "https://www.economist.com/search?q=Prince%20William%20builds%20a%20high%20street"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "commercial property",
+      "pronunciation": "",
+      "meaning_en": "buildings or land used for business rather than as homes",
+      "meaning_zh": "商业地产；商用物业",
+      "sentence": "More small businesses will be exempt from commercial-property taxes, but adult gaming centres and vape shops are exempt from the exemption.",
+      "mini_note": "常见 commercial-property tax / market；与 residential property 相对，具体税制口径依当地规则。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 41",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Britain’s defensive budget did little to tackle deeper problems",
+      "official_url": "https://www.economist.com/search?q=Britain%E2%80%99s%20defensive%20budget%20did%20little%20to%20tackle%20deeper%20problems",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 41",
+          "article_title": "Britain’s defensive budget did little to tackle deeper problems",
+          "official_url": "https://www.economist.com/search?q=Britain%E2%80%99s%20defensive%20budget%20did%20little%20to%20tackle%20deeper%20problems"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "commercial airline",
+      "pronunciation": "",
+      "meaning_en": "relating to an airline business that carries paying passengers or cargo",
+      "meaning_zh": "商业航空公司的；民航业务的",
+      "sentence": "Its commercial-airline division reported a quarterly operating loss of $697m, more than analysts had expected, but profits from defence, space and security surged to $492m.",
+      "mini_note": "原句 commercial-airline division 与 defence / space / security 业务对照，指面向民用航空公司的部门。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 2",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Business",
+      "official_url": "https://www.economist.com/search?q=Business",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 2",
+          "article_title": "Business",
+          "official_url": "https://www.economist.com/search?q=Business"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "capital-intensive",
+      "pronunciation": "",
+      "meaning_en": "requiring a large amount of capital to operate or develop",
+      "meaning_zh": "资本密集型的",
+      "sentence": "This strategy should help keep operating costs under control, but also provides forewarning that the business will become a more capital-intensive enterprise in the long run.",
+      "mini_note": "常修饰 industry、project、infrastructure。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 51",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Don’t expect supersize profits from Anthropic soon",
+      "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20expect%20supersize%20profits%20from%20Anthropic%20soon",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 51",
+          "article_title": "Don’t expect supersize profits from Anthropic soon",
+          "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20expect%20supersize%20profits%20from%20Anthropic%20soon"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "by and large",
+      "pronunciation": "",
+      "meaning_en": "when considered generally, despite some exceptions",
+      "meaning_zh": "总的来说；大体上",
+      "sentence": "In a pessimistic commentary on a stratified era, they keep being told that they don’t belong—and, by and large, they don’t.",
+      "mini_note": "固定副词短语，可放句首或插入句中；承认可能有例外，语气比 without exception 弱。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 74",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Once the heroes, ambitious outsiders have become TV villains",
+      "official_url": "https://www.economist.com/search?q=Once%20the%20heroes%2C%20ambitious%20outsiders%20have%20become%20TV%20villains",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 74",
+          "article_title": "Once the heroes, ambitious outsiders have become TV villains",
+          "official_url": "https://www.economist.com/search?q=Once%20the%20heroes%2C%20ambitious%20outsiders%20have%20become%20TV%20villains"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "business-friendly",
+      "pronunciation": "",
+      "meaning_en": "supportive of companies, investment and commercial activity",
+      "meaning_zh": "亲商的；有利于企业经营的",
+      "sentence": "Rich Green voters, for instance, see in her a more business-friendly approach to setting emissions targets; libertarians are drawn to the idea of shrinking the state by getting ri…",
+      "mini_note": "可形容 government、policy、tax regime；不等同于对所有企业要求宽松。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 17",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Meet the millennial centrist shaking up New Zealand’s election",
+      "official_url": "https://www.economist.com/search?q=Meet%20the%20millennial%20centrist%20shaking%20up%20New%20Zealand%E2%80%99s%20election",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 17",
+          "article_title": "Meet the millennial centrist shaking up New Zealand’s election",
+          "official_url": "https://www.economist.com/search?q=Meet%20the%20millennial%20centrist%20shaking%20up%20New%20Zealand%E2%80%99s%20election"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "black-nationalist",
+      "pronunciation": "",
+      "meaning_en": "supporting political solidarity, power or self-determination for black people",
+      "meaning_zh": "黑人民族主义的；主张黑人政治自主的",
+      "sentence": "The Economic Freedom Fighters (EFF) is another black-nationalist party.",
+      "mini_note": "Black nationalist 的具体立场因国家和组织而异；原句用于南非政党语境，不宜机械套用美国含义。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 33",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "South Africa’s “white party” looks for more black votes",
+      "official_url": "https://www.economist.com/search?q=South%20Africa%E2%80%99s%20%E2%80%9Cwhite%20party%E2%80%9D%20looks%20for%20more%20black%20votes",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 33",
+          "article_title": "South Africa’s “white party” looks for more black votes",
+          "official_url": "https://www.economist.com/search?q=South%20Africa%E2%80%99s%20%E2%80%9Cwhite%20party%E2%80%9D%20looks%20for%20more%20black%20votes"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "better-than-expected",
+      "pronunciation": "",
+      "meaning_en": "more successful or favourable than had been predicted",
+      "meaning_zh": "好于预期的；超出预期的",
+      "sentence": "Britain’s prime minister begins his second hundred days with a healthy lead in the polls and a better-than-expected run of economic growth.",
+      "mini_note": "常修饰 results / growth / performance；比较基准是此前预测，不等于绝对表现很强。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 5",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "Andy Burnham’s government talks of change, then does nothing",
+      "official_url": "https://www.economist.com/search?q=Andy%20Burnham%E2%80%99s%20government%20talks%20of%20change%2C%20then%20does%20nothing",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 5",
+          "article_title": "Andy Burnham’s government talks of change, then does nothing",
+          "official_url": "https://www.economist.com/search?q=Andy%20Burnham%E2%80%99s%20government%20talks%20of%20change%2C%20then%20does%20nothing"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "balance-of-payments",
+      "pronunciation": "",
+      "meaning_en": "a record of a country’s financial transactions with the rest of the world",
+      "meaning_zh": "国际收支",
+      "sentence": "Ever since independence and even more so since a balance-of-payments crisis in 1991, any steep fall in the value of the rupee has been seen as a national humiliation .",
+      "mini_note": "经济学和宏观政策中的固定术语。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 16",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "India has stabilised its currency. But at what cost?",
+      "official_url": "https://www.economist.com/search?q=India%20has%20stabilised%20its%20currency.%20But%20at%20what%20cost%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 16",
+          "article_title": "India has stabilised its currency. But at what cost?",
+          "official_url": "https://www.economist.com/search?q=India%20has%20stabilised%20its%20currency.%20But%20at%20what%20cost%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "at odds",
+      "pronunciation": "",
+      "meaning_en": "in disagreement or conflict",
+      "meaning_zh": "不一致；冲突",
+      "sentence": "As Mr Imai’s newspaper noted in an article about Russia’s new monument, “This appears to be an attempt to convey a willingness to co-operate with China—which is at odds with Japan…",
+      "mini_note": "常见搭配：at odds with。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 14",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Russia has seized a Japanese journalist",
+      "official_url": "https://www.economist.com/search?q=Russia%20has%20seized%20a%20Japanese%20journalist",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 14",
+          "article_title": "Russia has seized a Japanese journalist",
+          "official_url": "https://www.economist.com/search?q=Russia%20has%20seized%20a%20Japanese%20journalist"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "arms manufacturing",
+      "pronunciation": "",
+      "meaning_en": "the industrial production of weapons and military equipment",
+      "meaning_zh": "武器制造；军工生产",
+      "sentence": "In Kazakhstan America is eyeing tungsten, which is vital to high-tech arms-manufacturing.",
+      "mini_note": "arms 在此指武器而非人体手臂；high-tech arms-manufacturing 强调先进武器供应链。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 58",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "The countries making a fortune from the US-China rivalry",
+      "official_url": "https://www.economist.com/search?q=The%20countries%20making%20a%20fortune%20from%20the%20US-China%20rivalry",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 58",
+          "article_title": "The countries making a fortune from the US-China rivalry",
+          "official_url": "https://www.economist.com/search?q=The%20countries%20making%20a%20fortune%20from%20the%20US-China%20rivalry"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "any more than",
+      "pronunciation": "",
+      "meaning_en": "used after a negative statement to show that a comparison is equally untrue",
+      "meaning_zh": "正如……不……一样；就像……不……一样",
+      "sentence": "But a study published in Nutrition & Metabolism in 2021 found little evidence they boost muscle synthesis any more than pure whey.",
+      "mini_note": "前半句是否定判断，any more than 后常用肯定形式表达第二件事同样不成立，后半句不要再加 not。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 68",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Are some protein powders better than others?",
+      "official_url": "https://www.economist.com/search?q=Are%20some%20protein%20powders%20better%20than%20others%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 68",
+          "article_title": "Are some protein powders better than others?",
+          "official_url": "https://www.economist.com/search?q=Are%20some%20protein%20powders%20better%20than%20others%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "anti-establishment",
+      "pronunciation": "",
+      "meaning_en": "opposed to the traditional political or social elite",
+      "meaning_zh": "反建制的；反传统权力体系的",
+      "sentence": "“Now every [song] is a struggle song.” It would be wrong to suggest that all African music is anti-establishment.",
+      "mini_note": "政治评论高频词，可修饰 mood、candidate、movement；不等于简单的“反政府”。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 48",
+      "category": "interesting",
+      "tags": [
+        "curated",
+        "word"
+      ],
+      "article_title": "To understand African politics, just listen to the music",
+      "official_url": "https://www.economist.com/search?q=To%20understand%20African%20politics%2C%20just%20listen%20to%20the%20music",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 48",
+          "article_title": "To understand African politics, just listen to the music",
+          "official_url": "https://www.economist.com/search?q=To%20understand%20African%20politics%2C%20just%20listen%20to%20the%20music"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "all the more",
+      "pronunciation": "",
+      "meaning_en": "even more than before or than expected",
+      "meaning_zh": "更加；更为",
+      "sentence": "Anthropic’s rapid growth is all the more remarkable because, unlike many zippy startups, it has already reached profitability.",
+      "mini_note": "常与 striking、important 等形容词连用。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 51",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Don’t expect supersize profits from Anthropic soon",
+      "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20expect%20supersize%20profits%20from%20Anthropic%20soon",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 51",
+          "article_title": "Don’t expect supersize profits from Anthropic soon",
+          "official_url": "https://www.economist.com/search?q=Don%E2%80%99t%20expect%20supersize%20profits%20from%20Anthropic%20soon"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "term": "a far cry",
+      "pronunciation": "",
+      "meaning_en": "a situation or thing that is very different from another",
+      "meaning_zh": "与……相去甚远；大不相同",
+      "sentence": "This suggested Afghans are convicted of sex crimes at seven times the British rate—a far cry from Mr Timothy’s “over 20 times”, but disturbing nevertheless (see chart).",
+      "mini_note": "固定搭配 a far cry from，不能按字面译为‘遥远的哭声’。",
+      "source": "The Economist · 2026-10-31",
+      "issue": "2026-10-31",
+      "page": "2026-10-31 · p. 43",
+      "category": "common",
+      "tags": [
+        "curated",
+        "phrase"
+      ],
+      "article_title": "Do immigrants from some countries commit more sex crimes?",
+      "official_url": "https://www.economist.com/search?q=Do%20immigrants%20from%20some%20countries%20commit%20more%20sex%20crimes%3F",
+      "issues": [
+        "2026-10-31"
+      ],
+      "occurrences": [
+        {
+          "issue": "2026-10-31",
+          "page": "2026-10-31 · p. 43",
+          "article_title": "Do immigrants from some countries commit more sex crimes?",
+          "official_url": "https://www.economist.com/search?q=Do%20immigrants%20from%20some%20countries%20commit%20more%20sex%20crimes%3F"
+        }
+      ],
+      "occurrence_count": 1
+    },
     {
       "term": "youth unemployment",
       "pronunciation": "",
@@ -19608,148 +21798,148 @@
   ],
   "latest_reads": [
     {
-      "title": "Sam Bankman-Fried on effective altruism",
-      "summary": "Our podcast on markets, the economy and business. This week, SBF talks exclusively to Money Talks from a prison phone",
-      "published": "Thu, 22 Oct 2026 16:02:38 +0000",
-      "link": "https://www.economist.com/podcasts/2026/10/22/sam-bankman-fried-on-effective-altruism"
+      "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
+      "summary": "As its search engine sputters, rivals gain ground",
+      "published": "Thu, 29 Oct 2026 23:41:09 +0000",
+      "link": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai"
     },
     {
-      "title": "Sam Bankman-Fried says he has paid his debts",
-      "summary": "The crypto tycoon speaks with The Economist from prison in California",
-      "published": "Thu, 22 Oct 2026 15:51:39 +0000",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts"
+      "title": "What to watch this week",
+      "summary": "Need a break? Try one of these films or TV shows",
+      "published": "Thu, 29 Oct 2026 17:50:42 +0000",
+      "link": "https://www.economist.com/culture/2026/10/29/what-to-watch-this-week"
     },
     {
-      "title": "China’s party elite gathers with purges and promotions in mind",
-      "summary": "Xi seeks new ways to curb corruption before a leadership shake-up",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind"
+      "title": "Veteran investor Howard Marks on AI debt",
+      "summary": "Our podcast on markets, the economy and business. This week, for his final show, Mike Bird talks to the legendary distressed debt investor",
+      "published": "Thu, 29 Oct 2026 17:20:46 +0000",
+      "link": "https://www.economist.com/podcasts/2026/10/29/veteran-investor-howard-marks-on-ai-debt"
     },
     {
-      "title": "Multinational businesses are losing confidence in Indonesia",
-      "summary": "Its bountiful resources and vast population are attractive, but its government is a nightmare",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia"
+      "title": "China loves to rank its cities. The government wants it to stop",
+      "summary": "Annual city scorecards of all sorts are being torn up",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/china/2026/10/29/china-loves-to-rank-its-cities-the-government-wants-it-to-stop"
     },
     {
-      "title": "If AI displaces human workers, they will lose more than just pay",
-      "summary": "Work has value beyond the income it provides",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay"
+      "title": "China’s investment in transport infrastructure has peaked",
+      "summary": "Has it built too many expressways and high-speed rail lines?",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/china/2026/10/29/chinas-investment-in-transport-infrastructure-has-peaked"
     },
     {
-      "title": "How personal rivalries and clashes are shaping the AI race",
-      "summary": "A new book offers a rollicking tale of the people shaping Silicon Valley’s new obsession",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/culture/2026/10/22/how-personal-rivalries-and-clashes-are-shaping-the-ai-race"
+      "title": "Why it’s a bad time to be a rat-killer",
+      "summary": "Private equity and artificial intelligence are nibbling at sales",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer"
     },
     {
-      "title": "Jeffrey Archer’s career was worthy of his most improbable plots",
-      "summary": "The bestselling novelist, conman and politician died on October 5th, aged 86",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/obituary/2026/10/22/jeffrey-archers-career-was-worthy-of-his-most-improbable-plots"
+      "title": "The world’s biggest maker of spectacles faces a crisis",
+      "summary": "EssilorLuxottica has been rocked by a petty feud",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis"
+    },
+    {
+      "title": "Seven hot new sources of leadership inspiration",
+      "summary": "From amoebae to impalement",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration"
+    },
+    {
+      "title": "Cecily Gemmell would do almost anything for Churchill",
+      "summary": "His last personal secretary died on October 8th, aged 97",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/obituary/2026/10/29/cecily-gemmell-would-do-almost-anything-for-churchill"
     },
     {
       "title": "Economic data, commodities and markets",
       "summary": "",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/economic-and-financial-indicators/2026/10/22/economic-data-commodities-and-markets"
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/economic-and-financial-indicators/2026/10/29/economic-data-commodities-and-markets"
     },
     {
-      "title": "Leadership lessons from Napoleon",
-      "summary": "How the French emperor’s management style ultimately led to his fall",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon"
+      "title": "Why this is a golden age for conspiracy theories",
+      "summary": "They flourish during periods of social and political upheaval",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/culture/2026/10/29/why-this-is-a-golden-age-for-conspiracy-theories"
     },
     {
-      "title": "How Ella Langley two-stepped to the top of the charts",
-      "summary": "Country music is riding high, thanks to a new generation of stars and fans",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/culture/2026/10/22/how-ella-langley-two-stepped-to-the-top-of-the-charts"
+      "title": "How Lebanon’s civil war shaped America’s rivalry with Iran",
+      "summary": "A new book argues a murder in 1984 can help you understand the Middle East today",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/culture/2026/10/29/how-lebanons-civil-war-shaped-americas-rivalry-with-iran"
     },
     {
-      "title": "Are film critics as snooty and out of touch as people think?",
-      "summary": "We look at the data to find out",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/interactive/culture/2026/10/22/are-film-critics-as-snooty-and-out-of-touch-as-people-think"
+      "title": "John Green, a hit young-adult author, is now writing for adults",
+      "summary": "His latest novel explores social-media stardom; his own career has tracked it, too",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/culture/2026/10/29/john-green-a-hit-young-adult-author-is-now-writing-for-adults"
     },
     {
-      "title": "Rastafarians in Jamaica want more rights",
-      "summary": "The government is keen to atone for past abuses",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/the-americas/2026/10/22/rastafarians-in-jamaica-want-more-rights"
+      "title": "Humans will never again create a project quite like Wikipedia",
+      "summary": "As it turns 25, one of the internet’s unlikeliest successes faces grave new threats",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
     },
     {
-      "title": "America’s attack on the International Criminal Court is a headache for Japan",
-      "summary": "It’s hard to support international law when your main ally wants to destroy it",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan"
+      "title": "What the world’s most famous magician has to teach you",
+      "summary": "Hint: it does not involve handcuffs or a straitjacket",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/culture/2026/10/29/what-the-worlds-most-famous-magician-has-to-teach-you"
     },
     {
-      "title": "Tackling stray dogs in Bhutan",
-      "summary": "A lively campaign in a small country shows what to do",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/asia/2026/10/22/tackling-stray-dogs-in-bhutan"
+      "title": "The North Aral Sea is expanding after decades of shrinkage",
+      "summary": "The southern remnant is probably still doomed, however",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/asia/2026/10/29/the-north-aral-sea-is-expanding-after-decades-of-shrinkage"
     },
     {
-      "title": "Latin America is embracing Israel",
-      "summary": "New right-wing leaders are rushing to upgrade ties",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/the-americas/2026/10/22/latin-america-is-embracing-israel"
+      "title": "Meet the millennial centrist shaking up New Zealand’s election",
+      "summary": "The Opportunity Party claims to be taking on the rich world’s biggest problems",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/asia/2026/10/29/meet-the-millennial-centrist-shaking-up-new-zealands-election"
     },
     {
-      "title": "Joseph Kabila moves against his successor in Congo",
-      "summary": "By seeking to unseat Félix Tshisekedi as president, he could upend politics",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/22/joseph-kabila-moves-against-his-successor-in-congo"
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "summary": "The Marshall Islands uses an American windfall to pay every citizen",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income"
     },
     {
-      "title": "City-hall socialists try to make populism pragmatic",
-      "summary": "Can leftist mayors be both radicals and realists?",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/united-states/2026/10/22/city-hall-socialists-try-to-make-populism-pragmatic"
+      "title": "Donald Trump’s tantrums are an opportunity for Spain",
+      "summary": "Can it get on better with its former colonies?",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/the-americas/2026/10/29/donald-trumps-tantrums-are-an-opportunity-for-spain"
     },
     {
-      "title": "A deeply divided Israel prepares to vote",
-      "summary": "Old political alliances are fraying but the outcome is still deeply uncertain",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/22/a-deeply-divided-israel-prepares-to-vote"
+      "title": "Senegal tries to teach more children in their first language",
+      "summary": "The government hopes that will make them learn more",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/10/29/senegal-tries-to-teach-more-children-in-their-first-language"
     },
     {
-      "title": "Donald Trump should love the new documentary about Elizabeth Holmes",
-      "summary": "But when will other Americans get tired of hearing that truth is a slippery thing?",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/united-states/2026/10/22/donald-trump-should-love-the-new-documentary-about-elizabeth-holmes"
+      "title": "Saudi Arabia wants Iran to call off the Houthis and make a deal with America",
+      "summary": "But a summit meant to pressure the regime achieved little",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/10/29/saudi-arabia-wants-iran-to-call-off-the-houthis-and-make-a-deal-with-america"
     },
     {
-      "title": "The curious, predictable case of the fake poll",
-      "summary": "Incentives for fraudulent surveys are high and oversight lax",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/united-states/2026/10/22/the-curious-predictable-case-of-the-fake-poll"
+      "title": "Democrats are rediscovering what an appealing politics of progress looks like",
+      "summary": "Their competitive candidates in states such as Iowa show how the party can avoid approaching doom",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/united-states/2026/10/29/democrats-are-rediscovering-what-an-appealing-politics-of-progress-looks-like"
     },
     {
-      "title": "Why Gen-Z conservatives love Richard Nixon",
-      "summary": "The disgraced president’s revival highlights a generational split among conservatives",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/united-states/2026/10/22/why-gen-z-conservatives-love-richard-nixon"
+      "title": "The midterms could reshape American politics far beyond Congress",
+      "summary": "Democrats may take control of several state governments",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/united-states/2026/10/29/the-midterms-could-reshape-american-politics-far-beyond-congress"
     },
     {
-      "title": "How to share the wealth from AI? Alaska offers lessons",
-      "summary": "Divvying up the proceeds of a boom is harder than it looks",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/united-states/2026/10/22/how-to-share-the-wealth-from-ai-alaska-offers-lessons"
-    },
-    {
-      "title": "The midterms’ fundraising figures tell a surprising story",
-      "summary": "The money that matters most is flowing one way",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/united-states/2026/10/22/the-midterms-fundraising-figures-tell-a-surprising-story"
-    },
-    {
-      "title": "The America-Ukraine link grows even spottier",
-      "summary": "The Starlink cut-offs were a test, and worse may follow",
-      "published": "Thu, 22 Oct 2026 12:59:25 +0000",
-      "link": "https://www.economist.com/europe/2026/10/22/the-america-ukraine-link-grows-even-spottier"
+      "title": "Europe is gearing up for a future war Russia is already waging",
+      "summary": "Living in a phoney peace",
+      "published": "Thu, 29 Oct 2026 13:48:04 +0000",
+      "link": "https://www.economist.com/europe/2026/10/29/europe-is-gearing-up-for-a-future-war-russia-is-already-waging"
     }
   ]
 }
