@@ -143,6 +143,11 @@ input:focus, textarea:focus, select:focus { border-color: #9bb4ec; box-shadow: 0
 .sentence:empty { display: none; }
 .sentence-zh { margin-top: 5px; color: #8b6c63; font-size: 11px; line-height: 1.45; }
 .sentence-zh:empty { display: none; }
+.alternatives, .writing-examples { margin-top: 10px; color: #4e596b; font-size: 12px; line-height: 1.55; }
+.alternatives strong, .writing-examples > strong { display: block; margin-bottom: 4px; color: #26354d; font-size: 11px; letter-spacing: .05em; }
+.writing-examples p { margin-top: 7px; padding-left: 10px; border-left: 2px solid #ead8c2; }
+.writing-examples p span, .writing-examples p small { display: block; }
+.writing-examples p small { margin-top: 2px; color: #8b6c63; font-size: 11px; }
 .context { display: -webkit-box; overflow: hidden; margin-top: 8px; color: #8a93a1; font-size: 11px; line-height: 1.45; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
 .context:empty { display: none; }
 .mini-note { margin-top: 8px; padding: 7px 9px; color: #886126; background: #fff8e9; border-radius: 6px; font-size: 11px; line-height: 1.45; }

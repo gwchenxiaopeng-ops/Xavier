@@ -86,7 +86,9 @@
     els.articleDate.textContent = item.date || formatIssue(item.issue);
     els.articlePages.textContent = formatIssue(item.issue);
     els.articlePdf.href = item.official_url; els.articlePdf.hidden = !item.official_url;
-    const related = (state.data.vocab || []).filter((vocab) => vocab.article_title === item.title).slice(0, 30);
+    const related = (state.data.vocab || []).filter((vocab) =>
+      vocab.article_title === item.title || (vocab.occurrences || []).some((occurrence) => occurrence.article_title === item.title)
+    ).slice(0, 30);
     els.articleTermList.replaceChildren(); els.articleTerms.hidden = related.length === 0;
     related.forEach((vocab) => {
       const button = document.createElement('button'); button.type = 'button'; button.className = 'article-term-chip'; button.textContent = vocab.term;
@@ -103,9 +105,9 @@
   function filteredVocab() {
     const query = els.search.value.trim().toLowerCase();
     let rows = (state.data.vocab || []).filter((item) => {
-      if (els.issue.value && item.issue !== els.issue.value) return false;
+      if (els.issue.value && !(item.issues || [item.issue]).includes(els.issue.value)) return false;
       if (els.tag.value && !(item.tags || []).includes(els.tag.value)) return false;
-      if (els.batch.value && item.issue !== els.batch.value) return false;
+      if (els.batch.value && !(item.issues || [item.issue]).includes(els.batch.value)) return false;
       if (els.category.value && item.category !== els.category.value) return false;
       if (els.linkedOnly.checked && !item.official_url) return false;
       return !query || [item.term, item.meaning_en, item.meaning_zh, item.sentence, item.mini_note, item.article_title, item.source]
@@ -123,10 +125,23 @@
     fragment.querySelector('.meaning-en').textContent = item.meaning_en || '';
     fragment.querySelector('.meaning').textContent = item.meaning_zh || '—';
     fragment.querySelector('.sentence').textContent = item.sentence || '';
-    fragment.querySelector('.sentence-zh').textContent = '';
+    fragment.querySelector('.sentence-zh').textContent = item.sentence_zh || '';
+    const alternatives = fragment.querySelector('.alternatives');
+    alternatives.hidden = !(item.alternatives || []).length;
+    alternatives.querySelector('span').textContent = (item.alternatives || []).join(' · ');
+    const writing = fragment.querySelector('.writing-examples');
+    writing.hidden = !(item.writing_examples || []).length;
+    const writingBody = writing.querySelector('div');
+    writingBody.replaceChildren(...(item.writing_examples || []).map((example) => {
+      const row = document.createElement('p');
+      const en = document.createElement('span'); en.textContent = example.en || '';
+      const zh = document.createElement('small'); zh.textContent = example.zh || '';
+      row.append(en, zh); return row;
+    }));
     fragment.querySelector('.context').textContent = '';
     fragment.querySelector('.mini-note').textContent = item.mini_note ? `Mini note · ${item.mini_note}` : '';
-    fragment.querySelector('.source').textContent = item.source || (item.issue ? `The Economist · ${item.issue}` : '');
+    const occurrenceLabel = item.occurrence_count > 1 ? ` · ${item.occurrence_count} 处语境` : '';
+    fragment.querySelector('.source').textContent = `${item.source || (item.issue ? `The Economist · ${item.issue}` : '')}${occurrenceLabel}`;
     fragment.querySelector('.page').textContent = item.page || '';
     const sourceLink = fragment.querySelector('.source-link');
     if (item.official_url) { sourceLink.href = item.official_url; sourceLink.hidden = false; } else sourceLink.hidden = true;
@@ -137,7 +152,7 @@
     }
     const articleRef = fragment.querySelector('.article-ref'); articleRef.hidden = !item.article_title; articleRef.textContent = item.article_title ? `ARTICLE · ${item.article_title}` : '';
     fragment.querySelector('.category').textContent = labelCategory(item.category);
-    fragment.querySelector('.batch').textContent = item.issue ? `${item.issue}-auto-01` : '';
+    fragment.querySelector('.batch').textContent = (item.issues || [item.issue]).filter(Boolean).map((issue) => `${issue}-auto-01`).join(' / ');
     const tags = fragment.querySelector('.tag-list');
     (item.tags || []).forEach((tag) => { const span = document.createElement('span'); span.className = 'tag'; span.textContent = tag; tags.appendChild(span); });
     const status = fragment.querySelector('.status-pill'); status.className = 'status-pill status-public'; status.textContent = '公开词卡';
@@ -158,7 +173,7 @@
   function renderStatsAndFilters() {
     const vocab = state.data.vocab || [];
     $('statTotal').textContent = String(vocab.length);
-    $('statDue').textContent = String(vocab.filter((item) => item.issue === state.data.issues?.[0]?.issue).length);
+    $('statDue').textContent = String(vocab.filter((item) => (item.issues || [item.issue]).includes(state.data.issues?.[0]?.issue)).length);
     $('statMastered').textContent = String(vocab.filter((item) => item.meaning_en || item.meaning_zh).length);
     $('statLearning').textContent = String(vocab.filter((item) => item.article_title).length);
     const issues = [...new Set((state.data.issues || []).map((item) => item.issue).filter(Boolean))];
