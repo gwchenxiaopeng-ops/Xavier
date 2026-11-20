@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-11-20T02:08:39+00:00",
+  "exported_at": "2026-11-20T02:16:14+00:00",
   "notice": "公开版不包含杂志文件或完整文章；文章入口跳转至 The Economist 官方网站。",
   "stats": {
     "issues": 13,
@@ -8914,12 +8914,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted youth unemployment as a growing policy concern.",
-          "zh": "报告把青年失业列为日益重要的政策议题。"
+          "en": "Youth unemployment rose after the construction boom ended.",
+          "zh": "建筑热潮结束后，青年失业率上升。"
         },
         {
-          "en": "Executives discussed how youth unemployment could affect their long-term plans.",
-          "zh": "管理层讨论了青年失业可能如何影响长期规划。"
+          "en": "The programme combines training with subsidies to reduce youth unemployment.",
+          "zh": "该计划结合培训与补贴，以降低青年失业率。"
         }
       ],
       "mini_note": "常见 youth-unemployment rate；各国统计年龄范围可能不同。",
@@ -8959,12 +8959,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as vaccine-preventable.",
-          "zh": "分析人士称该方案具有“vaccine-preventable”所表达的特征。"
+          "en": "Measles is a vaccine-preventable disease.",
+          "zh": "麻疹是一种可通过疫苗预防的疾病。"
         },
         {
-          "en": "The review examined a vaccine-preventable approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种可通过疫苗预防的的做法。"
+          "en": "The campaign aims to reduce deaths from vaccine-preventable infections.",
+          "zh": "该行动旨在减少可通过疫苗预防的感染所致死亡。"
         }
       ],
       "mini_note": "常见 vaccine-preventable disease；说明已有有效疫苗，并不表示风险会自动消失。",
@@ -9004,12 +9004,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as twenty-somethings.",
-          "zh": "分析人士称该方案具有“twenty-somethings”所表达的特征。"
+          "en": "Twenty-somethings make up most of the app's users.",
+          "zh": "二十多岁的年轻人占这款应用用户的大多数。"
         },
         {
-          "en": "The review examined a twenty-somethings approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种二十多岁的人的做法。"
+          "en": "Many twenty-somethings are delaying home ownership.",
+          "zh": "许多二十多岁的年轻人推迟了购房。"
         }
       ],
       "mini_note": "口语化群体称呼；单数 twenty-something，也可作形容词。",
@@ -9049,12 +9049,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as submarine-mounted.",
-          "zh": "分析人士称该方案具有“submarine-mounted”所表达的特征。"
+          "en": "The navy tested a submarine-mounted missile system.",
+          "zh": "海军测试了一套潜艇搭载的导弹系统。"
         },
         {
-          "en": "The review examined a submarine-mounted approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种潜艇搭载的的做法。"
+          "en": "Submarine-mounted sensors tracked the vessel silently.",
+          "zh": "潜艇搭载的传感器悄然追踪了该船只。"
         }
       ],
       "mini_note": "mounted 强调装备的安装载体；常见 submarine-mounted missile / sensor。",
@@ -9094,12 +9094,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted sovereign wealth fund as a growing policy concern.",
-          "zh": "报告把主权财富基金列为日益重要的政策议题。"
+          "en": "The sovereign wealth fund increased its stake in renewable energy.",
+          "zh": "该主权财富基金增持了可再生能源资产。"
         },
         {
-          "en": "Executives discussed how sovereign wealth fund could affect their long-term plans.",
-          "zh": "管理层讨论了主权财富基金可能如何影响长期规划。"
+          "en": "Oil revenue is transferred to a sovereign-wealth fund for future generations.",
+          "zh": "石油收入被转入主权财富基金，为后代储备。"
         }
       ],
       "mini_note": "常由外汇、石油等财政盈余出资，缩写 SWF。",
@@ -9139,12 +9139,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted signals intelligence as a growing policy concern.",
-          "zh": "报告把信号情报的列为日益重要的政策议题。"
+          "en": "Signals intelligence helped identify the source of the transmission.",
+          "zh": "信号情报帮助确认了信号来源。"
         },
         {
-          "en": "Executives discussed how signals intelligence could affect their long-term plans.",
-          "zh": "管理层讨论了信号情报的可能如何影响长期规划。"
+          "en": "The allies agreed to expand signals-intelligence co-operation.",
+          "zh": "盟国同意扩大信号情报合作。"
         }
       ],
       "mini_note": "常缩写为 SIGINT；包括通信、雷达等电子信号的截获与分析。",
@@ -9184,12 +9184,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as self-sufficiency.",
-          "zh": "分析人士称该方案具有“self-sufficiency”所表达的特征。"
+          "en": "The country is investing in energy self-sufficiency.",
+          "zh": "该国正在投资提升能源自给能力。"
         },
         {
-          "en": "The review examined a self-sufficiency approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种自给自足的做法。"
+          "en": "Complete self-sufficiency in semiconductors would be extremely costly.",
+          "zh": "在半导体领域实现完全自给自足将代价高昂。"
         }
       ],
       "mini_note": "经济政策中常指能源、粮食或技术不依赖进口。",
@@ -9229,12 +9229,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted satellite imaging as a growing policy concern.",
-          "zh": "报告把卫星成像的列为日益重要的政策议题。"
+          "en": "Satellite imaging revealed damage to the bridge.",
+          "zh": "卫星成像显示这座桥受到损坏。"
         },
         {
-          "en": "Executives discussed how satellite imaging could affect their long-term plans.",
-          "zh": "管理层讨论了卫星成像的可能如何影响长期规划。"
+          "en": "Farmers use satellite-imaging data to monitor crops.",
+          "zh": "农民利用卫星影像数据监测作物。"
         }
       ],
       "mini_note": "常见 satellite-imaging company / data；可使用光学或雷达传感器。",
@@ -9274,12 +9274,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted satellite broadband as a growing policy concern.",
-          "zh": "报告把卫星宽带列为日益重要的政策议题。"
+          "en": "Satellite broadband brought fast internet to remote villages.",
+          "zh": "卫星宽带为偏远村庄带来了高速互联网。"
         },
         {
-          "en": "Executives discussed how satellite broadband could affect their long-term plans.",
-          "zh": "管理层讨论了卫星宽带可能如何影响长期规划。"
+          "en": "The airline plans to offer satellite broadband on every flight.",
+          "zh": "这家航空公司计划在所有航班上提供卫星宽带。"
         }
       ],
       "mini_note": "常见 satellite-broadband service / provider；区别于地面光纤或移动网络。",
@@ -9319,12 +9319,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as sanctions-busting.",
-          "zh": "分析人士称该方案具有“sanctions-busting”所表达的特征。"
+          "en": "Authorities seized a sanctions-busting tanker.",
+          "zh": "当局扣押了一艘规避制裁的油轮。"
         },
         {
-          "en": "The review examined a sanctions-busting approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种规避制裁的的做法。"
+          "en": "The bank was accused of helping a sanctions-busting network.",
+          "zh": "该银行被指协助一个规避制裁的网络。"
         }
       ],
       "mini_note": "新闻用语且带负面评价，常修饰 network / ship / trade。",
@@ -9364,12 +9364,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as remote-controlled.",
-          "zh": "分析人士称该方案具有“remote-controlled”所表达的特征。"
+          "en": "A remote-controlled robot inspected the damaged reactor.",
+          "zh": "一台遥控机器人检查了受损的反应堆。"
         },
         {
-          "en": "The review examined a remote-controlled approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种遥控的的做法。"
+          "en": "The police found a remote-controlled device near the station.",
+          "zh": "警方在车站附近发现了一个遥控装置。"
         }
       ],
       "mini_note": "常修饰 drone / vehicle；与 autonomous 区分，后者可自行决策或执行。",
@@ -9409,12 +9409,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as propeller-driven.",
-          "zh": "分析人士称该方案具有“propeller-driven”所表达的特征。"
+          "en": "The airline still operates several propeller-driven aircraft.",
+          "zh": "这家航空公司仍运营数架螺旋桨驱动的飞机。"
         },
         {
-          "en": "The review examined a propeller-driven approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种螺旋桨驱动的的做法。"
+          "en": "Propeller-driven drones are slower but cheaper to build.",
+          "zh": "螺旋桨驱动的无人机速度较慢，但制造成本更低。"
         }
       ],
       "mini_note": "常修饰 aircraft / drone；与 jet-powered 对照。",
@@ -9454,12 +9454,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as plausible-looking.",
-          "zh": "分析人士称该方案具有“plausible-looking”所表达的特征。"
+          "en": "The model produced a plausible-looking answer that was completely wrong.",
+          "zh": "模型给出了一个看似可信却完全错误的答案。"
         },
         {
-          "en": "The review examined a plausible-looking approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种看似可信的的做法。"
+          "en": "Fraudsters used plausible-looking invoices to fool staff.",
+          "zh": "骗子利用看似可信的发票欺骗员工。"
         }
       ],
       "mini_note": "looking 保留真实性判断；常用于提醒表面合理但可能错误的结果。",
@@ -9499,12 +9499,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted number crunching as a growing policy concern.",
-          "zh": "报告把数据运算列为日益重要的政策议题。"
+          "en": "After some number crunching, the team revised its sales forecast.",
+          "zh": "经过一番数据运算，团队调整了销售预测。"
         },
         {
-          "en": "Executives discussed how number crunching could affect their long-term plans.",
-          "zh": "管理层讨论了数据运算可能如何影响长期规划。"
+          "en": "The conclusion is based on months of careful number-crunching.",
+          "zh": "这一结论建立在数月细致的数据分析之上。"
         }
       ],
       "mini_note": "非正式表达，常指大量计算；number-crunching exercise / analysis。",
@@ -9544,12 +9544,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as near-photographic.",
-          "zh": "分析人士称该方案具有“near-photographic”所表达的特征。"
+          "en": "The game creates near-photographic images in real time.",
+          "zh": "这款游戏可以实时生成近乎照片般逼真的图像。"
         },
         {
-          "en": "The review examined a near-photographic approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种近乎照片般逼真的的做法。"
+          "en": "Her near-photographic memory impressed the investigators.",
+          "zh": "她近乎过目不忘的记忆力给调查人员留下深刻印象。"
         }
       ],
       "mini_note": "near- 表示接近但未完全达到；常修饰 realism / memory / detail。",
@@ -9589,12 +9589,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted national security as a growing policy concern.",
-          "zh": "报告把国家安全列为日益重要的政策议题。"
+          "en": "The acquisition was reviewed on national-security grounds.",
+          "zh": "这项收购因国家安全理由受到审查。"
         },
         {
-          "en": "Executives discussed how national security could affect their long-term plans.",
-          "zh": "管理层讨论了国家安全可能如何影响长期规划。"
+          "en": "Cyber resilience has become a national-security priority.",
+          "zh": "网络韧性已成为国家安全优先事项。"
         }
       ],
       "mini_note": "范围可涵盖军事、情报、网络和经济安全。",
@@ -9634,12 +9634,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted money laundering as a growing policy concern.",
-          "zh": "报告把洗钱列为日益重要的政策议题。"
+          "en": "The bank strengthened its controls against money laundering.",
+          "zh": "该银行加强了反洗钱控制。"
         },
         {
-          "en": "Executives discussed how money laundering could affect their long-term plans.",
-          "zh": "管理层讨论了洗钱可能如何影响长期规划。"
+          "en": "Prosecutors traced the money-laundering network through shell companies.",
+          "zh": "检察官通过空壳公司追查到这个洗钱网络。"
         }
       ],
       "mini_note": "常见 anti-money-laundering rules，缩写 AML；强调掩盖犯罪所得来源。",
@@ -9679,12 +9679,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted market operations as a growing policy concern.",
-          "zh": "报告把市场操作列为日益重要的政策议题。"
+          "en": "The central bank used market operations to inject liquidity.",
+          "zh": "央行通过市场操作注入流动性。"
         },
         {
-          "en": "Executives discussed how market operations could affect their long-term plans.",
-          "zh": "管理层讨论了市场操作可能如何影响长期规划。"
+          "en": "She oversees the bank's daily market operations.",
+          "zh": "她负责监督该银行的日常市场业务。"
         }
       ],
       "mini_note": "央行语境常指债券买卖、流动性管理等，不是泛指市场营销。",
@@ -9724,12 +9724,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted maritime services as a growing policy concern.",
-          "zh": "报告把海事服务列为日益重要的政策议题。"
+          "en": "The port has become a regional hub for maritime services.",
+          "zh": "该港口已成为区域海事服务中心。"
         },
         {
-          "en": "Executives discussed how maritime services could affect their long-term plans.",
-          "zh": "管理层讨论了海事服务可能如何影响长期规划。"
+          "en": "Sanctions restricted insurance and other maritime services.",
+          "zh": "制裁限制了保险及其他海事服务。"
         }
       ],
       "mini_note": "可涵盖保险、融资、经纪、维修和港口服务；制裁语境中范围需看具体规则。",
@@ -9769,12 +9769,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted machine learning as a growing policy concern.",
-          "zh": "报告把机器学习的列为日益重要的政策议题。"
+          "en": "The hospital uses machine learning to detect early signs of disease.",
+          "zh": "医院利用机器学习识别疾病早期迹象。"
         },
         {
-          "en": "Executives discussed how machine learning could affect their long-term plans.",
-          "zh": "管理层讨论了机器学习的可能如何影响长期规划。"
+          "en": "A machine-learning model predicted demand by region.",
+          "zh": "一个机器学习模型预测了各地区的需求。"
         }
       ],
       "mini_note": "作定语时常写 machine-learning model；独立作名词通常不加连字符。",
@@ -9814,12 +9814,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as joint-highest-rated.",
-          "zh": "分析人士称该方案具有“joint-highest-rated”所表达的特征。"
+          "en": "The two films were joint-highest-rated by the festival jury.",
+          "zh": "这两部电影并列获得电影节评委的最高评分。"
         },
         {
-          "en": "The review examined a joint-highest-rated approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种并列评分最高的的做法。"
+          "en": "She finished the season as the joint-highest-rated player.",
+          "zh": "她以并列最高评分球员的身份结束了赛季。"
         }
       ],
       "mini_note": "joint- 表示并列；常见 joint-highest / joint-first，不等于单独排名第一。",
@@ -9859,12 +9859,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as Johnny-come-lately.",
-          "zh": "分析人士称该方案具有“Johnny-come-lately”所表达的特征。"
+          "en": "The established firms dismissed the startup as a Johnny-come-lately.",
+          "zh": "老牌企业把这家初创公司视为姗姗来迟的后来者。"
         },
         {
-          "en": "The review examined a Johnny-come-lately approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种后来者的做法。"
+          "en": "He is no Johnny-come-lately to climate policy.",
+          "zh": "他在气候政策领域绝不是新来者。"
         }
       ],
       "mini_note": "略带戏谑或贬义；复数通常写 Johnny-come-latelies。",
@@ -9904,12 +9904,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as investor-friendly.",
-          "zh": "分析人士称该方案具有“investor-friendly”所表达的特征。"
+          "en": "The reform created a more investor-friendly regulatory environment.",
+          "zh": "改革营造了对投资者更友好的监管环境。"
         },
         {
-          "en": "The review examined a investor-friendly approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种对投资者友好的的做法。"
+          "en": "Investor-friendly rules still need strong consumer safeguards.",
+          "zh": "对投资者友好的规则仍需有力的消费者保障。"
         }
       ],
       "mini_note": "常修饰 rules / tax regime / market；具体友好程度要看准入、税负与法律确定性。",
@@ -9949,12 +9949,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted investigative news as a growing policy concern.",
-          "zh": "报告把调查新闻的列为日益重要的政策议题。"
+          "en": "The grant supports local investigative-news organisations.",
+          "zh": "这笔资助支持地方调查新闻机构。"
         },
         {
-          "en": "Executives discussed how investigative news could affect their long-term plans.",
-          "zh": "管理层讨论了调查新闻的可能如何影响长期规划。"
+          "en": "Investigative news can uncover wrongdoing that routine reporting misses.",
+          "zh": "调查新闻可以揭露日常报道未能发现的不当行为。"
         }
       ],
       "mini_note": "常见 investigative-news outlet；比日常新闻报道更强调资料核查、追踪与揭露。",
@@ -9994,12 +9994,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted interbank messaging as a growing policy concern.",
-          "zh": "报告把银行间报文传输的列为日益重要的政策议题。"
+          "en": "The outage briefly interrupted interbank messaging.",
+          "zh": "此次故障短暂中断了银行间报文传输。"
         },
         {
-          "en": "Executives discussed how interbank messaging could affect their long-term plans.",
-          "zh": "管理层讨论了银行间报文传输的可能如何影响长期规划。"
+          "en": "Banks need a secure interbank-messaging system for cross-border payments.",
+          "zh": "银行需要安全的银行间报文系统来处理跨境支付。"
         }
       ],
       "mini_note": "SWIFT 属于 interbank-messaging system，传递金融指令，本身并不直接持有或划转资金。",
@@ -10039,12 +10039,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted in turn as a growing policy concern.",
-          "zh": "报告把依次列为日益重要的政策议题。"
+          "en": "Higher wages boost spending, which in turn supports growth.",
+          "zh": "工资上涨会增加消费，进而支持经济增长。"
         },
         {
-          "en": "Executives discussed how in turn could affect their long-term plans.",
-          "zh": "管理层讨论了依次可能如何影响长期规划。"
+          "en": "Each department presented its findings in turn.",
+          "zh": "各部门依次汇报了调查结果。"
         }
       ],
       "mini_note": "根据上下文判断是顺序关系还是因果关系。",
@@ -10084,12 +10084,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted human trafficking as a growing policy concern.",
-          "zh": "报告把人口贩运列为日益重要的政策议题。"
+          "en": "Police arrested three suspects in a human-trafficking investigation.",
+          "zh": "警方在人口贩运调查中逮捕了三名嫌疑人。"
         },
         {
-          "en": "Executives discussed how human trafficking could affect their long-term plans.",
-          "zh": "管理层讨论了人口贩运可能如何影响长期规划。"
+          "en": "Victims of human trafficking need legal and psychological support.",
+          "zh": "人口贩运受害者需要法律和心理支持。"
         }
       ],
       "mini_note": "固定法律表达；重点是以剥削为目的，不等同于一般偷渡。",
@@ -10129,12 +10129,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as Houthi-controlled.",
-          "zh": "分析人士称该方案具有“Houthi-controlled”所表达的特征。"
+          "en": "Aid entered through a Houthi-controlled port.",
+          "zh": "援助物资经由胡塞武装控制的港口进入。"
         },
         {
-          "en": "The review examined a Houthi-controlled approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种由胡塞武装控制的的做法。"
+          "en": "The convoy crossed into Houthi-controlled territory.",
+          "zh": "车队进入了胡塞武装控制的地区。"
         }
       ],
       "mini_note": "controlled 描述实际控制，不等于获得国际承认的主权或合法所有权。",
@@ -10174,12 +10174,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted heritage protection as a growing policy concern.",
-          "zh": "报告把文化遗产保护的列为日益重要的政策议题。"
+          "en": "The city strengthened heritage protection around the old harbour.",
+          "zh": "该市加强了老港口周边的文化遗产保护。"
         },
         {
-          "en": "Executives discussed how heritage protection could affect their long-term plans.",
-          "zh": "管理层讨论了文化遗产保护的可能如何影响长期规划。"
+          "en": "Heritage-protection rules delayed the redevelopment project.",
+          "zh": "文化遗产保护规定推迟了改造项目。"
         }
       ],
       "mini_note": "常见 heritage-protection body / law；既可保护文物，也可保护遗址与非物质遗产。",
@@ -10219,12 +10219,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted hell for leather as a growing policy concern.",
-          "zh": "报告把全力猛冲的列为日益重要的政策议题。"
+          "en": "The company went hell for leather to launch before its rival.",
+          "zh": "这家公司全力冲刺，力争在竞争对手之前推出产品。"
         },
         {
-          "en": "Executives discussed how hell for leather could affect their long-term plans.",
-          "zh": "管理层讨论了全力猛冲的可能如何影响长期规划。"
+          "en": "They drove hell for leather towards the border.",
+          "zh": "他们以最快速度驾车冲向边境。"
         }
       ],
       "mini_note": "英式非正式表达，常见 go hell for leather；语气强烈且带冒险意味。",
@@ -10264,12 +10264,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as Greenland-Iceland-UK.",
-          "zh": "分析人士称该方案具有“Greenland-Iceland-UK”所表达的特征。"
+          "en": "NATO monitors the Greenland-Iceland-UK gap for submarine activity.",
+          "zh": "北约监控格陵兰—冰岛—英国缺口的潜艇活动。"
         },
         {
-          "en": "The review examined a Greenland-Iceland-UK approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种格陵兰—冰岛—英国缺口的的做法。"
+          "en": "The Greenland-Iceland-UK gap remains strategically important.",
+          "zh": "格陵兰—冰岛—英国缺口仍具有重要战略意义。"
         }
       ],
       "mini_note": "军事地理中常称 GIUK gap，是北大西洋反潜与海上通道监控的关键区域。",
@@ -10309,12 +10309,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as government-funded.",
-          "zh": "分析人士称该方案具有“government-funded”所表达的特征。"
+          "en": "The study was government-funded but independently conducted.",
+          "zh": "这项研究由政府资助，但独立开展。"
         },
         {
-          "en": "The review examined a government-funded approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种政府资助的的做法。"
+          "en": "Government-funded childcare expanded in rural areas.",
+          "zh": "政府资助的托育服务在农村地区扩大。"
         }
       ],
       "mini_note": "funded 只说明资金来源，不必然表示政府拥有或直接管理该项目。",
@@ -10354,12 +10354,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted endure as a growing policy concern.",
-          "zh": "报告把忍受列为日益重要的政策议题。"
+          "en": "Small firms cannot endure another year of high borrowing costs.",
+          "zh": "小企业无法再承受一年高昂的借贷成本。"
         },
         {
-          "en": "Executives discussed how endure could affect their long-term plans.",
-          "zh": "管理层讨论了忍受可能如何影响长期规划。"
+          "en": "The bridge was designed to endure severe storms.",
+          "zh": "这座桥按抵御强风暴的标准设计。"
         }
       ],
       "mini_note": "可作不及物动词，强调持续承受困难。",
@@ -10399,12 +10399,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as credit-intensive.",
-          "zh": "分析人士称该方案具有“credit-intensive”所表达的特征。"
+          "en": "Property development is a credit-intensive business.",
+          "zh": "房地产开发是高度依赖信贷的业务。"
         },
         {
-          "en": "The review examined a credit-intensive approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种信贷密集型的的做法。"
+          "en": "Higher rates hit credit-intensive industries first.",
+          "zh": "利率上升首先冲击信贷密集型行业。"
         }
       ],
       "mini_note": "常修饰 property / infrastructure 等行业；重点是融资结构依赖信贷。",
@@ -10444,12 +10444,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as corporate-friendly.",
-          "zh": "分析人士称该方案具有“corporate-friendly”所表达的特征。"
+          "en": "The government introduced a more corporate-friendly tax regime.",
+          "zh": "政府推出了对企业更友好的税制。"
         },
         {
-          "en": "The review examined a corporate-friendly approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种亲企业的的做法。"
+          "en": "Critics say the reform is too corporate-friendly.",
+          "zh": "批评者称这项改革过度迁就企业。"
         }
       ],
       "mini_note": "常修饰 policy / government / system；语气可中性，也可暗示过度迁就企业。",
@@ -10489,12 +10489,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted company formation as a growing policy concern.",
-          "zh": "报告把公司设立列为日益重要的政策议题。"
+          "en": "Digital company formation can reduce the cost of starting a business.",
+          "zh": "公司注册数字化可以降低创业成本。"
         },
         {
-          "en": "Executives discussed how company formation could affect their long-term plans.",
-          "zh": "管理层讨论了公司设立可能如何影响长期规划。"
+          "en": "The regulator tightened checks on company-formation agents.",
+          "zh": "监管机构加强了对公司注册代理人的审查。"
         }
       ],
       "mini_note": "常见 company-formation agent / service；涉及注册文件与法定身份建立。",
@@ -10534,12 +10534,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as commander-in-chief.",
-          "zh": "分析人士称该方案具有“commander-in-chief”所表达的特征。"
+          "en": "The president serves as commander-in-chief of the armed forces.",
+          "zh": "总统担任武装部队总司令。"
         },
         {
-          "en": "The review examined a commander-in-chief approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种三军统帅的做法。"
+          "en": "As commander-in-chief, she approved the deployment.",
+          "zh": "作为最高统帅，她批准了这次部署。"
         }
       ],
       "mini_note": "美国总统等国家元首常用称谓。",
@@ -10579,12 +10579,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as command-and-control.",
-          "zh": "分析人士称该方案具有“command-and-control”所表达的特征。"
+          "en": "The attack disrupted the army's command-and-control network.",
+          "zh": "这次袭击扰乱了军队的指挥控制网络。"
         },
         {
-          "en": "The review examined a command-and-control approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种命令与控制式的的做法。"
+          "en": "Clear command and control is essential during an emergency.",
+          "zh": "紧急情况下，清晰的指挥控制至关重要。"
         }
       ],
       "mini_note": "既可指军事指挥体系，也可形容政府或企业高度集中的管理方式。",
@@ -10624,12 +10624,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted cognitive warfare as a growing policy concern.",
-          "zh": "报告把认知战列为日益重要的政策议题。"
+          "en": "Officials warned that false videos could be used in cognitive warfare.",
+          "zh": "官员警告说，虚假视频可能被用于认知战。"
         },
         {
-          "en": "Executives discussed how cognitive warfare could affect their long-term plans.",
-          "zh": "管理层讨论了认知战可能如何影响长期规划。"
+          "en": "Cognitive warfare seeks to shape how people interpret events.",
+          "zh": "认知战试图影响人们如何理解事件。"
         }
       ],
       "mini_note": "强调操纵认知、叙事和决策，不等同于传统电子战。",
@@ -10669,12 +10669,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted chip trafficking as a growing policy concern.",
-          "zh": "报告把芯片走私列为日益重要的政策议题。"
+          "en": "Customs officers uncovered a chip-trafficking route through several countries.",
+          "zh": "海关人员发现了一条途经多国的芯片走私路线。"
         },
         {
-          "en": "Executives discussed how chip trafficking could affect their long-term plans.",
-          "zh": "管理层讨论了芯片走私可能如何影响长期规划。"
+          "en": "Export controls have made chip trafficking more profitable.",
+          "zh": "出口管制使芯片走私变得更有利可图。"
         }
       ],
       "mini_note": "trafficking 强调规避出口管制的非法流通，比普通 resale 更严重。",
@@ -10714,12 +10714,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted carbon emissions as a growing policy concern.",
-          "zh": "报告把碳排放的列为日益重要的政策议题。"
+          "en": "The new standard requires factories to measure carbon emissions.",
+          "zh": "新标准要求工厂测量碳排放。"
         },
         {
-          "en": "Executives discussed how carbon emissions could affect their long-term plans.",
-          "zh": "管理层讨论了碳排放的可能如何影响长期规划。"
+          "en": "Electrification could sharply reduce transport-related carbon emissions.",
+          "zh": "电气化可以大幅减少交通相关碳排放。"
         }
       ],
       "mini_note": "常见 carbon-emissions policy / target；正式统计口径需明确是否只指二氧化碳。",
@@ -10759,12 +10759,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as capital-intensive.",
-          "zh": "分析人士称该方案具有“capital-intensive”所表达的特征。"
+          "en": "Semiconductor manufacturing is extremely capital-intensive.",
+          "zh": "半导体制造是资本高度密集的行业。"
         },
         {
-          "en": "The review examined a capital-intensive approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种资本密集型的的做法。"
+          "en": "Capital-intensive projects are sensitive to interest-rate rises.",
+          "zh": "资本密集型项目对利率上升十分敏感。"
         }
       ],
       "mini_note": "常修饰 industry、project、infrastructure。",
@@ -10804,12 +10804,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as British-American.",
-          "zh": "分析人士称该方案具有“British-American”所表达的特征。"
+          "en": "A British-American research team developed the vaccine.",
+          "zh": "一个英美联合研究团队研发了这种疫苗。"
         },
         {
-          "en": "The review examined a British-American approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种英美两国的的做法。"
+          "en": "The agreement deepened British-American defence co-operation.",
+          "zh": "该协议深化了英美防务合作。"
         }
       ],
       "mini_note": "双方并列作定语时应大写 British-American；不等于 British American Tobacco。",
@@ -10849,12 +10849,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as bread-and-butter.",
-          "zh": "分析人士称该方案具有“bread-and-butter”所表达的特征。"
+          "en": "Housing and wages are bread-and-butter election issues.",
+          "zh": "住房和工资是选举中关乎民生的基本议题。"
         },
         {
-          "en": "The review examined a bread-and-butter approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种关乎基本生计的的做法。"
+          "en": "Maintenance contracts are the company's bread and butter.",
+          "zh": "维护合同是这家公司的核心收入来源。"
         }
       ],
       "mini_note": "常见 bread-and-butter issue；也可指某人或企业赖以谋生的核心业务。",
@@ -10894,12 +10894,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as black-and-yellow.",
-          "zh": "分析人士称该方案具有“black-and-yellow”所表达的特征。"
+          "en": "A black-and-yellow warning sign marked the entrance.",
+          "zh": "入口处有一个黑黄相间的警告标志。"
         },
         {
-          "en": "The review examined a black-and-yellow approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种黑黄相间的的做法。"
+          "en": "The insect's black-and-yellow pattern deters predators.",
+          "zh": "这种昆虫黑黄相间的花纹能够吓退捕食者。"
         }
       ],
       "mini_note": "颜色并列作定语时用连字符；这里只描述外观，不含象征意义。",
@@ -10939,12 +10939,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as balance-of-payments.",
-          "zh": "分析人士称该方案具有“balance-of-payments”所表达的特征。"
+          "en": "A surge in imports put pressure on the balance of payments.",
+          "zh": "进口激增给国际收支带来压力。"
         },
         {
-          "en": "The review examined a balance-of-payments approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种国际收支的做法。"
+          "en": "Tourism revenue helped narrow the balance-of-payments deficit.",
+          "zh": "旅游收入帮助缩小了国际收支逆差。"
         }
       ],
       "mini_note": "经济学和宏观政策中的固定术语。",
@@ -10984,12 +10984,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as anti-competitive.",
-          "zh": "分析人士称该方案具有“anti-competitive”所表达的特征。"
+          "en": "The regulator investigated the platform for anti-competitive conduct.",
+          "zh": "监管机构调查了该平台的反竞争行为。"
         },
         {
-          "en": "The review examined a anti-competitive approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种反竞争的的做法。"
+          "en": "Exclusive contracts can become anti-competitive when one firm dominates the market.",
+          "zh": "当一家公司主导市场时，排他合同可能构成反竞争行为。"
         }
       ],
       "mini_note": "常见 anti-competitive conduct / practice；是否违法需依据具体竞争法标准。",
@@ -11029,12 +11029,12 @@
       ],
       "writing_examples": [
         {
-          "en": "Analysts described the proposal as alligator-infested.",
-          "zh": "分析人士称该方案具有“alligator-infested”所表达的特征。"
+          "en": "The hikers avoided the alligator-infested marsh.",
+          "zh": "徒步者避开了短吻鳄出没的沼泽。"
         },
         {
-          "en": "The review examined a alligator-infested approach in a different sector.",
-          "zh": "该评估考察了另一行业中一种鳄鱼出没的的做法。"
+          "en": "Rescuers crossed an alligator-infested river at night.",
+          "zh": "救援人员夜间穿过了一条短吻鳄出没的河流。"
         }
       ],
       "mini_note": "infested 常带负面或危险意味，常见 mosquito-infested / rat-infested。",
@@ -11074,12 +11074,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted all the more as a growing policy concern.",
-          "zh": "报告把更加列为日益重要的政策议题。"
+          "en": "The victory was all the more impressive because the team was exhausted.",
+          "zh": "考虑到全队已经筋疲力尽，这场胜利就更加令人赞叹。"
         },
         {
-          "en": "Executives discussed how all the more could affect their long-term plans.",
-          "zh": "管理层讨论了更加可能如何影响长期规划。"
+          "en": "Limited funding makes careful planning all the more important.",
+          "zh": "资金有限，使周密规划显得更加重要。"
         }
       ],
       "mini_note": "常与 striking、important 等形容词连用。",
@@ -11119,12 +11119,12 @@
       ],
       "writing_examples": [
         {
-          "en": "The report highlighted aircraft carrier as a growing policy concern.",
-          "zh": "报告把航空母舰列为日益重要的政策议题。"
+          "en": "The aircraft carrier entered the Mediterranean with its escort ships.",
+          "zh": "这艘航空母舰在护航舰艇陪同下驶入地中海。"
         },
         {
-          "en": "Executives discussed how aircraft carrier could affect their long-term plans.",
-          "zh": "管理层讨论了航空母舰可能如何影响长期规划。"
+          "en": "Operating an aircraft carrier requires thousands of sailors.",
+          "zh": "运营一艘航空母舰需要数千名水兵。"
         }
       ],
       "mini_note": "单数形式；复数为 aircraft carriers。作定语时原文偶见连字符。",
